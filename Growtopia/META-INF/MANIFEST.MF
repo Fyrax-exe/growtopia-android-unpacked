@@ -1,0 +1,5998 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/interface/large/network.rttex
+SHA1-Digest: mMxCZ4QwdXt61WOOa2UjS4uAQCE=
+
+Name: assets/game/pets/p_gudr.rttex
+SHA1-Digest: EPJoDjvAzY8uIcHDCuHfmPHZfps=
+
+Name: assets/game/wn_zod.rttex
+SHA1-Digest: FqFYqU9wfhqN8cQxwnd7TsGYKxM=
+
+Name: assets/audio/notes/spanish_guitar_11.wav
+SHA1-Digest: sMgHOFXEgz3kWgk8i5MOKF1cNdk=
+
+Name: assets/audio/getpoint.wav
+SHA1-Digest: Va/p/BdPHl9r6CDTwCQs+FgfccA=
+
+Name: assets/game/gd_snpw.rttex
+SHA1-Digest: XrPrwaNM/xOO4lfvr67XYXPWQUc=
+
+Name: assets/game/p_lobi.rttex
+SHA1-Digest: 1R51E/cluRwpnzpuPOZPL8sQiW8=
+
+Name: assets/interface/flags/in.rttex
+SHA1-Digest: 2BqDB9ZzHvSeC0vTCPNgWvDZ6Ok=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: Db3E0/I85K9Aik2yJ4X1dDP3Wq0=
+
+Name: res/layout/window_frame.xml
+SHA1-Digest: z4HgFfy8X2OgtI9i8xkFLHZvwyE=
+
+Name: res/layout/item_invite.xml
+SHA1-Digest: 0URedW9fZKBgIleqDUwj8PvmDkk=
+
+Name: assets/audio/notes/sax_13.wav
+SHA1-Digest: i1ckCuXa95SZjwccMwJflL57hgw=
+
+Name: assets/interface/large/store_buttons24.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/pf.rttex
+SHA1-Digest: XpavjUOzGlkPtJ6jy+kRje4b++M=
+
+Name: assets/audio/notes/spooky_24.wav
+SHA1-Digest: +8xQQjlOycdc7VGY96IjXEnkbUc=
+
+Name: assets/game/potfir.rttex
+SHA1-Digest: u8VseLPEU+lXnX4xXqkcHyRDS4Y=
+
+Name: assets/audio/slashquick.wav
+SHA1-Digest: ZAuhQH7E7e01ggcRqcGZ6pilE6Y=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: XwI93Zyt8z66HPZuqkd2z20Acik=
+
+Name: assets/game/player_feet5.rttex
+SHA1-Digest: Cp35NRsIm1b8iY9ZJ3N8w64pBCM=
+
+Name: assets/game/su_skyline2.rttex
+SHA1-Digest: IA0jVsjhJG7Jv7EutHH3SlU4K7k=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.
+ 9.png
+SHA1-Digest: PD6LFbYDHkwrXUCeFX8KBjf6IpI=
+
+Name: assets/interface/flags/fam.rttex
+SHA1-Digest: yc3sD2D3owATYuAzcuSr3zg/nVU=
+
+Name: assets/interface/flags/gh.rttex
+SHA1-Digest: c520WQbLV4YHDdtF3ED3hzsfGk8=
+
+Name: res/layout-v17/expanded_media_view.xml
+SHA1-Digest: WJQ9SWMZ2zmRclyGQ8gKQvoBeIE=
+
+Name: assets/audio/notes/violin_3.wav
+SHA1-Digest: ncDWJmX3L4j6IILMf1eB6J+irnY=
+
+Name: assets/game/player_cosmetics1.rttex
+SHA1-Digest: TqTpjJLsAEOzjoMfLTdR7mZ70XE=
+
+Name: assets/game/mtn_vulbg2.rttex
+SHA1-Digest: lp9ulk4IL6ckheVWwWAKsH10Gis=
+
+Name: assets/interface/flags/tw.rttex
+SHA1-Digest: A31eX+xCJqxJPv1kvMPNYHA0/dE=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.
+ 9.png
+SHA1-Digest: XbL4/EexL9SEOLYsDUq4L+HrkKw=
+
+Name: assets/interface/large/wtr_lvl9_krdvbn.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: res/layout-v17/item_notification.xml
+SHA1-Digest: eVxe3pfW6bz7LTMkLjZ/Wp9gUos=
+
+Name: assets/interface/flags/ky.rttex
+SHA1-Digest: UUgPi7GAE1v+T8qASxANHGR/J38=
+
+Name: assets/audio/love_in.wav
+SHA1-Digest: JvQxB0q9Q40EclFEjy80kSGj7lA=
+
+Name: assets/interface/flags/is.rttex
+SHA1-Digest: d/mW3eafhiaj4l3lU0In0ICd+iY=
+
+Name: assets/game/a_heartbg.rttex
+SHA1-Digest: 42It55gEOsLh3/YKUtiSVGwvsOc=
+
+Name: assets/audio/splash.wav
+SHA1-Digest: 1JmIFOfsO0MGVCl+iKTyYIqam/Q=
+
+Name: assets/game/pingy.rttex
+SHA1-Digest: 0G+G3rthFPYwHs7HNI1bUWmYNtU=
+
+Name: assets/interface/flags/tr.rttex
+SHA1-Digest: LZ61LfvJ3DBh4Zfa5IMsehlrjVY=
+
+Name: assets/interface/tutorial/tut_messages.rttex
+SHA1-Digest: GYAzw/kY3ddZmjKu1TS2DgNzBEM=
+
+Name: assets/interface/flags/mz.rttex
+SHA1-Digest: InQT8ZP0wyox0pHen0YMNqeaJnk=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused
+ .9.png
+SHA1-Digest: CV8Ik+WFQXcc1niyHIXxYl8tisY=
+
+Name: assets/interface/font_century_gothic_big.txt
+SHA1-Digest: LeaS5dpNU6ESB9VEu7mXx83umrA=
+
+Name: assets/audio/notes/festive_8.wav
+SHA1-Digest: +WzSl2AXHH2QztIM0sTdtRm5opY=
+
+Name: assets/audio/notes/piano_13.wav
+SHA1-Digest: +8aX8FkakbGwQjwyFJuT4TMAvgk=
+
+Name: assets/audio/notes/flute_5.wav
+SHA1-Digest: pKzkLds13Zw72Lbx82UEa7QAL4A=
+
+Name: assets/audio/ogg/startopia_theme.ogg
+SHA1-Digest: esbZLkVR60d1E/8bWTFDonyKTmE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused
+ .9.png
+SHA1-Digest: SOhR5GCOUqe70TYRd9VxgT/ZUIg=
+
+Name: assets/interface/flags/pk.rttex
+SHA1-Digest: QAe6nejOkUBqaumJ9Qm3PhZUtEA=
+
+Name: assets/interface/large/store_buttons29.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/big_rainbow.rttex
+SHA1-Digest: 59DaFnZMAbHnTOkxvA9FwwL2vxo=
+
+Name: assets/interface/flags/bv.rttex
+SHA1-Digest: ixlniPI2EPRRM7e0ICUtr50lzak=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.
+ png
+SHA1-Digest: l5UsEBUhulJfrH0u/jDnuRagz8Y=
+
+Name: assets/game/gd_tl.rttex
+SHA1-Digest: UBKSA7Q2QvweMnO6lQ/cW8K1cTg=
+
+Name: assets/interface/large/event_button.rttex
+SHA1-Digest: BpDE6/2fa8E/+8sOyW5kh1T00dc=
+
+Name: assets/interface/large/store_buttons/store_buttons30.rttex
+SHA1-Digest: XlKj987cvuUx1dr9maTUqsveQw0=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.
+ png
+SHA1-Digest: lZmFfj1bZJ1EjqTkz+72Qp41lbY=
+
+Name: assets/interface/large/wtr_lvl5_suenfa.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: assets/game/busy_chatting.rttex
+SHA1-Digest: g8KvnGczCJsKneUZckF0DsFRouQ=
+
+Name: assets/game/pit_santh.rttex
+SHA1-Digest: SGiCtnRKWTOxb1XtBLuWvzkxD9g=
+
+Name: assets/audio/hiss2.wav
+SHA1-Digest: bzEJkm9HFTE0SOdhqzSE4Cc/dkU=
+
+Name: com/tapjoy/res/tj_close_button.png
+SHA1-Digest: m97VL++AjPPMWodt3CJ38F4XyBY=
+
+Name: assets/interface/large/vignette.rttex
+SHA1-Digest: iXuX1qnKiI/7HhM5WefZvujSxvQ=
+
+Name: assets/interface/flags/eg.rttex
+SHA1-Digest: xx86DTM53EA6Y4vveIg85UGyXmM=
+
+Name: assets/interface/large/rtg_banner.rttex
+SHA1-Digest: V6ppRmdRBIcrjs6kbKc6IKeU410=
+
+Name: assets/audio/terraform.wav
+SHA1-Digest: SvMC/QDoRD2BG4zXkfgecqdwMK0=
+
+Name: assets/audio/coin_flip.wav
+SHA1-Digest: 8BqoQyaRX84cHO1UM9hDRoCVwhE=
+
+Name: assets/game/p_oll.rttex
+SHA1-Digest: LUm1gZzif6hMs/mlLyhF+XpEfeU=
+
+Name: assets/game/lb9_back.rttex
+SHA1-Digest: LHYuKAqn7A1cTJDGgfDjsYukNMg=
+
+Name: assets/game/pets/p_muttony.rttex
+SHA1-Digest: GERP8OE0OyThExvySZPIrmO+S0g=
+
+Name: assets/audio/notes/sax_9.wav
+SHA1-Digest: YrBDkZrExXirNMggrJL5rF0aEk4=
+
+Name: assets/game/pets/p_wonc.rttex
+SHA1-Digest: Px2gO8bPA/1AcsTSNpVdGo5GimI=
+
+Name: assets/interface/tutorial/tut01_create_world.rttex
+SHA1-Digest: KPlecHn7PmVgCY7BDptYdRRX/B0=
+
+Name: assets/audio/notes/festive_15.wav
+SHA1-Digest: 0p9xVY/yTMYA/3i/z54jIOIeZhs=
+
+Name: assets/audio/notes/spanish_guitar_20.wav
+SHA1-Digest: j/9gAHFQi+b4NxjOurKcJBnUOhM=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ .9.png
+SHA1-Digest: M9Wh+ra0liqJvKmo4aS1r5iTurE=
+
+Name: assets/audio/notes/spooky_15.wav
+SHA1-Digest: +y+QPgVVruyXXCK5A0lfdc3zS5I=
+
+Name: assets/game/player_feet2_icon.rttex
+SHA1-Digest: HCqaiTvbM2d6zVyhkGIYq6HWzfA=
+
+Name: assets/game/gd_page2.rttex
+SHA1-Digest: AmefKUS71YDQz20006qb+CUHqEM=
+
+Name: assets/game/pets/p_eudg.rttex
+SHA1-Digest: tI/TF2MPUmRiu+24Ju07GkZghWI=
+
+Name: assets/audio/thousandSlash.wav
+SHA1-Digest: x4vFKpCDWB9YxeJSOEjjecY78ok=
+
+Name: assets/interface/flags/europeanunion.rttex
+SHA1-Digest: fzKIxtCsJdWzgHUVcKeGOvHPN10=
+
+Name: assets/game/pilt_moma.rttex
+SHA1-Digest: C6JrT1C1rMuJAdOYrVmxmpUL6Io=
+
+Name: assets/interface/tutorial/taptocontinue.rttex
+SHA1-Digest: 22ayyZKDyJdGrI298j4cUmpgOQU=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: 3skkvHvtJx5ZJAf3Yq6Km0sbth4=
+
+Name: assets/game/jungle_tree.rttex
+SHA1-Digest: R6e/fPRPM06dZ1FRmV/d/AqvCUg=
+
+Name: assets/interface/tutorial/tut_shadow-overlay.rttex
+SHA1-Digest: nwevH28d8iDG5JdoW1ifGNesXoQ=
+
+Name: assets/game/player_extraleg.rttex
+SHA1-Digest: QsY4d1uiqe8HGMprb38AIC9fhAs=
+
+Name: assets/audio/notes/spanish_guitar_4.wav
+SHA1-Digest: 0MA/p8usYvg03hQfc4K0kq4Hk58=
+
+Name: assets/game/pih_devleg.rttex
+SHA1-Digest: HPy4CfGXIuWFW5JlQ3DfV3Xtvzk=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focuse
+ d.9.png
+SHA1-Digest: Mov7e4t+igz68pMs9Fp8jW0ElF4=
+
+Name: assets/game/particles_large2.rttex
+SHA1-Digest: Q/QmcX2GGYWU6JN5rBkUQ8QCPKw=
+
+Name: assets/interface/large/wtr_lvl4_wucnea.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: assets/game/p_brn.rttex
+SHA1-Digest: Lec4Jted44uGdv7CojcYnB4FswI=
+
+Name: assets/game/sunset_water.rttex
+SHA1-Digest: PVD/LLltYVUGEDr+fDpAzAQJdkc=
+
+Name: assets/game/player_back.rttex
+SHA1-Digest: uxVJgrlbqs+Zbv6IVhSKOcIyyTI=
+
+Name: assets/interface/flags/gr.rttex
+SHA1-Digest: EUl5idPT1x1Jfk1vrNgpf1BP71A=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9
+ .png
+SHA1-Digest: 4nKDKRBgH+e1A8REAXCDk2dwGN4=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn04.rt
+ tex
+SHA1-Digest: +/aHACfXujs6q6gwVDEMkEOTtmk=
+
+Name: assets/audio/notes/violin_12.wav
+SHA1-Digest: GTEA+GROS5As0M96fu1aLlzxtg4=
+
+Name: assets/interface/flags/bg.rttex
+SHA1-Digest: nBJbJFVifjqvPFrDXyndqKvL/1g=
+
+Name: assets/audio/reality_tear.wav
+SHA1-Digest: yoklcsxrqOTZ0J8e3FwnxsCEqnk=
+
+Name: assets/audio/boo_pke_warning_light.wav
+SHA1-Digest: tr32Pp6pBx1g2aFn+vyPs8hqQMc=
+
+Name: assets/audio/notes/flute_3.wav
+SHA1-Digest: OdvsBXwlQ6FMwy4bkZSN0WMXUMw=
+
+Name: assets/game/p_rana.rttex
+SHA1-Digest: sqEX2/60mK0JXjpdy5NeuO02St4=
+
+Name: assets/audio/fire_pop.wav
+SHA1-Digest: GxW4paXnH0qHgrMAKctk0obvARM=
+
+Name: assets/game/player_longhanditem2.rttex
+SHA1-Digest: YoCvoNlqnEwd/6BVH7qmi8/lqjc=
+
+Name: assets/interface/large/social_share/social_btn05.rttex
+SHA1-Digest: r9O3Ns0P4Zt+cyrp42+9X57+MJ8=
+
+Name: assets/interface/flags/th.rttex
+SHA1-Digest: 7Ng8v8+QLqYgb/vNbObuL5fD7mg=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.
+ png
+SHA1-Digest: DuaqFAiz1kirAaves6m3QbjZxnU=
+
+Name: assets/interface/flags/sa.rttex
+SHA1-Digest: bCLi4g98PhXpT17R99m6ta2jz8A=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: e5sAcvCut6H6EMW0EnTfHFeDLt4=
+
+Name: assets/audio/notes/flute_13.wav
+SHA1-Digest: c5fK1lPw7ii8aPJ1EfH2vq+cSWo=
+
+Name: assets/audio/notes/piano_22.wav
+SHA1-Digest: mir30NksNZwH+Wg8dUjC1IVNjHQ=
+
+Name: assets/interface/flags/pa.rttex
+SHA1-Digest: 7YjlYecKHf8LIhziOj9pHOeoSeM=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: DlvYU2E1FscxNKfQZJltxmHLGSw=
+
+Name: assets/game/pelyca.rttex
+SHA1-Digest: 5ruzXY5I34fhCuX/7gAoNWuUk5c=
+
+Name: assets/audio/notes/piano_3.wav
+SHA1-Digest: rX5JrU1JGWgd63inIqn4Q+4iG78=
+
+Name: assets/interface/flags/mp.rttex
+SHA1-Digest: 7RBiXUjBm7BgQBx0H4bzJEjVJdo=
+
+Name: assets/game/player_back2.rttex
+SHA1-Digest: anR/X4yII/fgAVUSYgKuj8B2QRM=
+
+Name: assets/game/pih_teeth.rttex
+SHA1-Digest: 1bR/qMADUmQwHIZvcSAn8gZXq5U=
+
+Name: assets/audio/notes/bass_8.wav
+SHA1-Digest: XOmjq3D8ENG6T4pPfN8XEvNr+DQ=
+
+Name: assets/audio/notes/festive_22.wav
+SHA1-Digest: zYgjfqmOhUHwYQV7T3H7+4t62TY=
+
+Name: assets/audio/jelly_squelch.wav
+SHA1-Digest: +tVUR25FJ/cNKbzaSQ9E/CQ+61A=
+
+Name: assets/audio/notes/drum_1.wav
+SHA1-Digest: PYeyYSqB4HZ+u8wysYeL1wtqWYM=
+
+Name: assets/game/ld_rtent.rttex
+SHA1-Digest: coL/iUIA0kQrMXYBzkK3zzjwcWQ=
+
+Name: assets/game/pt_rin.rttex
+SHA1-Digest: YQpRoQDJ4zH2Lf0ueQP4rSnkMcs=
+
+Name: assets/game/player_faceitem6_icon.rttex
+SHA1-Digest: hVwMRqXz1XpPdK4JFGMEay2OalQ=
+
+Name: assets/audio/mlaunch.wav
+SHA1-Digest: 7KPNnF+Y5i55LKQfGXhTXOgcWL0=
+
+Name: assets/interface/flags/ca.rttex
+SHA1-Digest: Lb3l8yr2KPB4iVmu5SaiRxBieKQ=
+
+Name: assets/interface/flags/li.rttex
+SHA1-Digest: I41nMgTjKhMr/aCp5YJsFOQfqx8=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.
+ 9.png
+SHA1-Digest: bdc6AfF9Y6gjaLQ44Qo9/ckSFTg=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focuse
+ d.9.png
+SHA1-Digest: F3hXDXY0VbI9vUOZxAuZk9MAVPs=
+
+Name: assets/audio/notes/electric_guitar_3.wav
+SHA1-Digest: Q/UyNIz3Cr/zaXDV1/NxxIdx5G8=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: uKjy3icAwgNrSX+rC27uyDn9DRI=
+
+Name: res/raw/default_configuration.json
+SHA1-Digest: upgGbjIqY5L3r1msAK2wK1dEOqY=
+
+Name: assets/audio/clatter2.wav
+SHA1-Digest: 0O/q66pLYqtPpqbKYtXNxAAuOh8=
+
+Name: assets/audio/notes/spooky_22.wav
+SHA1-Digest: DcWP47a6SDu9dJ05dOGySofXu18=
+
+Name: assets/interface/flags/tc.rttex
+SHA1-Digest: Rr6b1fcpFHV11vdt8lJ7DlR5M1c=
+
+Name: assets/game/city2_skyline.rttex
+SHA1-Digest: iGeHDJw/lclaDn6X7PKCM/uKMxw=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: T9DtQx4gw7FhUbS8BqoxFj/Zj+M=
+
+Name: assets/interface/large/gazette/gazette_3columns_btn01.rttex
+SHA1-Digest: WwfTwVdJwFITSLx698YOEwjSsSU=
+
+Name: assets/game/pv_rspdt2.rttex
+SHA1-Digest: 0I3fRnmgDri2VVMrTkmRIeJUEZM=
+
+Name: assets/game/spook_house.rttex
+SHA1-Digest: w2OMAxFiW6epxHgZkrTnxg4gtRg=
+
+Name: assets/interface/flags/ck.rttex
+SHA1-Digest: azKkxU5toBtKH5jljHbg1xL+4R0=
+
+Name: assets/interface/large/chat_button.rttex
+SHA1-Digest: JS6OT7wccpblZIWPJiAYLGp9lWo=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9
+ .png
+SHA1-Digest: JufUEiVSWvBstaJD1wOyOhFO3H4=
+
+Name: assets/audio/object_spawn2.wav
+SHA1-Digest: 9zQ7UHV9R2vQHJXVuwd37uLcnZ8=
+
+Name: assets/audio/notes/electric_guitar_5.wav
+SHA1-Digest: lTJBQ9jAt4T3Ys2glWLlIlu0A48=
+
+Name: assets/interface/flags/vn.rttex
+SHA1-Digest: hdCnTQuWpNFbtSW1wgbmc/7vtiE=
+
+Name: assets/audio/ogg/theme3.ogg
+SHA1-Digest: xSQqHzUjyh5rigofUaERO6VoKyM=
+
+Name: assets/game/bf_begchmp.rttex
+SHA1-Digest: PuSjvsNrsB7MdDT/YHldFgF1BLU=
+
+Name: assets/audio/notes/lyre_1.wav
+SHA1-Digest: On5xr1cLavzpRJTHxQ/0WKRi3hQ=
+
+Name: assets/game/player_feet.rttex
+SHA1-Digest: /UeShhHDyF9lf2U4Pfy9G2P41iI=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9
+ .png
+SHA1-Digest: zApEdBv8BYnpOXP+zFBDGdRu+/4=
+
+Name: assets/audio/glass_hit.wav
+SHA1-Digest: 1QbWhoecOOeOVRLpJ53MJN9URDk=
+
+Name: assets/interface/large/jump_icon.rttex
+SHA1-Digest: YFLI0PRypipTZEO2LIHmtqGxCes=
+
+Name: assets/audio/arrow_thwip.wav
+SHA1-Digest: 96nf3Hmln9cY91rnslqegPDV4Ns=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn01.rtt
+ ex
+SHA1-Digest: zLLH57LMPfTpT5V34Mb5sjyr378=
+
+Name: assets/audio/notes/festive_6.wav
+SHA1-Digest: EBBvE7DixKXAKTzH47V8wyhl3AU=
+
+Name: assets/audio/shower.wav
+SHA1-Digest: Pjck8tf0+T9fCj5C3nC6PyfB7RE=
+
+Name: assets/game/pih_lwahe.rttex
+SHA1-Digest: AfepQwH63VHjwHBywACJEFDKgEY=
+
+Name: assets/interface/large/social_buttons02.rttex
+SHA1-Digest: 9bjKQExivMuovsBS4cmMe6Swqfw=
+
+Name: assets/interface/large/store_buttons/store_buttons26.rttex
+SHA1-Digest: XVoi9Se+wH3ti0K/jtLUr9Abgx4=
+
+Name: assets/interface/flags/ls.rttex
+SHA1-Digest: EDLUYrtybVhlW8/fJ7ryj2vw/IQ=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focus
+ ed.9.png
+SHA1-Digest: MsjQKJJjntrrfNU5RsAgfUMVa5E=
+
+Name: assets/audio/notes/flute_20.wav
+SHA1-Digest: gtR5e5ne+IEfYs1odSKylbgZdgw=
+
+Name: assets/interface/large/gazette/gazette_3columns_community_btn03.
+ rttex
+SHA1-Digest: vyt/tJOelnpgziR1H5sOpATD4jU=
+
+Name: assets/interface/large/skin_selected_marker.rttex
+SHA1-Digest: OyLGTwllfogESeMcuUhzvN3ojmE=
+
+Name: assets/game/tiles_page15.rttex
+SHA1-Digest: GJUkGjO+5IP69WWy90HYvJaFzD0=
+
+Name: assets/game/player_handitem_icon.rttex
+SHA1-Digest: aMDECahs+ysG7pykbXs5ProaG4E=
+
+Name: assets/game/player_head_skin5.rttex
+SHA1-Digest: 8Kb1esWeOOsl719VVL9q86DWxdc=
+
+Name: assets/game/petshp.rttex
+SHA1-Digest: SKByOYmNO24W2DWQ/RBQYEb7UzQ=
+
+Name: assets/game/player_feet11.rttex
+SHA1-Digest: epeTae9tN00ZyHBfGZEkGQ7iTIw=
+
+Name: assets/game/player_feet9_icon.rttex
+SHA1-Digest: Y2L9u/OWKi7Ec6QghdRV6wz/gF4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed
+ .9.png
+SHA1-Digest: Z47Ytqk1ljeVWpMZQ9eu2WmC2h4=
+
+Name: assets/audio/hiss4.wav
+SHA1-Digest: OtDkRaGvAB5j1TBEBLmxaNknmJQ=
+
+Name: assets/interface/tutorial/tut_clothing.rttex
+SHA1-Digest: NdZlJ4B7phz4hHRVtR3awLnzsHo=
+
+Name: assets/audio/fart6.wav
+SHA1-Digest: qelslZUa/sCbm3tq7lInvn8gxFE=
+
+Name: assets/interface/flags/sk.rttex
+SHA1-Digest: MFb2wVZRs6WzVeJ8Q/7Cy+B6PSc=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabl
+ ed.9.png
+SHA1-Digest: 57iMngghSSeK35fXJXF7KvHkbIg=
+
+Name: assets/audio/cracker_bang_2.wav
+SHA1-Digest: Rb2PaoFPtgjwGXWKiaVmZk1wIS8=
+
+Name: assets/game/field2_back.rttex
+SHA1-Digest: /MtRCJzcm5CpF+0ExlnF5Kh9dCc=
+
+Name: assets/game/mtn_cloud_02.rttex
+SHA1-Digest: ueZ1eFQK9rOt0N9rzac5rB0VhwU=
+
+Name: assets/game/pot_kip.rttex
+SHA1-Digest: 4+UREQeHNPbLwg8jZwPnyGaQVv0=
+
+Name: assets/game/pepina.rttex
+SHA1-Digest: KkkUJQJA6mwB/5hP/zCRKj/AM0Q=
+
+Name: assets/audio/notes/piano_15.wav
+SHA1-Digest: BcoDEX2okjHx9Fd97vBuEfAfzDo=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: McAG+fXzx98US1ehEBVWZHn2S58=
+
+Name: assets/audio/notes/electric_guitar_18.wav
+SHA1-Digest: qNz61JHk8H1FeOSFH4kpBo561ic=
+
+Name: assets/interface/large/store_buttons/store_buttons19.rttex
+SHA1-Digest: R+3DtRXrMex11BS5SkVksO1VfWg=
+
+Name: assets/audio/notes/flute_7.wav
+SHA1-Digest: EpKJMwsTh15H76q1WYkfATsEf9M=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: 8u0bUjTRiItNNOSuXFHtlEn/gS0=
+
+Name: assets/audio/notes/sax_11.wav
+SHA1-Digest: 3Ip1JMu+jhQJtIFPHM0rd+GyvuM=
+
+Name: assets/game/pet_frank.rttex
+SHA1-Digest: 2F9wyTcK4UHMNUbrd8k2FQJSiRA=
+
+Name: assets/game/gd_dth.rttex
+SHA1-Digest: 8V/9k2uF7e+xAqGzu9fn+qgDIyE=
+
+Name: assets/audio/eat.wav
+SHA1-Digest: yQVLXpFaLTMLkc078tkc1GqYIBY=
+
+Name: assets/game/pet_ddr.rttex
+SHA1-Digest: cg0eR6wi7qysqCg65Xez4UE8Rfk=
+
+Name: assets/game/icebg_4.rttex
+SHA1-Digest: PNaFCNPajY76C9Mnf8PIw6jB6S0=
+
+Name: assets/interface/large/gazette/gazette_5columns_btn04.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/audio/hub_open.wav
+SHA1-Digest: UKHNmSaToWS0CrFVrWlq7DmYErk=
+
+Name: assets/interface/flags/ar.rttex
+SHA1-Digest: 0GBPJGo2a0Bj2/SMVEnJLCBSGOo=
+
+Name: assets/interface/large/store_buttons/store_buttons21.rttex
+SHA1-Digest: FAbbAEHfZ9iXyRzd8iNgeL5aI/k=
+
+Name: assets/interface/large/store_buttons/store_buttons14.rttex
+SHA1-Digest: E8s8qm5DBQZp/CtzgcGnHIt+YWg=
+
+Name: assets/game/pets/p_emdr.rttex
+SHA1-Digest: kEjrCNumySuP58dih66jcr3z7OE=
+
+Name: assets/interface/tutorial/tut11_doors.rttex
+SHA1-Digest: CSitjSBzV2bQEWmSNIRir7U0rrM=
+
+Name: assets/audio/notes/violin_10.wav
+SHA1-Digest: KO02VaYDUer5Mx/GUEQM9v482F0=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: /W4OrfwNPOg1Z7GUGETUjg0F3Ec=
+
+Name: assets/game/mx_benspoint.rttex
+SHA1-Digest: 3T07uFx9uHaFltO09rhljF+PxeM=
+
+Name: assets/audio/belch2.wav
+SHA1-Digest: ZiAr7IgkGHKdQ0eWKhQB5jaYlPo=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: hGxYtyNOqukCwnfK4rrBM7qS1nc=
+
+Name: assets/interface/large/store_buttons6.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/ptdag2.rttex
+SHA1-Digest: 6n97am7B2gyrdWrym/Z4D+aL6rQ=
+
+Name: assets/game/icebg_1.rttex
+SHA1-Digest: ZHKACSFGx2dh45blst8m9bwxv8k=
+
+Name: assets/audio/ogg/disco.ogg
+SHA1-Digest: XJavNVaHel/hgbR0IxLHv8yOizo=
+
+Name: assets/interface/large/store_buttons/store_buttons2.rttex
+SHA1-Digest: gQNzOFUm4bNnJ2dxh+Hq2JcUsDs=
+
+Name: res/drawable/icon.png
+SHA1-Digest: +5ShaX7dths7Mq6CLMtwCsCOQiE=
+
+Name: assets/audio/notes/piano_5.wav
+SHA1-Digest: yA7nm1htMqZIkSmGlhsJCOSM+j4=
+
+Name: assets/interface/flags/ao.rttex
+SHA1-Digest: +npSSQZaEjSRN7enmRPXP8UZ874=
+
+Name: assets/interface/large/adventure.rttex
+SHA1-Digest: qfEW9XnJNyaRnSpb3UDHtEgaDz8=
+
+Name: assets/game/io_phari.rttex
+SHA1-Digest: 31KDM7W8wvT91VrV9PQB8tLqpVg=
+
+Name: assets/audio/notes/festive_13.wav
+SHA1-Digest: gaHcI6rLvJ+Y4fve9e9+Oo42i3w=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: vKOIeJu8N7w/3us3rCupC1YrXlY=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: j7yZZ/F8sa0O1mSNZOn3/+sY6/w=
+
+Name: assets/game/su_hill1.rttex
+SHA1-Digest: GyuJpPnXxH1XdILGubwUBxCAZ+Y=
+
+Name: assets/audio/notes/flute_22.wav
+SHA1-Digest: PoytTaZyvUoMPYBWU/bFQ53aYEI=
+
+Name: assets/game/p_cihpmk.rttex
+SHA1-Digest: yj/4GJBpFk4lXHwPe7WUKd3UGF4=
+
+Name: assets/game/pih_haskel.rttex
+SHA1-Digest: NbMGGThnXQt0EcFGNd+hHlte2/w=
+
+Name: assets/audio/ogg/bagpipes.ogg
+SHA1-Digest: wKu+sqQ+lylu1JeeJ9srj/iBkV4=
+
+Name: assets/interface/large/wtr_lvl8_mewhvs.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: assets/game/pelukd.rttex
+SHA1-Digest: jkHLXuvjsq8hGCjpJahhzO4dD/A=
+
+Name: assets/game/player_chestitem2.rttex
+SHA1-Digest: qB86ntRaQHHD8rfjpi3eYo2UD4E=
+
+Name: assets/audio/notes/bass_6.wav
+SHA1-Digest: g45m4Jb4zCsyOGUZc3wI39QaZAw=
+
+Name: assets/game/pets/p_mcbtlr.rttex
+SHA1-Digest: /WcH0cjKfVv+YGoYUeli3+olP7w=
+
+Name: assets/interface/flags/ne.rttex
+SHA1-Digest: w55U6QCEZCtfRrYYADcFGY/VnQg=
+
+Name: assets/interface/flags/master_icon.rttex
+SHA1-Digest: 6gFDEi3GizQg66h0YYjPMYZYZMU=
+
+Name: assets/audio/notes/festive_20.wav
+SHA1-Digest: Nq9AqxK9gdNjQL1UwrTgTPTsT1A=
+
+Name: assets/audio/notes/spanish_guitar_6.wav
+SHA1-Digest: Ypx7+/aKhxlrhdLXmz/3Mnt5EQY=
+
+Name: assets/audio/ogg/suspended.ogg
+SHA1-Digest: BvIBqAZt3NCNojC8XTipGckDDWo=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.p
+ ng
+SHA1-Digest: uJLxwYql9Vov6GZ6GNnwf/ktTzU=
+
+Name: assets/audio/ogg/loonysong.ogg
+SHA1-Digest: I5bXsP4aVfiOvMr1rnRQjuCvEo8=
+
+Name: assets/game/player_faceitem5.rttex
+SHA1-Digest: KKm3vvT3vS3mqBKIanFk9DB4bFc=
+
+Name: lib/arm64-v8a/libgrowtopia.so
+SHA1-Digest: hQOSpw5DErKFVyCLbpbE4Xg3rBM=
+
+Name: assets/audio/ogg/conga_bongos.ogg
+SHA1-Digest: rQ1QLS9DR9xl1k8Xif9VPVpL2BI=
+
+Name: assets/game/player_feet13_icon.rttex
+SHA1-Digest: WGEuXUZNjzTaxTOrP4n+K/gp71I=
+
+Name: assets/interface/flags/cf.rttex
+SHA1-Digest: CCp12PkHmmJTdH9wuJZ8N9lhzN0=
+
+Name: assets/interface/large/infected.rttex
+SHA1-Digest: ZC9kzgrb6MHYj03LxnIHvBZ8Lv4=
+
+Name: assets/audio/notes/violin_5.wav
+SHA1-Digest: WUPIQcdQ1H7kowFpW3ZXeHmh/7M=
+
+Name: assets/game/player_hair_monthly1.rttex
+SHA1-Digest: DYq6E/F716IfX0YP/9SvJHThsyM=
+
+Name: res/layout/expanded_media_view.xml
+SHA1-Digest: VfuX4OhNxIwhirPiRCoCwu118+I=
+
+Name: assets/audio/dialog_confirm.wav
+SHA1-Digest: xHOr9RmAMuDAdIM1DHVtuXRyVFQ=
+
+Name: assets/audio/notes/flute_15.wav
+SHA1-Digest: L01rSbpAEqS55r7xWOuMpKjyQhQ=
+
+Name: assets/interface/flags/mk.rttex
+SHA1-Digest: 1mVIFkGoXtfIOn1ZSbe2LaJGGVY=
+
+Name: assets/audio/ratatat.wav
+SHA1-Digest: npf+WsWb/6PV+ETGhyvkYJjgZTE=
+
+Name: assets/interface/flags/gm.rttex
+SHA1-Digest: YcONNXmRGFxeWzlbCGfjELzZqFo=
+
+Name: assets/interface/large/gazette/gazette_full_btn.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.
+ 9.png
+SHA1-Digest: Hb6MgqhWpoOmdUTygaGRcKTLi3c=
+
+Name: assets/audio/notes/spooky_17.wav
+SHA1-Digest: zV4eivr0BErAhN6X2REZ+taDUvk=
+
+Name: assets/audio/ogg/tropic.ogg
+SHA1-Digest: Fpbsfzo77TZEpLhV1S/SQHhDsS0=
+
+Name: assets/game/Balloon_04.rttex
+SHA1-Digest: iJ0JKLjTm1uNKA90j7O4bwlzIAc=
+
+Name: assets/interface/flags/id.rttex
+SHA1-Digest: rCDcC986dtvW6w6ye1chjZMWZ58=
+
+Name: assets/interface/large/gui_store_button_overlays2.rttex
+SHA1-Digest: zsVuuTONUFW2H4K90XlyBXcED+c=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: Lr1rT77u4xVy62jD1bXjSVwID+s=
+
+Name: assets/game/pigeon.rttex
+SHA1-Digest: 1Hu3SGBWY3pnQX53kR1tIEKhw6Q=
+
+Name: assets/audio/ogg/paddys_day_loop.ogg
+SHA1-Digest: /I0A2dRe9ZAP/+4E7jgyUBmFZLY=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn06.rtt
+ ex
+SHA1-Digest: t3Gpo2Z/8cniu25mMcJ2JkYpLSU=
+
+Name: assets/game/player_feet_monthly1.rttex
+SHA1-Digest: kQyO4GDs171JRrlDI5VO0VMpKXc=
+
+Name: assets/audio/notes/piano_20.wav
+SHA1-Digest: Y+RUwzYnC8f3E8Ck9bSJ2QxGqiI=
+
+Name: assets/audio/notes/flute_17.wav
+SHA1-Digest: wxI1alFwROO3bgzdOrltJk+Isv8=
+
+Name: assets/interface/flags/cn.rttex
+SHA1-Digest: op6wslG2/ivQTgmmnCqOMC9E1hw=
+
+Name: assets/audio/notes/bass_20.wav
+SHA1-Digest: 51uSTmK9bck4rZkDPDQUkeU4Vzo=
+
+Name: assets/audio/weird_hit.wav
+SHA1-Digest: tIR2TWqlAHqrYUNQF3KXEQ9/KRg=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn04.rtt
+ ex
+SHA1-Digest: WZIe1GElTQ/pk4Vr4DYFC15gXTY=
+
+Name: res/layout/sectionheader_notificationcenter.xml
+SHA1-Digest: zibjNS/I3/u9H6i0oTkY4aTkU00=
+
+Name: assets/interface/large/wtr_lvl7_qucnem.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: assets/game/tile_grid_overlay.rttex
+SHA1-Digest: AtAj0LaLf0VrI71+Pb98KrVUH3o=
+
+Name: assets/audio/baa.wav
+SHA1-Digest: 1dCgc93da/4fbSIl0hIe6fyoTiY=
+
+Name: assets/game/pih_bruce.rttex
+SHA1-Digest: LDcJ4O6oDPbeag8NFkoYejnW76U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: 5RQPCePq8Rl74qF3CZVtMT63Chc=
+
+Name: assets/interface/large/super_elements.rttex
+SHA1-Digest: 9bhIuUhduLstHhi62EESUwkwScw=
+
+Name: assets/audio/notes/electric_guitar_7.wav
+SHA1-Digest: Z+Whg/om1PnoORJW3tQXYysZQIM=
+
+Name: assets/audio/owooooo.wav
+SHA1-Digest: kWmNMkxI6Ib8bEzgeyrWy1YJp5k=
+
+Name: assets/game/mono_hills2.rttex
+SHA1-Digest: h/JM4fe+uvpXk+lL0KPJeEzqCVY=
+
+Name: assets/interface/large/gui_store_title_subscriptions.rttex
+SHA1-Digest: PPjwCGcckGP567xsjTvuLBTFGzM=
+
+Name: assets/audio/secret.wav
+SHA1-Digest: 82/zpzw+muXTyE5fMbtLE1pp5aQ=
+
+Name: assets/game/pih_pabpic.rttex
+SHA1-Digest: FBwu9GjEif51aSXjzP4hmKWaCd0=
+
+Name: assets/interface/flags/uy.rttex
+SHA1-Digest: N5Ai/3VxfzGDHoHa7dvCWech+cw=
+
+Name: assets/audio/obelisk.wav
+SHA1-Digest: VCIwmiS6Klp9OdMHAWE4XVcLL0c=
+
+Name: assets/audio/boo_proton_glove.wav
+SHA1-Digest: 1ZrRPb+eKj12P2ocVB6NQNXa3Zg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: SSPI0iYW2bL3eg/UjVxv2M7kVK4=
+
+Name: assets/interface/flags/ci.rttex
+SHA1-Digest: khPYuoOWmea/WlKa4hOFeNTHu34=
+
+Name: assets/game/player_faceitem2.rttex
+SHA1-Digest: 5q8kpnEKR/1VDYH+YAi2kQPEZk4=
+
+Name: assets/shaders/android/essl/ColoredTexture.vs.bin
+SHA1-Digest: oHuAH6fcmBdhbrZbiDSQP6tWwhs=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: bsuJ3x0h9Vy2WYkakqFGmv2azPE=
+
+Name: assets/interface/flags/va.rttex
+SHA1-Digest: 2VRX5KYjbPzgZcykqhZLdMHBkGQ=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: GsTS92Bzo8Jz4sL5ZnEMP1NxOWU=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9
+ .png
+SHA1-Digest: 6Zbj/q38zK2z57i4NSx7oRdxSTg=
+
+Name: assets/audio/dialog_open.wav
+SHA1-Digest: ZdMXaT6zDLnHtY9n8wAIRQnl4zQ=
+
+Name: assets/game/pih_funibish.rttex
+SHA1-Digest: 4TJz/dRqwOqA4+yg8AejEjlDcag=
+
+Name: assets/audio/gate_open.wav
+SHA1-Digest: JNxI1wVyT2SGh7M/EtE1N/E6HGg=
+
+Name: assets/audio/notes/electric_guitar_16.wav
+SHA1-Digest: h40wHFzVla9PT8X5G2g0tJxwedI=
+
+Name: assets/game/st_asec_front.rttex
+SHA1-Digest: RkWYWZpB8y+XRDftW3b33pYM5/k=
+
+Name: assets/audio/gate_close.wav
+SHA1-Digest: o8ir7UZVyF03eBZsH+xMv0EKuFQ=
+
+Name: assets/audio/ogg/loop_disco.ogg
+SHA1-Digest: kGnNU5Zr8s/Os5UIw9KQgscxmAs=
+
+Name: assets/interface/flags/jp.rttex
+SHA1-Digest: VRbE5ACtcNsdbPkXy0qp0zZl2wc=
+
+Name: res/layout-v17/custom_pn_layout_image_plus_multilinetext_expande
+ d.xml
+SHA1-Digest: lwvcodl/tgdHXs6bqbRFImOi+fo=
+
+Name: assets/game/transmografication.rttex
+SHA1-Digest: SqYanvug/jJYX201dWwseAGp42Y=
+
+Name: assets/game/Balloon_01.rttex
+SHA1-Digest: y6D8O9d9sBlplSd0ksQAacNQrTc=
+
+Name: assets/game/pik_bldrg.rttex
+SHA1-Digest: htnlVwzmLOYey2Uq+IftS7oBZJU=
+
+Name: assets/audio/achievement.wav
+SHA1-Digest: KXNt1iCqhIv53F2l0pwEZTujovY=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/interface/flags/mm.rttex
+SHA1-Digest: q9XKmwyXZFjSt7OLUEYWB0rk5ck=
+
+Name: assets/interface/flags/sd.rttex
+SHA1-Digest: fz+aPCooMF0hvOtR9q0NLWDAMbM=
+
+Name: assets/audio/notes/spanish_guitar_22.wav
+SHA1-Digest: vpHPKvH4Y854Yd98wQ0vkCpya1I=
+
+Name: res/layout-v17/custom_pn_layout_image_plus_multilinetext_collaps
+ ed.xml
+SHA1-Digest: a33y7Xr8vLMFuoWktLdyaFBNPi0=
+
+Name: com/tapjoy/res/countdown_image.png
+SHA1-Digest: lMIloUGzrB+5DRkSZ7iqji0ud3o=
+
+Name: assets/game/pets/p_mynke.rttex
+SHA1-Digest: 1tis3FxlrGNNptg7uexaAqcCyyo=
+
+Name: assets/audio/notes/sax_24.wav
+SHA1-Digest: 472YHINF0ctbiZlEdFz20bAiruw=
+
+Name: assets/interface/flags/at.rttex
+SHA1-Digest: eKbzEWQp4lr/5imD/Sr+XAB88SM=
+
+Name: assets/interface/flags/et.rttex
+SHA1-Digest: YSdEG4hslRQmifo5fn62M1/phjg=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: 27ev28fJrz0U5Li84Idu/Go1MWA=
+
+Name: assets/interface/handle_horizontal.rttex
+SHA1-Digest: yK1Oe/7Iych8jW8KXoDpjuKt8LM=
+
+Name: assets/interface/flags/bd.rttex
+SHA1-Digest: HPfAydxG0m7RC6svdJgtFOobGdk=
+
+Name: assets/interface/currencies.json
+SHA1-Digest: x9cpd6kYlodiXB+LO85Nb2MpQms=
+
+Name: assets/audio/oracle.wav
+SHA1-Digest: nHiQdy5aD5vRNKNfTBc45clZrVg=
+
+Name: assets/audio/notes/sax_0.wav
+SHA1-Digest: UEDa0QDPfyWygDUlaEe5w0Ui/6o=
+
+Name: assets/audio/race_start.wav
+SHA1-Digest: R1dA3kJ6xYsVPdZgi8V3Sc9HP28=
+
+Name: assets/interface/large/store_buttons/store_buttons5.rttex
+SHA1-Digest: J6KDH4ug4OMy2RspuBDotVeJyt8=
+
+Name: assets/interface/flags/cx.rttex
+SHA1-Digest: 5VU2YypUNy11I86AoE+siwwvSZ4=
+
+Name: assets/audio/notes/spanish_guitar_0.wav
+SHA1-Digest: ESxVe/8LQnlB7ciD/wMVuuxn4pY=
+
+Name: assets/audio/wing_flap.wav
+SHA1-Digest: kUgrjpu1SWEiFljOh+6oqkvz8u8=
+
+Name: assets/audio/startopia_jump_thruster_hover.wav
+SHA1-Digest: EP5rW6W8z229SX7lmiGUXee7tn0=
+
+Name: assets/audio/notes/bass_4.wav
+SHA1-Digest: FiNZJzslarJyq4rZisJE9dtn2DQ=
+
+Name: assets/interface/large/social_share/social_btn03.rttex
+SHA1-Digest: QZD8lATllAbmEF+y4UZXeT1hMDs=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: lQ+My8WrDYX8OkUePiXTQP4uouM=
+
+Name: assets/game/pih_leph.rttex
+SHA1-Digest: UH5ShXFjPIod34H9kK7dhDSBh/c=
+
+Name: assets/audio/notes/lyre_23.wav
+SHA1-Digest: mtWXqhdpk94lYK5ozW3BOMgmX3Q=
+
+Name: assets/game/pet_dragon2.rttex
+SHA1-Digest: 9JuilnO/haVA4W7QhrkCBCTfEOc=
+
+Name: assets/game/player_hair5_icon.rttex
+SHA1-Digest: IgTPOzkgu4cq+tMNKorloOKZtXY=
+
+Name: assets/interface/flags/mr.rttex
+SHA1-Digest: J7o002BbRzJ09nB9EC4aZB4cngQ=
+
+Name: assets/audio/notes/bass_11.wav
+SHA1-Digest: 2o3b3WMa/2QtI3qKd5UoYYDeNgs=
+
+Name: assets/audio/notes/piano_11.wav
+SHA1-Digest: +TI98RgRFip3rIYKu48WblckPLY=
+
+Name: assets/game/petleo.rttex
+SHA1-Digest: DLa+baZ6FbqYayN0LJs/DpSnWIA=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9
+ .png
+SHA1-Digest: hjwIOG0wAgs/EyaKLEk3IEfQjNw=
+
+Name: assets/interface/flags/tj.rttex
+SHA1-Digest: 4GHslwloKo55tYmGapbgrpRnibA=
+
+Name: assets/game/pebuns.rttex
+SHA1-Digest: Hri9Xdm+nILkqEIDNSB9otuTTOY=
+
+Name: assets/interface/flags/lg.rttex
+SHA1-Digest: fzWFAmFU7+tKBbi8lI4okNUhlUQ=
+
+Name: assets/audio/notes/violin_16.wav
+SHA1-Digest: zOIBPZ2hi4ez0kZTSs4nqo8hgwM=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: fPmD5X73y/qXCvJ2Cqvt4E3OU6w=
+
+Name: assets/game/cloud.rttex
+SHA1-Digest: CvRqCzMx/nCAlmMjwnkI5GLs8e0=
+
+Name: assets/interface/particle/star.rttex
+SHA1-Digest: 5S62hEd7DA1E51TXt05CLP0PuZE=
+
+Name: assets/interface/tutorial/tut_seeds.rttex
+SHA1-Digest: YjtAToVT06fxMU6s0j0nzqD8m3I=
+
+Name: assets/interface/large/anni_sta.rttex
+SHA1-Digest: 3dKDaBYVrKAtgTgmkuatiUcXLhU=
+
+Name: assets/audio/notes/electric_guitar_25.wav
+SHA1-Digest: dEy6ZhDWIEl/AIHninjgd6ga2wk=
+
+Name: assets/interface/flags/aw.rttex
+SHA1-Digest: cdxPolPMni/U3PB8Ze9jUu808Og=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9
+ .png
+SHA1-Digest: kdj/oCkmhiJpcMKJir06MRZjXKo=
+
+Name: assets/interface/flags/cz.rttex
+SHA1-Digest: cVb9zmJewKKCvBke3paH1MXAA/Y=
+
+Name: assets/audio/buster.wav
+SHA1-Digest: LhtEmDR49RRi7QHZ1AYmAcywKfQ=
+
+Name: assets/game/b_hills1.rttex
+SHA1-Digest: qpOzOzxCneHOe85xha/CauO8qfk=
+
+Name: assets/game/wf_ddus.rttex
+SHA1-Digest: 3tRpMfzBRIc1zjXd1e9ltATS7Z8=
+
+Name: assets/interface/large/store_buttons/store_buttons7.rttex
+SHA1-Digest: T3JKHgqd8z/lT0bMImRrdTlGBxM=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabl
+ ed.9.png
+SHA1-Digest: H/FphPQvP7MRDwA9c33JDKyJVtY=
+
+Name: res/drawable/common_plus_signin_btn_text_light.xml
+SHA1-Digest: hZdhfquoLHw7imuUUAr0OWrLjdw=
+
+Name: assets/audio/belch4.wav
+SHA1-Digest: PAYAA5RlutYeZO1eldv7d2TYYxs=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.
+ 9.png
+SHA1-Digest: Na25VCdVW0mBCJFiK9l0T8K9Kok=
+
+Name: assets/game/tiles_page12.rttex
+SHA1-Digest: 7h0D9xneBP5/vlfX3CzCfZefq5M=
+
+Name: assets/audio/notes/violin_7.wav
+SHA1-Digest: dmGXSWlwJ3RrxMzbqCd6X6MSzAI=
+
+Name: assets/audio/clatter.wav
+SHA1-Digest: l8+7tWQWt+vSrkCl+JVDq2eshb0=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: 3JkxKKVvicAvOJFG9/qEb+kVtT8=
+
+Name: assets/interface/large/store_buttons27.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/player_hairhair2.rttex
+SHA1-Digest: KjTLF8g5PZVMp5CnbZrvZoH8IME=
+
+Name: assets/game/tiles_page10.rttex
+SHA1-Digest: eqL3089aFVxQiMZOniPh0Etf/Fc=
+
+Name: assets/interface/large/gui_shop_winter_rally.rttex
+SHA1-Digest: vm5ec+UfwsXkjhff2KVkIZUVfTs=
+
+Name: assets/audio/notes/festive_24.wav
+SHA1-Digest: TH1bxtIw64/Arfak2853ENuynFI=
+
+Name: assets/interface/large/gui_inv_tab_icons.rttex
+SHA1-Digest: KB/6duwzdNQguaAjE4aQuuGwo0I=
+
+Name: assets/interface/tutorial/tut_doors.rttex
+SHA1-Digest: TagLDFnuliR7975wiQY7HSy/ubE=
+
+Name: assets/interface/large/game_over.rttex
+SHA1-Digest: PtiQzcnT8nJv+p9oYPxj7TNX4cE=
+
+Name: assets/audio/notes/bass_22.wav
+SHA1-Digest: Gz+MnUTM7DZDcYmVETz8LGz6vuA=
+
+Name: assets/game/pegrow.rttex
+SHA1-Digest: RLUeKUq46NZZ8HGdRee6NXzxdVg=
+
+Name: assets/audio/death_metal_radio.wav
+SHA1-Digest: zNvvFvPg5vHYP+oaxzGyakRCJrk=
+
+Name: assets/game/pei_calf.rttex
+SHA1-Digest: LjIEo39HLaoDsFf6JTbVIVpntg8=
+
+Name: assets/audio/airy02.wav
+SHA1-Digest: gYYEX/l69bugmJmTaiRCVVIoDFE=
+
+Name: assets/game/green_hills2.rttex
+SHA1-Digest: Y2T1bt2WfUhn+xmGibfleSa1WpU=
+
+Name: assets/game/tiles_achieve.rttex
+SHA1-Digest: It2aUMLDSvjuB3gnZ8IvN5KBNyU=
+
+Name: assets/game/player_feet12_icon.rttex
+SHA1-Digest: a3XlZXY+vEari4w/+mfehEQS2rU=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: tcKpnutDtq0cLY89MOMNYq63koY=
+
+Name: assets/audio/msg.wav
+SHA1-Digest: qIYiuXyIpQ4Iv7x/mMhzb4Qd2fY=
+
+Name: assets/interface/tutorial/tut_zoom.rttex
+SHA1-Digest: 0f03pzTdJ7xUUIjl7HhlPCqAdF8=
+
+Name: assets/game/amorkasd.rttex
+SHA1-Digest: 9POjJjSTCE+MWvb7tMEHdwrGEgE=
+
+Name: assets/interface/tutorial/tut03_wrench.rttex
+SHA1-Digest: u7d2bqXQjOt4MstgdGy+4iYt9Q0=
+
+Name: assets/interface/handle_big.rttex
+SHA1-Digest: u27T0L/b62Zmb1VyB9cn6YPoeYQ=
+
+Name: assets/interface/flags/ee.rttex
+SHA1-Digest: vNa3OSOi3a6vPXm/q57qRk/UaDw=
+
+Name: assets/audio/notes/electric_guitar_14.wav
+SHA1-Digest: nHcBAe5HVJGmih7O3m1mnRY4f6Y=
+
+Name: assets/game/pih_day.rttex
+SHA1-Digest: x89PVmNE5WOm8J8/63jLyHtvk/k=
+
+Name: assets/game/ld_wn.rttex
+SHA1-Digest: dEETYoqvU0nz8bgHbQZN6LXR3to=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: Ra4eTkxw6C0Ko+LOGB0p3ZqoN6U=
+
+Name: assets/audio/notes/flute_19.wav
+SHA1-Digest: 0JROMzRv5Z55RQlCkRv8KGLaIc4=
+
+Name: res/drawable/common_plus_signin_btn_icon_dark.xml
+SHA1-Digest: 7QAh5n+Ih5Cu9d0O7PD5zcTrf2I=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: Fmdv64WR0w5E3YOtYN8+JWDueMM=
+
+Name: res/layout/contentview_activity_likers.xml
+SHA1-Digest: zmfolvz1fzC0/XzdoHD2/mFdf0s=
+
+Name: assets/interface/flags/ht.rttex
+SHA1-Digest: 9KikT3F9615vHhZ7oZYLv1MFZCs=
+
+Name: assets/interface/flags/rt.rttex
+SHA1-Digest: IBWmVnzj4+qKvTfUS+lskPF0AWY=
+
+Name: assets/interface/flags/tt.rttex
+SHA1-Digest: q80Rf6N0woFif0HRFVlvrvBZHiQ=
+
+Name: assets/audio/notes/bass_25.wav
+SHA1-Digest: u6QIAw4TMq5hn4soo4ie/q+n4mE=
+
+Name: assets/interface/large/news_banner.rttex
+SHA1-Digest: mNINzLuoFw9TGZFZr/pj/PA5CE0=
+
+Name: assets/audio/gem_pickup.wav
+SHA1-Digest: xuPi9DM5pS5hTvWjVS2fK43bgwE=
+
+Name: assets/interface/large/store_buttons22.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/ge.rttex
+SHA1-Digest: n3QM2jnxoDc9tizpMFxNDrks1zM=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9
+ .png
+SHA1-Digest: S7BGmC/x4n0JqE/psPHV9r6tWaU=
+
+Name: assets/audio/toilet_flush.wav
+SHA1-Digest: 8lZuFBBWkWUl4BSQjjRqckeP/Lk=
+
+Name: assets/audio/machinegun.wav
+SHA1-Digest: x1wbMGSi9jx3L49WAZPN0xQQykU=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9
+ .png
+SHA1-Digest: wmYpNZ7LcNPy1wGwewdBupID2eg=
+
+Name: assets/audio/notes/electric_guitar_9.wav
+SHA1-Digest: mFkR/lM8VVpiuSY/nwVPnv5vsAs=
+
+Name: assets/audio/friend_logon.wav
+SHA1-Digest: Av6yFiCoKBAhXu+ik05Zlq8jlz4=
+
+Name: assets/audio/chicken2.wav
+SHA1-Digest: Ons0fTPQwQle/1YE0+MRiz6efMA=
+
+Name: assets/interface/large/store_buttons21.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/audio/tile_removed.wav
+SHA1-Digest: n7u3gX+qKmEtjiaf0aV11/mw0M4=
+
+Name: assets/audio/notes/sax_22.wav
+SHA1-Digest: SFKjGtAYLcm8qUUFhvOUzFLfYVY=
+
+Name: assets/interface/flags/vi.rttex
+SHA1-Digest: WHPlFGplsYU+E4p4c7v1MvP6930=
+
+Name: assets/game/plot_trundle.rttex
+SHA1-Digest: e1nhvbJdTDorqzy81wA8C/qoaPg=
+
+Name: assets/audio/thunderclap.wav
+SHA1-Digest: unR7GKomfeW3w9TWh+vZNf8swwk=
+
+Name: assets/interface/large/game_title.rttex
+SHA1-Digest: p0VTwg6/0GKFSfnC5Kw/3cYQU60=
+
+Name: assets/audio/skel.wav
+SHA1-Digest: VxmyRABnMPmZtOD9EJ3CztuKAQM=
+
+Name: assets/game/pets/p_fdarg.rttex
+SHA1-Digest: TBoVYpY1kF6jXjTJ+pm2NthM4Hc=
+
+Name: assets/audio/shotgun.wav
+SHA1-Digest: FVVr5d4GK7YnxXjLiaUJc/AsDvs=
+
+Name: assets/interface/flags/bb.rttex
+SHA1-Digest: j35KTtDgaJDXFmshCg1akOXJrKI=
+
+Name: assets/audio/notes/electric_guitar_11.wav
+SHA1-Digest: 4iapNdd1uZOguV8+xNYfvamZem4=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.
+ png
+SHA1-Digest: cUP3wfTBOm2iRPm68ZpVEWwViyM=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/audio/use_lock.wav
+SHA1-Digest: YzTKWOcjtCs5TlHmJIcU51wYpjI=
+
+Name: assets/game/io_gosb.rttex
+SHA1-Digest: ROsvhTJ4cM7NLUX4t9p7PNu1dp4=
+
+Name: assets/interface/slider_button.rttex
+SHA1-Digest: JugwS8A+oQ0AEAF8Dg/pZ9buz1E=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ .9.png
+SHA1-Digest: /qyna22b0UfuR1r/ko6aN1OcROY=
+
+Name: assets/audio/notes/bass_2.wav
+SHA1-Digest: r08NKtk2OQtOw+CVv8mYmCJAvFk=
+
+Name: assets/audio/notes/sax_20.wav
+SHA1-Digest: tapcBq5GhTq28w2Sn0x4Me/tZfs=
+
+Name: assets/interface/flags/cu.rttex
+SHA1-Digest: Zb4NmJxSsJdoCqkV/8CS93hmu+M=
+
+Name: assets/interface/flags/mx.rttex
+SHA1-Digest: 4H457OCPbVXBTbvgEHWk1rkybSY=
+
+Name: assets/game/pot_kide3.rttex
+SHA1-Digest: Blaf/IxeUax2yTt41u/RsX8hCgw=
+
+Name: assets/audio/notes/spanish_guitar_2.wav
+SHA1-Digest: xREegEmu3iNGKWAXvmZXEpruf1Q=
+
+Name: assets/game/ld_ctymid.rttex
+SHA1-Digest: f19pTaGmLlTnb2JDAonvQU00+KA=
+
+Name: assets/interface/flags/tm.rttex
+SHA1-Digest: Iuzoi8pAVf4GVRSrvzJpUX2EMJg=
+
+Name: assets/audio/use_lock2.wav
+SHA1-Digest: wcii2Hfe3Gup8RFvWuBKJHbTfPA=
+
+Name: assets/interface/flags/mu.rttex
+SHA1-Digest: iRlUZcVABxbhnvGkSziFabrKc7E=
+
+Name: assets/interface/large/guild_button.rttex
+SHA1-Digest: WDsb8NaJYbZECtbVYwtx4usoh4I=
+
+Name: assets/game/pih_oikiok.rttex
+SHA1-Digest: F/8dZzO6E+7oOlUL4jxaMCK/i1g=
+
+Name: assets/interface/flags/jm.rttex
+SHA1-Digest: C20IM2dTqS6IHgekFFiiZMnxOvo=
+
+Name: assets/audio/notes/violin_14.wav
+SHA1-Digest: ruBIWflPGjGP/cgeEAsQMBdIzL8=
+
+Name: assets/interface/flags/la.rttex
+SHA1-Digest: RckW26dDGLkNk4JB5rBdf8T6vwg=
+
+Name: assets/interface/large/store_buttons26.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/wn_awg.rttex
+SHA1-Digest: TpNxZCCcOpfeAUE5PPWObUbjdn8=
+
+Name: assets/audio/pay_time.wav
+SHA1-Digest: UxC9S9fjuqWGUTzmIFqUek/XtCc=
+
+Name: assets/game/pemus.rttex
+SHA1-Digest: yzGuHX4Sgb6d1eovQYrKIWr5hhU=
+
+Name: assets/audio/notes/spooky_13.wav
+SHA1-Digest: GvA7iXhowfwEuVxbSSy/+dkgSdc=
+
+Name: assets/audio/notes/piano_24.wav
+SHA1-Digest: TB7YiSIde4BZ9b6ftYlMTwqgLIA=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: lA5x0AVs/scv9cFuTFOJpyLVdR8=
+
+Name: assets/audio/whistle.wav
+SHA1-Digest: GL6pbmutSVRj5UM/abqSQvHbkYs=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: 1UB6PKVRdqcEFc5qAOfH4P8Ubq8=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/interface/flags/to.rttex
+SHA1-Digest: J/8IoPMaAa//DiyCGd/e7uK6VDw=
+
+Name: assets/audio/notes/lyre_25.wav
+SHA1-Digest: LRSc0B3RQOjghRTP+0sE/lQbEUc=
+
+Name: assets/interface/tutorial/tut04_break_blocks.rttex
+SHA1-Digest: drkwkUrDDajSLQ2u1EyczLpZjiU=
+
+Name: assets/interface/flags/cs.rttex
+SHA1-Digest: NqDoLpximR1VCyLZihQhlXI9mp4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focuse
+ d.9.png
+SHA1-Digest: wH9NqhUoynB+06TpE7dSH9LjsF8=
+
+Name: assets/game/pu_kid.rttex
+SHA1-Digest: ucH/44nqeUm8+MkZ2dweQLxa64M=
+
+Name: assets/interface/large/wtr_lvl1_salkjd.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disable
+ d.9.png
+SHA1-Digest: 8RhCMjluPXRIovky5gX1EUZxhuk=
+
+Name: assets/audio/notes/flute_1.wav
+SHA1-Digest: mwuK9pOxPUMVyJ6+nRGhr1Lnf7I=
+
+Name: assets/audio/notes/violin_9.wav
+SHA1-Digest: 2zQOSxHF+ekaM+e/0YOJwV0BnKU=
+
+Name: assets/game/pets/p_geg.rttex
+SHA1-Digest: bGWuP9Fk6+IHRHED+Bl9DahN7Yo=
+
+Name: assets/interface/flags/ga.rttex
+SHA1-Digest: z94iIWl/nfxhJuO8iLpJFkK4QUg=
+
+Name: assets/interface/flags/mw.rttex
+SHA1-Digest: TEikm50+h/WlYCK49AFB7g/4SRU=
+
+Name: assets/game/pets/p_tca.rttex
+SHA1-Digest: Ib7PMxDMktDPmztb9sva2GtVWmM=
+
+Name: assets/game/inv_select.rttex
+SHA1-Digest: DkORMcoSSREACar+fDDUWsVKo5o=
+
+Name: assets/game/pv_rwds.rttex
+SHA1-Digest: 0I3fRnmgDri2VVMrTkmRIeJUEZM=
+
+Name: assets/game/mtn_sky.rttex
+SHA1-Digest: FXZYhsrVYK/PxkO4cGON+KdZqEI=
+
+Name: assets/interface/flags/lb.rttex
+SHA1-Digest: ig8wUK4EZlyrwDfhp+fOS/Vh0sY=
+
+Name: assets/audio/bigboom.wav
+SHA1-Digest: hEKeFcvzW+rfIjwjcdOPkQvgDCQ=
+
+Name: assets/audio/notes/piano_1.wav
+SHA1-Digest: uwPlc0t9ZrmSy2iDZqNXgpbsfDw=
+
+Name: assets/game/seed.rttex
+SHA1-Digest: HDlL/Trx6ApqL8FxmGH5tzIPB2w=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.
+ png
+SHA1-Digest: UJ2iPflY9t0Dr4AJ0/OjxaKTDUI=
+
+Name: assets/interface/font_century_gothic_bigx2.txt
+SHA1-Digest: lvCWh/h5Ye6OlhO+OJwZhiXcXRQ=
+
+Name: assets/interface/tutorial/tut07_goto_start.rttex
+SHA1-Digest: 1pvsmcIqko7PQZaHTli8xlQeVfY=
+
+Name: classes.dex
+SHA1-Digest: wSjNiomgjAp2oxA+6QunOHARg/k=
+
+Name: assets/audio/dialog_close.wav
+SHA1-Digest: SSVYcOyvqvzarjfLyIQSTy/t7Rk=
+
+Name: assets/interface/gui_survey_icons.rttex
+SHA1-Digest: Z6mMtlEw3y/oFJ26J/cTWHFyYXM=
+
+Name: assets/interface/flags/sc.rttex
+SHA1-Digest: QchhkVP8OhqOEbsy2cloWfx9LRw=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.
+ 9.png
+SHA1-Digest: z93nQbTcdJzSklS7iGUuhDeIHOo=
+
+Name: assets/audio/notes/electric_guitar_12.wav
+SHA1-Digest: ABZVl4HlL8NGJqahHkWrJa2GRi4=
+
+Name: assets/game/ld_wn2.rttex
+SHA1-Digest: iiReDw7MONtB6TMOCNBy7Bl92Og=
+
+Name: assets/audio/notes/lyre_12.wav
+SHA1-Digest: rBZ10J/cdwO/hWZBmqea/jSMjB4=
+
+Name: assets/game/pih_weitan.rttex
+SHA1-Digest: vSOTrrtD3X3dZqpGOzGbI1bNDsM=
+
+Name: assets/audio/already_used.wav
+SHA1-Digest: WWDhvhfzfuudW/IvIuYaeNR5u28=
+
+Name: assets/game/float_clouds2.rttex
+SHA1-Digest: eD2JuMPjgJlciVnhWeBlL1L+kYc=
+
+Name: assets/interface/tutorial/tut_consumables.rttex
+SHA1-Digest: TQVEsXLb2UEOCfH+I00W3juYDUs=
+
+Name: assets/interface/flags/mn.rttex
+SHA1-Digest: cTfK9CdZJTSq8u3Kot5ZI1p5yBk=
+
+Name: assets/audio/harp.wav
+SHA1-Digest: YeN2R3Bgm7vXREC8HXC129ZT2UI=
+
+Name: assets/interface/flags/tf.rttex
+SHA1-Digest: Pu3rBkcKGLMO023wySnBsLlMlxM=
+
+Name: assets/game/pets/p_gcalw.rttex
+SHA1-Digest: a5YfcYTgS4rwFTrNHJ6i/SGozOc=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: H4m9INwiVT3tDIr+pZo6bFYPNds=
+
+Name: assets/audio/snd037.wav
+SHA1-Digest: hPAcSUMA2+Xai/3RqjKLzDXBHwg=
+
+Name: assets/interface/flags/ch.rttex
+SHA1-Digest: 4FcMTr2xd2oylkYRNp83D9GZgoY=
+
+Name: assets/game/pets/p_lnydgo.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/audio/boom.wav
+SHA1-Digest: jjbJeE6Yglvt+rTQxlRuVmi4oo0=
+
+Name: assets/game/player_cosmetics1_icon.rttex
+SHA1-Digest: 4tzv/k48LQjHRD8zCWKIOypZDfU=
+
+Name: assets/game/player_head_skin8.rttex
+SHA1-Digest: HTKe2enF0nELsU8zHHJB8N5VfY0=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.
+ 9.png
+SHA1-Digest: 3nHHOx4Vw4u+yiVOznvG9WTYtN4=
+
+Name: assets/interface/flags/lk.rttex
+SHA1-Digest: 1D0RNDHX4qIjeDBM1VyURlbMpiE=
+
+Name: assets/audio/baabaa.wav
+SHA1-Digest: 1dCgc93da/4fbSIl0hIe6fyoTiY=
+
+Name: assets/game/player_feet14.rttex
+SHA1-Digest: vB4U5xAfs9c7x2PPhB3Zu1C/zHQ=
+
+Name: assets/interface/flags/pw.rttex
+SHA1-Digest: SsQ2jrRPFE47fUqNtL4mik4OTiA=
+
+Name: assets/game/player_head_skin3.rttex
+SHA1-Digest: 360IEIw/85AcAk7xs8PvJutCXwA=
+
+Name: assets/interface/large/gazette/gazette_3columns_policy_btn02.rtt
+ ex
+SHA1-Digest: mPhixO1aDYZmSkV+BkuAgCsIbOo=
+
+Name: assets/audio/quack.wav
+SHA1-Digest: 5XJv98zXEbBRpOf0Abp40ro678M=
+
+Name: assets/audio/boo_ghost_trap.wav
+SHA1-Digest: e3pBhguRcx/CIi7LNevR1tdGZPg=
+
+Name: assets/audio/wood_break.wav
+SHA1-Digest: nR0HGoqaCAYjw5v/mAHP5xxgQxY=
+
+Name: assets/game/vend_outline.rttex
+SHA1-Digest: hKWYbwBYUFGe2rIl1nvMrnawzxM=
+
+Name: assets/audio/teleport.wav
+SHA1-Digest: ECU/NYuLi4K6bNO7a2pBaBnUDRI=
+
+Name: assets/shaders/android/essl/VertexColoredTexture.fs.bin
+SHA1-Digest: kKP3LQE+pYJwg/Rjx6NPEv73bIo=
+
+Name: assets/audio/notes/bass_24.wav
+SHA1-Digest: ytb/FR1HoBoiPa1qUXisBvudeDI=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l.9.png
+SHA1-Digest: GFBU1MtrxnqiFzu1VUviSJcYiI0=
+
+Name: assets/game/tiles_page7.rttex
+SHA1-Digest: ydPJ6HNKH0QRRi1XbxJ1/W796+8=
+
+Name: assets/game/Balloon_02.rttex
+SHA1-Digest: aNHlAsvHprlWyd/mJjdXMzfivzs=
+
+Name: assets/audio/notes/sax_3.wav
+SHA1-Digest: x/7K2EBO8M8xKHZkTZjsVqZU1ag=
+
+Name: assets/game/autumnsunset.rttex
+SHA1-Digest: DP1Dxk0/ZjPP841ekC55rQrTjU4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.
+ 9.png
+SHA1-Digest: avqP5Jr+JRygbHxllR1AQbtpb+g=
+
+Name: assets/interface/flags/ms.rttex
+SHA1-Digest: mtzhcCEsd9ORrLDA1vV4OYTFQEM=
+
+Name: assets/interface/flags/es.rttex
+SHA1-Digest: omvGEIA2ZXT76Emr4FmnJgeLWkc=
+
+Name: res/drawable/common_plus_signin_btn_text_dark.xml
+SHA1-Digest: eqbrJ4tCzRK7qtYcn7UY9oM8pH0=
+
+Name: assets/game/field_back.rttex
+SHA1-Digest: KaYfR/aYUI68aQ/YaNvFUjGVjdc=
+
+Name: assets/game/bt_trans.rttex
+SHA1-Digest: i3w3QV3oV5hMo0OzipILa6wvktY=
+
+Name: assets/game/pets/p_olb.rttex
+SHA1-Digest: h728HKn8P6717+46TVYRHMcz0+g=
+
+Name: assets/audio/ogg/funtime.ogg
+SHA1-Digest: eR1mxAp9NtUlxYgcGPZVgJRiB7w=
+
+Name: assets/game/dahle.rttex
+SHA1-Digest: pWFLcEvfXxavXQMcMuv9YgZHxac=
+
+Name: assets/interface/flags/tk.rttex
+SHA1-Digest: xuaBJvODAzb77pndCnl+BHfwVX0=
+
+Name: assets/interface/flags/cc.rttex
+SHA1-Digest: cJfW/R1SIQRAQJ14e+QXrxkwl28=
+
+Name: assets/game/tiles_page2.rttex
+SHA1-Digest: O1xae4g9MofMfRgfOdlgs9YKgko=
+
+Name: res/layout/contentview_notificationcenter.xml
+SHA1-Digest: jiNMTS+tJoScgzIT2fX1QA5ppMM=
+
+Name: assets/game/petrain.rttex
+SHA1-Digest: D1nrrmqZF2ZOjrsjC1evFB/+8SE=
+
+Name: assets/game/pets/p_lnyxeon.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/audio/notes/bass_0.wav
+SHA1-Digest: 9oa15ZUH6c2eRcjshaLGwwbd+oQ=
+
+Name: assets/game/jungle_zigarat.rttex
+SHA1-Digest: j9d6LF6/eaV94YwyrGjFXYBMoC0=
+
+Name: assets/game/pets/p_balnbun.rttex
+SHA1-Digest: fUlccN2mCsSqcfePGvHuplFlKwU=
+
+Name: assets/audio/airy01.wav
+SHA1-Digest: tZ44pc5GgzTKt4oTDVkkpq4nlME=
+
+Name: assets/audio/keypad_hit.wav
+SHA1-Digest: IlXYBD6uJ89/+rjojNu7EtfUyeQ=
+
+Name: assets/audio/notes/piano_9.wav
+SHA1-Digest: b21HeaaHxPg2I9WSTHPjdCXEVUA=
+
+Name: res/layout/custom_pn_background_image_layout.xml
+SHA1-Digest: bRZncMS66oX4Ho+AaegIp/FH5BI=
+
+Name: assets/interface/flags/pr.rttex
+SHA1-Digest: 0Mi2Bihou5++eYxPEarzYRuPYl4=
+
+Name: assets/game/cloud_red.rttex
+SHA1-Digest: WWdN2h53rEPxUQvShzQnoOI1dEo=
+
+Name: assets/game/pot_booby.rttex
+SHA1-Digest: aAFrMEN88JMKM4gRQCqTvhrd5X4=
+
+Name: res/layout/item_tag_suggestion.xml
+SHA1-Digest: 4kXq9efj5lZ/ljpnmT9APDpd+d0=
+
+Name: assets/game/pot_boory.rttex
+SHA1-Digest: EwqXKCHGJBipAm8wH6qwW2Chjho=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disable
+ d.9.png
+SHA1-Digest: g7vlOkIy7bifcSi/ufPpklDNnnI=
+
+Name: assets/audio/galac_mini.wav
+SHA1-Digest: XjsqdZaE39WBDJ/0Ww9b1OCZCFY=
+
+Name: assets/game/player_feet7_icon.rttex
+SHA1-Digest: pOOlXqjhQVCw5oVSw78uRFW9EdE=
+
+Name: assets/game/player_feet_icon.rttex
+SHA1-Digest: AGgSEKGt5kuchrJQf37tKr1RApM=
+
+Name: assets/game/gui_rol_1.rttex
+SHA1-Digest: GM5oVFbln/UViwDaE89Ty+6Ykak=
+
+Name: assets/audio/realitytear.wav
+SHA1-Digest: IVLnljFUOQaR9a6rXaPu1Hx9SsM=
+
+Name: assets/audio/notes/festive_1.wav
+SHA1-Digest: PwK2L5RDldgJDIX6+LjOPPcBq30=
+
+Name: assets/audio/click.wav
+SHA1-Digest: /AXVuU0zqfRyEzx8R/Uqq9O8Hts=
+
+Name: assets/game/pets/p_teeches.rttex
+SHA1-Digest: BOOq060unJyZX+YSpqsb8ESWplQ=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: BtBZbFT3VPvi+qaEJu0REVsW9GQ=
+
+Name: assets/interface/large/wtr_lvl6_kjhgrd.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal
+ .9.png
+SHA1-Digest: 9lQucCLcqs7Ycf0nkxJyqo7Szuc=
+
+Name: assets/interface/flags/sm.rttex
+SHA1-Digest: sWfzfaviPiG4hrBQsF8vQ8hw2Hs=
+
+Name: assets/interface/large/gazette/gazette_3columns_forum_btn02.rtte
+ x
+SHA1-Digest: tJFyqQnG+sQ/la6b7z7/vWETjLY=
+
+Name: assets/audio/ogg/scary1.ogg
+SHA1-Digest: KBkM+BROVoQWarWvUvoLihK8gX0=
+
+Name: assets/game/pelady.rttex
+SHA1-Digest: S/NcDAnacExRORsoC+kxYICdizY=
+
+Name: assets/audio/notes/electric_guitar_21.wav
+SHA1-Digest: 5JsHrt/Berm13RxvM+Z1M5O02gI=
+
+Name: assets/interface/flags/pm.rttex
+SHA1-Digest: 5F+JUz7kAtGKFZF+c92YtvPQs/4=
+
+Name: assets/interface/flags/lu.rttex
+SHA1-Digest: ij13nW1xdpl8rVE1IHgLXHNOn6E=
+
+Name: assets/game/pets/p_gdr.rttex
+SHA1-Digest: IpINykKguV3iKsfvXeUqYOhrR3k=
+
+Name: assets/game/player_pants_monthly1.rttex
+SHA1-Digest: vaad1yrAWVUXj6eFZXDgUQzJouo=
+
+Name: assets/game/pih_leon.rttex
+SHA1-Digest: rwrmVaumv2O1wl6vVgKZUyo8xx0=
+
+Name: assets/game/hills3_growtopia.rttex
+SHA1-Digest: Pml4n6EI0XaVqa8R2iSzs0ivV/w=
+
+Name: assets/audio/notes/spanish_guitar_19.wav
+SHA1-Digest: 6ZnOZmupyWLOknlktyG3vhyeDGs=
+
+Name: assets/interface/large/store_buttons/store_buttons8.rttex
+SHA1-Digest: FAbOe0guTd6PcH6k7ASRbzyWoRw=
+
+Name: assets/audio/loser.wav
+SHA1-Digest: D/p7En/DHxyRiPdwLTgiPes7JMU=
+
+Name: assets/game/pootslim2.rttex
+SHA1-Digest: y20TA87h2lTbRW8EH9rTZxtA25E=
+
+Name: assets/audio/ogg/cumbia.ogg
+SHA1-Digest: BIlhsVtdEZds7m3sXx5Erzb89lY=
+
+Name: assets/game/bf_begchmp_icon.rttex
+SHA1-Digest: JQ5BmSdEWIM9u2GjCzXPOJojm2A=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_presse
+ d.9.png
+SHA1-Digest: eKq/DqDx4HHKIqyqalzgBgMY2ww=
+
+Name: assets/game/gui_rol_6.rttex
+SHA1-Digest: x5V1tf8yewelTMsUUTMnMcg26NM=
+
+Name: assets/audio/choir.wav
+SHA1-Digest: dmJg6QkF/ByzXhOzY0VH00lhhyY=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.
+ png
+SHA1-Digest: gUARhQPoNmY5cTFr4KaKKpjxH+Q=
+
+Name: assets/game/io_gax.rttex
+SHA1-Digest: Ek/abdfXGbjK/FzDXN65GVpHDPg=
+
+Name: assets/game/pet_dragon.rttex
+SHA1-Digest: CcnRw94IF64/A0TeLUxj9ZmhVW8=
+
+Name: assets/interface/flags/il.rttex
+SHA1-Digest: 299Na00a09ExhdpsjS649BTIVsw=
+
+Name: assets/interface/large/gd_potus_5.rttex
+SHA1-Digest: ozSK97OlIe96tIMJPUi1P+4SQ+I=
+
+Name: billing.properties
+SHA1-Digest: OcieO4abW31EuHiXVb6GBp2Qc3M=
+
+Name: assets/game/gd_wn.rttex
+SHA1-Digest: qWGj3ZpH0bueJoflE0CDhoMi9rE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_press
+ ed.9.png
+SHA1-Digest: fcRHSznS0klBue7f/7VPl7CCnTM=
+
+Name: assets/interface/large/btn_shop.rttex
+SHA1-Digest: hEz1P/+KVVlND28SvvHSqvaeHDU=
+
+Name: assets/game/petper.rttex
+SHA1-Digest: WmlvV6Tp+dQEZp+3j/281AbGpm4=
+
+Name: assets/game/player_handitem3_icon.rttex
+SHA1-Digest: jiL63eHstdSMZtzHdBKKViPX2TQ=
+
+Name: assets/game/stars.rttex
+SHA1-Digest: 1axGWbwbmpNqNQ0mTu7hWCLgPDI=
+
+Name: assets/interface/large/store_buttons/store_buttons29.rttex
+SHA1-Digest: ejX+MY1BJ8egp31p8/fJtxir3mI=
+
+Name: assets/interface/flags/bs.rttex
+SHA1-Digest: qGsZqnvJo1k8DMGkgtHGdeGXWVQ=
+
+Name: assets/interface/large/store_buttons/store_buttons32.rttex
+SHA1-Digest: aZmGdVeJcpgwNuZ2SCkPGRloC5k=
+
+Name: assets/game/player_sit_skins.rttex
+SHA1-Digest: HrTfpnJoNLJXIx9Jo6YSVxbeNSE=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: ZMtmrzjlmaCBpNosky35qEt53Qg=
+
+Name: assets/interface/flags/cm.rttex
+SHA1-Digest: zBXGzkpMS3iBMzRQIR4xA7yArY4=
+
+Name: assets/interface/tutorial/tut_splicing.rttex
+SHA1-Digest: vHiaIo8PgbBWm8c9goaI4hJ6K+8=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.
+ png
+SHA1-Digest: RVa9IkEjxUeHHKOcVDTkEjM/VYY=
+
+Name: assets/game/float_clouds7.rttex
+SHA1-Digest: w2ZXWrGOgoMJIJUBGCUXNI8BhxA=
+
+Name: assets/interface/atomic_button.rttex
+SHA1-Digest: vhqmcHoMEGS9vbStCu+m1E420og=
+
+Name: assets/game/d_aura.rttex
+SHA1-Digest: l864axDXWRX7u8WU+vu/9/NhYns=
+
+Name: assets/game/slobby_page1.rttex
+SHA1-Digest: 6GYqk1mqxIEovkbrzdS+8ZOuyhE=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed
+ .9.png
+SHA1-Digest: rPoNTKtGAWrgl3m/Kj+2adm8lRE=
+
+Name: assets/interface/flags/md.rttex
+SHA1-Digest: Se1lC7PYht57VVUuqFWXx5+2J64=
+
+Name: assets/interface/flags/be.rttex
+SHA1-Digest: RZjlay2KdDtDuh+immsnRB9YF4I=
+
+Name: assets/audio/notes/lyre_7.wav
+SHA1-Digest: RRDPkGI9EVznrP6EVoc/lWru4WM=
+
+Name: assets/game/fish_page1.rttex
+SHA1-Digest: f0oBEWUP+1L48q8xEi5p86yEGXQ=
+
+Name: assets/interface/large/store_buttons/store_buttons33.rttex
+SHA1-Digest: B7e0WQS/6jLcSPp/xT2/8fnLyK4=
+
+Name: assets/audio/blorb.wav
+SHA1-Digest: S7iGPnz99BE5BVn8ifJtE3ht69I=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: Db9O/OPoWTXYL7sBk/ND4aU7ECs=
+
+Name: assets/audio/notes/bass_15.wav
+SHA1-Digest: +HMi21F0SPnqasy5KwoxyDwqBB8=
+
+Name: assets/audio/ogg/music_box.ogg
+SHA1-Digest: ib0w1ZplLazqZ9atcVWKX1VVMvQ=
+
+Name: assets/game/cloud_monochrome.rttex
+SHA1-Digest: Oc55GSP+lIVMaVoSGIkbbJXBL1E=
+
+Name: assets/game/moon.rttex
+SHA1-Digest: zMMzUAkYJNCSzTGlzYf+M2RO3zY=
+
+Name: assets/audio/friend_logoff.wav
+SHA1-Digest: hii9J7v7wwZb95X36K0xopwtH0Q=
+
+Name: assets/game/pets/p_muttonr.rttex
+SHA1-Digest: 08vyKhqM5Ydf80qPtiO+kTBLV6c=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: 14wVmY91B9E8I9zTfuLye4BPBoQ=
+
+Name: assets/game/player_handitem7_icon.rttex
+SHA1-Digest: kPMjboYJLY+IPAwMyqDcGyyO/fI=
+
+Name: assets/audio/startopia_jump_thruster.wav
+SHA1-Digest: 0CWJlSRQN50/mDo2Eo2hISLijzI=
+
+Name: assets/interface/flags/bn.rttex
+SHA1-Digest: YsOdca7RC7XR8fx/ZYxPWF1+tfA=
+
+Name: assets/audio/notes/sax_1.wav
+SHA1-Digest: cbYvzx2HanckqS9UoiBtJGnIu3U=
+
+Name: assets/audio/notes/lyre_22.wav
+SHA1-Digest: fBqHrDbUsCOOTzyemBUeSpu41Ek=
+
+Name: assets/game/player_faceitem4.rttex
+SHA1-Digest: A6XS2sF+fq+Rbo9kDwsIsGSb0/Y=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: XDsh/LanVTEuOq61G/pr8afDNcQ=
+
+Name: assets/game/pih_fismhn.rttex
+SHA1-Digest: V0K8jE1Co4sxDMo4DpCGBEDW5ZY=
+
+Name: assets/game/su_hill3.rttex
+SHA1-Digest: iptpOU0hu6um/BIyqRsplibGrVE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed
+ .9.png
+SHA1-Digest: yL3BEjoZFVrHSDq3W5KlS0UBvSI=
+
+Name: assets/audio/scream.wav
+SHA1-Digest: 9UP/ZPcH5Sz5Z4xI/vtywvpmLfE=
+
+Name: assets/game/icebg_3.rttex
+SHA1-Digest: 65ybNuzHlqSxT1Qp1cCxZfwzor0=
+
+Name: assets/audio/notes/drum_5.wav
+SHA1-Digest: DYyRRTVyzB8MIbySCoXZJy9VIaE=
+
+Name: assets/interface/large/social_buttons01.rttex
+SHA1-Digest: YQYro9xPBaiD4oR+wKYGoXE77O0=
+
+Name: assets/interface/large/store_buttons/store_buttons20.rttex
+SHA1-Digest: KX3KJp5Y1edglX/AfkASChSBO/g=
+
+Name: assets/interface/flags/sl.rttex
+SHA1-Digest: FXTRIz4GF/+yztmASXwQbaZ7QU4=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.
+ 9.png
+SHA1-Digest: diQbfYJVTQiDXKYZp5gbrMVuavg=
+
+Name: res/drawable/common_plus_signin_btn_icon_light.xml
+SHA1-Digest: 9GmahrozCTSXZa2KR8Fz/p4NmfA=
+
+Name: assets/audio/rock_destroy.wav
+SHA1-Digest: r4Vll9tvDJ9NfNsy/g1FJSqNZVQ=
+
+Name: assets/interface/flags/lt.rttex
+SHA1-Digest: taMWFKpdFlYW1yGddO3SryNoxzA=
+
+Name: assets/audio/notes/spanish_guitar_24.wav
+SHA1-Digest: qQqAkcLLSCDlt8X/NRndQ8+Q65k=
+
+Name: assets/audio/squish.wav
+SHA1-Digest: p12JDkTdejQBkAt2/ztIh+Y65DE=
+
+Name: assets/game/su_mercwn.rttex
+SHA1-Digest: Y9beJQsFrIy6H1AGFI/4CwBUuJU=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_presse
+ d.9.png
+SHA1-Digest: xZRteKqA5SUTkatnOvxZNLFrzEc=
+
+Name: assets/interface/flags/bi.rttex
+SHA1-Digest: feFhWzVlRcuqu5yn3SyO136M1o8=
+
+Name: assets/audio/switch2.wav
+SHA1-Digest: yCGv/F0AKa9V/jZPf2KzXkT1Epo=
+
+Name: assets/interface/flags/ps.rttex
+SHA1-Digest: sucAZsG2R3fQg4a9IH8Cw79aoYg=
+
+Name: assets/interface/large/store_buttons/store_buttons3.rttex
+SHA1-Digest: vKoONvrfKqiRmCTaHNww82h+od4=
+
+Name: assets/interface/flags/bo.rttex
+SHA1-Digest: dXVzhibFLNb+G2eIdE0sIfaUtJE=
+
+Name: assets/interface/flags/vu.rttex
+SHA1-Digest: r5+CC3aGPv/bGeLxgr+mAkhdKkg=
+
+Name: assets/game/player_face.rttex
+SHA1-Digest: 4phHcVvZMrndNdsuJO0i4/kutiw=
+
+Name: assets/game/pt_sownhsk.rttex
+SHA1-Digest: LHCNI8UGLUCtRNxkHNnkz4BxvBU=
+
+Name: assets/game/pyat_zibnk.rttex
+SHA1-Digest: OpMU2NLeeKh2YL6Lz4kUY4gsn0g=
+
+Name: assets/audio/notes/sax_18.wav
+SHA1-Digest: oxW2QtWq32o08T9u771aQ2yp3Vc=
+
+Name: assets/interface/large/store_buttons/store_buttons25.rttex
+SHA1-Digest: eYHcPPeBTRHVrUEA9GKe8HHzDgs=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disable
+ d.9.png
+SHA1-Digest: lWGz9pmUk6lcLBiS+tgQY4zTp6M=
+
+Name: assets/audio/notes/violin_17.wav
+SHA1-Digest: n43yVl6eO6X221upJ5wtNYNJmqY=
+
+Name: assets/interface/large/store_buttons/store_buttons4.rttex
+SHA1-Digest: oH/brmYtjcKkD5vJHL7tNalFMD0=
+
+Name: assets/game/player_faceitem3.rttex
+SHA1-Digest: ouHyDg6uEA7SEDdlXCcGNGoqAXc=
+
+Name: assets/interface/font_century_gothic.rtfont
+SHA1-Digest: 6oaheNCdYnZ9wiP0bpYPIYbuGE0=
+
+Name: assets/game/petrain2.rttex
+SHA1-Digest: mrYe7jMKcvyMfydid3rI/w+WsKA=
+
+Name: assets/game/pets/p_lnychk.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/game/player_feet_monthly1_icon.rttex
+SHA1-Digest: i4ZF1S5y8zWk/ZPWFTMBsq0/Pds=
+
+Name: assets/game/player_feet13.rttex
+SHA1-Digest: /j9AZgJAYTKFnfqT8XrrZRWOMsw=
+
+Name: assets/interface/flags/cd.rttex
+SHA1-Digest: 8dy3WKGyhKljV4hspZj+qp1GWVw=
+
+Name: assets/game/pesno.rttex
+SHA1-Digest: mP0dILB+2AD9P25PlXA36Ryjxog=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: XwOTmsZb60c94bqfKQQU9nykmZY=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: QV7x7B+MXuoMh/A/Uz8+W34MQl4=
+
+Name: assets/game/player_head_skin7.rttex
+SHA1-Digest: jJ0LgqXsW+e4jl9HV0cm8HoaWOs=
+
+Name: assets/interface/large/store_buttons/store_buttons24.rttex
+SHA1-Digest: c6MnYpfHNfeZFjDmf6Xct7FwvLY=
+
+Name: assets/game/particles3.rttex
+SHA1-Digest: MolGFXtNxSCnSDWFrTgWecxQICo=
+
+Name: assets/interface/large/gazette/gazette_5columns_btn01.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/interface/tutorial/tut08_chat.rttex
+SHA1-Digest: IdIYkiUFTEJ9c96P4MEOvr9HttM=
+
+Name: assets/game/sky_pg.rttex
+SHA1-Digest: izrALdZAPY/bJHubuJWiXtex/Lc=
+
+Name: assets/audio/notes/bass_13.wav
+SHA1-Digest: PxsfLKJozjiONKBzATPGugkdQJY=
+
+Name: assets/audio/notes/violin_19.wav
+SHA1-Digest: X58+92kevD24aSPF9YtCQZNRZTo=
+
+Name: assets/interface/large/leaderboard_button.rttex
+SHA1-Digest: SNVrQuuSu33WTp7P19e287uYCyo=
+
+Name: assets/game/pot_kide.rttex
+SHA1-Digest: CSsByXwWuIU9WNxP+QGzEfuQIOw=
+
+Name: assets/game/Balloon_06.rttex
+SHA1-Digest: +sDGLS9C9SZLxJoyUqcsM6OaDnE=
+
+Name: assets/interface/flags/bj.rttex
+SHA1-Digest: FZSUkQywi8gYq5z57vhNia68oko=
+
+Name: res/layout/post_input_button_container.xml
+SHA1-Digest: oGahdATKG56Gie7y4DGWz+YkgFY=
+
+Name: assets/game/selk.rttex
+SHA1-Digest: 0mwMCz4VDpdEZQQHESkGjWyWPbo=
+
+Name: res/layout-v17/window_frame.xml
+SHA1-Digest: IvuomI7V8sGBlEtkiBhcEY0lyko=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_presse
+ d.9.png
+SHA1-Digest: t1GO7BQ2t2TM/8HpppXRZkTS6Nk=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled
+ .9.png
+SHA1-Digest: 8wNKLbzUS7lbl9b2IuvrE4Jx9g0=
+
+Name: assets/interface/large/gui_store_button_overlays1.rttex
+SHA1-Digest: jiPJGqI/6W9XJgN1MGOB+9Ij6E4=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: UqHApvWonUM6gfOLdX0I2vr6xDY=
+
+Name: assets/game/player_arm_pointerup.rttex
+SHA1-Digest: Nj6BHFuPAAOWTlEJRHqqpxVetJo=
+
+Name: assets/audio/notes/violin_25.wav
+SHA1-Digest: JgxuiswwtA6XDwb3ud9lN2KYiCU=
+
+Name: assets/audio/slash.wav
+SHA1-Digest: ZAuhQH7E7e01ggcRqcGZ6pilE6Y=
+
+Name: assets/interface/large/gd_lup.rttex
+SHA1-Digest: 858JAeZgrDAiTkAEIMeStwry21c=
+
+Name: assets/interface/tutorial/tut09_plant_seeds.rttex
+SHA1-Digest: T8Fyw/Fmz4Z+1qXhC0D2Jc6Y+Vk=
+
+Name: assets/audio/wind_loop.wav
+SHA1-Digest: hUSxkZpJvge5p7S3HVp8WKhYtXI=
+
+Name: assets/interface/flags/sh.rttex
+SHA1-Digest: HaLBxd6EV5v2riweoljr3GlGQ5Q=
+
+Name: assets/audio/notes/sax_25.wav
+SHA1-Digest: xQ4vH7eVbZHYs6wQY7FZtBjhR+E=
+
+Name: assets/game/su_hill2.rttex
+SHA1-Digest: +jzvKCehgEhOSCr9kT0+zpMVhfw=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: bANUipRjmNIjOK7kpTC0SWcFOEo=
+
+Name: assets/game/ld_parts.rttex
+SHA1-Digest: 0aK+Pcg7weVfcfeSERNTSr/MwTw=
+
+Name: assets/game/peplandin.rttex
+SHA1-Digest: nXb7wgboG4aLjbEw8xvneV4Y4PA=
+
+Name: assets/game/p_wer_and.rttex
+SHA1-Digest: qbRTLnA7HwjJVuhqVstelXuFSRU=
+
+Name: assets/game/Balloon_03.rttex
+SHA1-Digest: nPtqgikxEpGPKMj3tbWdBQHY65g=
+
+Name: assets/audio/twinkling_lights.wav
+SHA1-Digest: BbNP1hUFSJp83zLBgXJ4+y8SXTQ=
+
+Name: assets/interface/large/gazette/gazette_3columns_btn03.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/audio/notes/lyre_9.wav
+SHA1-Digest: G0ajeAxl/cqvuB0eO/JTHs5YrmA=
+
+Name: assets/audio/tile_created.wav
+SHA1-Digest: 36F4//P+EGUYAvy8aVYgOtRgN84=
+
+Name: assets/audio/notes/electric_guitar_23.wav
+SHA1-Digest: ho5dSbWlvRSYsxuBFpuoS1C2/+A=
+
+Name: assets/audio/ogg/jazz_loop.ogg
+SHA1-Digest: +8/tVLOt4SJQ78wnj9RnbVfVeZw=
+
+Name: assets/audio/pinata_lasso.wav
+SHA1-Digest: /T/X3Pxy0fuXYzaPsTK+IS76BZA=
+
+Name: assets/interface/flags/fr.rttex
+SHA1-Digest: D71W1v1PtOVMzmu1KfRUqMZYM6E=
+
+Name: assets/interface/large/gui_event_bar.rttex
+SHA1-Digest: IWsXw4KKWbwr4vo/gfFu0PUqvBI=
+
+Name: assets/audio/notes/lyre_14.wav
+SHA1-Digest: 7nypIlfrlB8871BiYiY/Fl6sS78=
+
+Name: assets/game/pe_bol.rttex
+SHA1-Digest: tqwRokTeEMmmDjOlEYiaCvLQc/s=
+
+Name: assets/audio/notes/spanish_guitar_17.wav
+SHA1-Digest: QYg7uixuVM7Cwsnn1bEiZv7j108=
+
+Name: assets/game/sunset.rttex
+SHA1-Digest: Bc95acmY1BRgCEQ2VN1Wl5BVucQ=
+
+Name: assets/audio/trash.wav
+SHA1-Digest: 4MLGXYLFjAQ3mkqmB7TqymSutlU=
+
+Name: assets/game/dn_dth_fx.rttex
+SHA1-Digest: NHlGhxM3KJv67tjnG2TBgTSmp9o=
+
+Name: assets/game/icebg_2.rttex
+SHA1-Digest: 6zBtUi2dUIMka/JvHqj4v0nO5tI=
+
+Name: assets/audio/notes/lyre_20.wav
+SHA1-Digest: POSv875LelCy8x3Deg7BkQmvjwM=
+
+Name: assets/game/particles2.rttex
+SHA1-Digest: /73qHsK8chosN73fUtvIpLZIcto=
+
+Name: assets/interface/large/gazette/gazette_3columns_community_btn01.
+ rttex
+SHA1-Digest: FU3XGE5Xi5UtJMc2+CGxAQ5ecVs=
+
+Name: assets/interface/large/gazette/gazette_5columns_btn02.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/interface/large/gazette/gazette_3columns_btn02.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/audio/punch_locked.wav
+SHA1-Digest: /CpfTHK1L9vUojJ5U5IlmmybPJ4=
+
+Name: assets/interface/flags/sg.rttex
+SHA1-Digest: Gvtq0saj3JNJDoHbhPB6e80QDoE=
+
+Name: assets/game/pih_napile.rttex
+SHA1-Digest: uGzYfrE5nHbhc4TsC9aFM3GfPxw=
+
+Name: assets/audio/fr5.wav
+SHA1-Digest: FLhr9itjNTZn5azKhnpbuOLyvCg=
+
+Name: assets/interface/flags/cg.rttex
+SHA1-Digest: DK5TbGR767lK756U0Db1MQjkV90=
+
+Name: assets/audio/notes/drum_3.wav
+SHA1-Digest: xxj/I5sxQdkJ0ycYuwA3JNtHRu8=
+
+Name: assets/game/pelyc2.rttex
+SHA1-Digest: fb9sonv3aLhkHq2/RIClyMJn/qo=
+
+Name: assets/game/gui_sn3.rttex
+SHA1-Digest: lR6mvcnz/xl2LBLMiWcDucEUpoI=
+
+Name: assets/game/particles.rttex
+SHA1-Digest: ExKcB0/MNUhC5SeQl9j2DI1N39w=
+
+Name: assets/game/pets/p_crowk.rttex
+SHA1-Digest: WuVm4Kj6dH0j7NuVmqCMV9TVj4w=
+
+Name: assets/audio/notes/lyre_3.wav
+SHA1-Digest: PL0HFCAGQ1F5ulhmRCRHGyUgNvs=
+
+Name: assets/audio/notes/piano_17.wav
+SHA1-Digest: e/dWgNQlEdtgDxdwe3IeQxTZREc=
+
+Name: assets/interface/flags/zw.rttex
+SHA1-Digest: fnNm0auRXm/ZGMlK/lDq9hlSg+w=
+
+Name: assets/game/tiles_page1.rttex
+SHA1-Digest: nWwH8i4azwZ+mC3sqbLeNbdDB4g=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: NjY9PbXV5NKkWR6Gw1AcVPip0is=
+
+Name: assets/interface/test.rttex
+SHA1-Digest: vhqmcHoMEGS9vbStCu+m1E420og=
+
+Name: assets/interface/flags/fk.rttex
+SHA1-Digest: BrJmpEyhSJiS7v4WBL2Y3ugGQt8=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focuse
+ d.9.png
+SHA1-Digest: v7E+sVjDZj4YAbkrcIsc9DfkvVk=
+
+Name: assets/audio/notes/flute_25.wav
+SHA1-Digest: DVUjDfsXjRao/zSyGNDkLt36suE=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 9JX8Vhjlc878Um33DOdhDt+1SiU=
+
+Name: assets/interface/flags/mc.rttex
+SHA1-Digest: 9pn1Pgu1jZrXrHO6BJhUNHxnPlg=
+
+Name: assets/game/player_faceitem7.rttex
+SHA1-Digest: gHIPXDd7a1HihCWm+XEMUJRknlw=
+
+Name: assets/audio/notes/flute_10.wav
+SHA1-Digest: DjlJRt99oCB7kL8xHWycb53yods=
+
+Name: assets/audio/notes/spooky_20.wav
+SHA1-Digest: dl+fshStrqYoyKhjSH47cmbhq2E=
+
+Name: assets/game/port3_virik.rttex
+SHA1-Digest: aH0SM3gammRNx0aGpXtTjqL7rlg=
+
+Name: assets/game/gd_tic.rttex
+SHA1-Digest: PXOVS+PMqnReHn9BSXrvbkRwzXU=
+
+Name: assets/game/pets/p_koh.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/game/pih_andvark.rttex
+SHA1-Digest: B18kx09CKlVJ0aKD5SYCCeEjdu8=
+
+Name: assets/audio/lb_sfx1.wav
+SHA1-Digest: RsQZD9lBkxYlWV6yBD8EeiVMdZU=
+
+Name: assets/game/pets/p_dfari.rttex
+SHA1-Digest: x0OGG+jmZEr53+lTcyXFKVXEvPg=
+
+Name: assets/interface/cross.rttex
+SHA1-Digest: AgvJ9n4tt6wW6VB/f3z5mOGSIYk=
+
+Name: assets/interface/seth.rttex
+SHA1-Digest: O8hq5a38sjZXWsAOBcbuHBAk/XI=
+
+Name: assets/interface/flags/si.rttex
+SHA1-Digest: 1OYIJTg++/AN77qS4VHiC/oRCTk=
+
+Name: assets/interface/tutorial/tut_locks.rttex
+SHA1-Digest: dILaJ7Tbs8QQWiyUHfsFeI+kEq8=
+
+Name: assets/interface/large/store_buttons/store_buttons23.rttex
+SHA1-Digest: 5ANwW5Z9KjK8XzApdoNU8bB9nXA=
+
+Name: assets/interface/large/gazette/gazette_3columns_forum_btn03.rtte
+ x
+SHA1-Digest: fwY1R66MSOh6U/dvPmVJyB1Ae7g=
+
+Name: assets/game/pets/p_arcno.rttex
+SHA1-Digest: Z85L1EcUd1SGd3P5MBY3DZ5vxOA=
+
+Name: assets/game/player_pants3_icon.rttex
+SHA1-Digest: 61LBGLEVsO6HHFWgM+WnVam9Gpc=
+
+Name: assets/audio/notes/bass_19.wav
+SHA1-Digest: FHqj3CTlBTazR9uRcbC+FpGHAN4=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal
+ .9.png
+SHA1-Digest: k7C84umF+x66K16LsV/cXJzekzY=
+
+Name: assets/game/ld_ctymid2.rttex
+SHA1-Digest: XfVoUH72RWNQnawXtVBLVeqQ8jQ=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ .9.png
+SHA1-Digest: HihHAcXSJV42NtJ0bX0aNnjGTg0=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: vNxXOzwznLbYLSfXG3WlM/0KYJA=
+
+Name: assets/interface/large/gazette/gazette_3columns_policy_btn03.rtt
+ ex
+SHA1-Digest: Iz/kGQA4SklclyQK3tu26ri0xWA=
+
+Name: assets/audio/slot_win.wav
+SHA1-Digest: JsWiZatwqVgbAnRkHbsxWtX01TA=
+
+Name: assets/game/player_feet6_icon.rttex
+SHA1-Digest: 3Y9BLAmYfsVy78SZKUrLp+D99Jo=
+
+Name: assets/interface/flags/za.rttex
+SHA1-Digest: fSpwvFbJxJrvYAViIHo8Be3Px44=
+
+Name: assets/game/gd_page3.rttex
+SHA1-Digest: WKgPyULvK1yVIze8COK4V9M3GOQ=
+
+Name: assets/game/particles4.rttex
+SHA1-Digest: mcD418BRpF8CcxEjZHA/8S6LM2U=
+
+Name: assets/interface/flags/pe.rttex
+SHA1-Digest: mr385RZdSDAjVTzjBvbML2xdykw=
+
+Name: assets/game/pet_frnk.rttex
+SHA1-Digest: WqNvvpP9BJhdnmx6Y/NkWMBdVrY=
+
+Name: assets/interface/flags/bw.rttex
+SHA1-Digest: t0mIxi8VN+Nt2VSfUxfylGhYiSQ=
+
+Name: assets/audio/notes/sax_16.wav
+SHA1-Digest: yWx42jhI3+1Nd3wXLheYSGL5etI=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: /9TedBWY3hVupugid7vn6Iby41w=
+
+Name: assets/audio/notes/violin_23.wav
+SHA1-Digest: +gzWlKYr4uR0MR7GO0zcELqbKkM=
+
+Name: assets/game/player_faceitem.rttex
+SHA1-Digest: 0G3D0VFyiH1Ol2iLDECxvTKOCXE=
+
+Name: assets/audio/cumbia_horns.wav
+SHA1-Digest: TQCWaZTfQYtC1xJSpNLp8o4yyi4=
+
+Name: assets/game/pih_awlran.rttex
+SHA1-Digest: QX2+4Qnnse7CfTT2uOS/neDVGZw=
+
+Name: assets/interface/flags/mh.rttex
+SHA1-Digest: 3iDVphRLN9BeodkU1xmoDtB9D5o=
+
+Name: assets/audio/cant_place_tile.wav
+SHA1-Digest: qLM6CZ+gdEYhHTxXho9QCMWVp5Q=
+
+Name: assets/game/gui_rol_2.rttex
+SHA1-Digest: CuxZACABbzvV3/UV5uBL1E22oi4=
+
+Name: assets/game/pet_chick.rttex
+SHA1-Digest: HSp2uQEKtpBsUiMcb8TDCtA3Ah4=
+
+Name: assets/audio/punch_glass.wav
+SHA1-Digest: tTNB4cGQ67kxMFZQRyddTbcHbCc=
+
+Name: assets/audio/notes/sax_7.wav
+SHA1-Digest: 6oULL15e1oEvZSNqXC8hinocB0A=
+
+Name: assets/game/pih_sufmire.rttex
+SHA1-Digest: 0W/dUhb8vXCB+Erhqeymy5CVuxo=
+
+Name: assets/interface/font_century_gothicx2.rtfont
+SHA1-Digest: qMyibK2Tky0lfZpPL0qRtuziljg=
+
+Name: assets/interface/rtsoft_logo.rttex
+SHA1-Digest: oxsMOEOcm036uNz29Nx2XCNbfyg=
+
+Name: assets/game/pom.rttex
+SHA1-Digest: qgrjbZhgC4IWHxLnp3NWkjmIOYE=
+
+Name: assets/game/pets/p_spg.rttex
+SHA1-Digest: vvRMIhq/Ih7BmmsMKe03zF9tNcM=
+
+Name: assets/interface/large/gazette/gazette_5columns_btn05.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: wS37sQ1iqwlX3I1H0gfiVZZzEFE=
+
+Name: assets/interface/flags/pl.rttex
+SHA1-Digest: wbU0yod7adOeyrWS1FiSO/V8aIQ=
+
+Name: assets/game/robe_cloth.rttex
+SHA1-Digest: 1Cfj85LiQdeyhAdnY/HxyXOd7S4=
+
+Name: assets/interface/flags/it.rttex
+SHA1-Digest: 8+oNT4i8zfPm/qmEkF624OiUAXg=
+
+Name: assets/game/player_head_skin4.rttex
+SHA1-Digest: m8tSGZ4HWZRSstOBgtkAq9LHpZc=
+
+Name: assets/game/particles6.rttex
+SHA1-Digest: fKD9/L0GUiCuv/BxdMP16IE3Cq8=
+
+Name: assets/interface/token_icon_overlay.rttex
+SHA1-Digest: eEOiAmyw9ivxBS2LLUWNgdQ3zKo=
+
+Name: assets/audio/knock.wav
+SHA1-Digest: vheIPPduKlVZxdrgq8HMOuflP/w=
+
+Name: assets/audio/notes/piano_7.wav
+SHA1-Digest: wfb8Xw9i1BdTL5F0Pl9WjNj9qdU=
+
+Name: assets/game/player_puncharm.rttex
+SHA1-Digest: 1CM7WwymoycmOfye/BHANX+xTAQ=
+
+Name: assets/interface/flags/br.rttex
+SHA1-Digest: 4BA5QC6dGxZIKrect94T7i6yVo4=
+
+Name: assets/game/player_feet10.rttex
+SHA1-Digest: 6qxWxhiHRcp+nY/hSrqGKBm7j1A=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9
+ .png
+SHA1-Digest: nyApScQS8pTVj6pveaNl6tdTXNY=
+
+Name: assets/game/player_sleeve.rttex
+SHA1-Digest: vJ8sLXaHSIRzdEYHIo+6TLdHm4c=
+
+Name: assets/interface/large/gui_store_growtoken_top.rttex
+SHA1-Digest: us4X28fIsXeHZFncNyLbUR6hI4g=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: pcfLWB2i3LHPCG6bzpaMRe4X7YE=
+
+Name: assets/audio/notes/flute_9.wav
+SHA1-Digest: W9HdwFjnULCEqeJ1WMLe6waTrCU=
+
+Name: assets/game/player_handitem.rttex
+SHA1-Digest: zxtCjzJVrQxhRZW9pAs8wCsaCRM=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: VhRogc4R8Yr/iiRD/yykj9BKqk4=
+
+Name: assets/interface/large/generic_menu.rttex
+SHA1-Digest: mZI6V9PBbf6712csXhBvljDmZyA=
+
+Name: assets/game/st_dsec_backsky.rttex
+SHA1-Digest: w9QuocteOhqlafXU7Wl/aOa/pgQ=
+
+Name: assets/audio/notes/spooky_6.wav
+SHA1-Digest: +SiQboqbuqjPTmFVB/yASrLFpcg=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: G5pKKYoJ7WGAwzal73k1kq84A6Q=
+
+Name: assets/game/amorkolg.rttex
+SHA1-Digest: /oJ+EtZ5q5S51A+1XySt6mAR9A4=
+
+Name: assets/game/player_hater_icon.rttex
+SHA1-Digest: gHwc9DUOIoWu+47YUIBOvzmXX78=
+
+Name: assets/audio/ogg/naughty_princess.ogg
+SHA1-Digest: wFxnv9EuRGMEif6CtBHOzGSedJQ=
+
+Name: assets/game/crack.rttex
+SHA1-Digest: hy3HHaTvyA5aNbjlFEKhF4tesM0=
+
+Name: assets/interface/flags/fm.rttex
+SHA1-Digest: 3CIC/OBi1Z/ALl9UhSfScStr2rg=
+
+Name: assets/interface/large/tutorial_vid_buttons.rttex
+SHA1-Digest: YX95kWaO2v3whXX2thpr0I021dg=
+
+Name: assets/audio/siren.wav
+SHA1-Digest: uxDkV2SNImk/87geZCMSgmPHTcU=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: TtmWXD986AoFdKhBNk0FmSmNm/M=
+
+Name: assets/game/pets/p_muttonp.rttex
+SHA1-Digest: ksaIHhG4enqhmYifLS0xlTx7FI8=
+
+Name: assets/audio/slot_start.wav
+SHA1-Digest: d4wTSr53ZASK/GvpNKUs7eqynSI=
+
+Name: assets/game/float_clouds6.rttex
+SHA1-Digest: r6DV0Nd9NLlzz3TaNWLS+D5xTaQ=
+
+Name: assets/audio/squirt.wav
+SHA1-Digest: XXdHObtfcj6dSSH45OJOYAARkkU=
+
+Name: assets/game/ptdag.rttex
+SHA1-Digest: U9W/RuPMn/dD9WSIZZxVpmCiRqk=
+
+Name: assets/interface/flags/me.rttex
+SHA1-Digest: n0rXO4ojRdOaFGByojecET2dyDI=
+
+Name: assets/game/paffrok.rttex
+SHA1-Digest: 2Iqudf+uHr7ieYOMijQYFa8LhDo=
+
+Name: assets/game/player_horsepants.rttex
+SHA1-Digest: Ew0fN9ogDwksCqEQpJgFbLhgNns=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: sEHKhKnnm/9sXz2EiztVbNx9EH0=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: teBQMTLQ/q/Yidfi4Cg0oE9uP40=
+
+Name: assets/audio/laser.wav
+SHA1-Digest: ykUVyjgrJ9av2M6Jwnc8aS2MwZs=
+
+Name: assets/game/pe_kigtn.rttex
+SHA1-Digest: XINWTlMB9fkdieKwUya0md4+kgk=
+
+Name: assets/interface/flags/lv.rttex
+SHA1-Digest: 8bqwzT20XT380bbC1nBt1Ikpc/M=
+
+Name: assets/game/player_head_skin2.rttex
+SHA1-Digest: apzK+thqHqE58vh6qb7LNKU+PN0=
+
+Name: assets/audio/ogg/theme4.ogg
+SHA1-Digest: Bsxjy7nBPxPrFrMGDCrtRfb1pkg=
+
+Name: assets/game/gui_rol_5.rttex
+SHA1-Digest: T1ZjZZMbcoiDHth/uC9CyZBTK48=
+
+Name: assets/audio/notes/spanish_guitar_15.wav
+SHA1-Digest: YT7jT4bnxQhH6k7PXKFBb+V2LkQ=
+
+Name: assets/audio/race_end.wav
+SHA1-Digest: MJtgx2ofNZLwCWgljujYzRPAP4c=
+
+Name: assets/game/d_rlight.rttex
+SHA1-Digest: kqhqGcCEVG1qrC7UE3mQMy7Z6NY=
+
+Name: assets/audio/beep.wav
+SHA1-Digest: Xci9NAtVD9qcRUuT9aWkthJHTLs=
+
+Name: assets/game/player_chestitem.rttex
+SHA1-Digest: ZvMJ4+jJ9nTe/kv2rBq9n+ODqiI=
+
+Name: assets/audio/fr3.wav
+SHA1-Digest: Ra0jpa5lZB1XUYmlymeVkYODUYw=
+
+Name: assets/interface/large/gazette/gazette_3columns_forum_btn01.rtte
+ x
+SHA1-Digest: 4TXLbNCd/3GwndJXgxw8r5gqW3s=
+
+Name: assets/game/comhr.rttex
+SHA1-Digest: YytOGuvYD4eSlRIvQPAZxd5BgRE=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: FNWhxAvR4rWCJvO6RZ2v6+t3nNA=
+
+Name: assets/interface/flags/sz.rttex
+SHA1-Digest: FsiB0UwZ68cajkwP9ROBNA+3qlo=
+
+Name: assets/interface/flags/sn.rttex
+SHA1-Digest: wchSYfYsKO5F5DA9nSReGiA0+Zs=
+
+Name: assets/game/busy_brb.rttex
+SHA1-Digest: MtzslopVLWgCQgDh0g90yisOSSM=
+
+Name: assets/game/gui_rol_4.rttex
+SHA1-Digest: 4vz8sLjxDpZZY7belGksw4GFpCY=
+
+Name: assets/audio/notes/spanish_guitar_8.wav
+SHA1-Digest: g/ecYiVoPxd8NPkCt20zjiKYXqg=
+
+Name: assets/game/float_clouds8.rttex
+SHA1-Digest: wxeEmYSjAjC6z+hnmACtlo7JJ0k=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: qRnIWPOu/MJDV1VVJTM7qf+WQdo=
+
+Name: assets/audio/notes/lyre_16.wav
+SHA1-Digest: p1SpQzkgdMb0+nC3EqsUU3/AVok=
+
+Name: assets/interface/large/store_buttons/store_buttons28.rttex
+SHA1-Digest: X99ugdztcLZJzlWpFMoX4ADlVys=
+
+Name: assets/game/d_aura_icon.rttex
+SHA1-Digest: siXfh5OQktsdv8Zh9YW3DAreOkQ=
+
+Name: assets/interface/tutorial/tut_arrow.rttex
+SHA1-Digest: 4mG6JCYq3iOjF3nyzDhEpLTeWNY=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.
+ png
+SHA1-Digest: h63kL/ee7jcnYESbCTus9XXRx1Q=
+
+Name: assets/interface/large/game_on.rttex
+SHA1-Digest: 9WgzBCD3qwY2fneeTQMyF5grwic=
+
+Name: assets/game/gd_page1.rttex
+SHA1-Digest: QI4LqskMerbByNzEKpQe/gjowfA=
+
+Name: assets/interface/large/punch_icon.rttex
+SHA1-Digest: L+/q8t4Wpj3nBXhaaUjXDbbF3Yo=
+
+Name: assets/game/io_rcrack.rttex
+SHA1-Digest: 64bBkL4epFaPtInoeLLqdM1JyFM=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_presse
+ d.9.png
+SHA1-Digest: KGZqA8v1blu83UKCPQIpVppD77g=
+
+Name: assets/game/player_handitem7.rttex
+SHA1-Digest: Ez2/8K8WZjE/IAirlQwL0UaJm48=
+
+Name: assets/game/plaspr.rttex
+SHA1-Digest: b7wATGeZD7STnLGcMx5oQAirbLA=
+
+Name: assets/audio/donthitme.wav
+SHA1-Digest: DojodNaP4rofotaYc6B5aqhkDBw=
+
+Name: assets/interface/large/gd_potus_3.rttex
+SHA1-Digest: 6lJknZZkZi3ii6frueUbddK1dEI=
+
+Name: assets/game/ld_ctybg.rttex
+SHA1-Digest: TnnScfZGsTSyQDk0b680WtV/XR0=
+
+Name: assets/game/p_drn.rttex
+SHA1-Digest: ZJLbcBNrvEQrb13t9EhREXAM6Fo=
+
+Name: assets/game/gui_sn6.rttex
+SHA1-Digest: kt/4AEO9ZHZBs3TJn7a/BFElDuA=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SQEZAdwkba0EmrQH7lrE5UvQbOY=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: 628GS5HVvwduvmssmZehy2yxrVY=
+
+Name: assets/game/player_arm.rttex
+SHA1-Digest: wl2ZDhcD+5UFafPnddrXwB/Ob8o=
+
+Name: assets/interface/flags/wf.rttex
+SHA1-Digest: tzB6+Exk8Kyz+2QsoPDd1IWUAj8=
+
+Name: assets/audio/notes/lyre_5.wav
+SHA1-Digest: okWM/fwpW787AayTcVtIajPfr08=
+
+Name: assets/game/comhr_icon.rttex
+SHA1-Digest: O0vSuTRpc67M+Xq8vYG5f+QK+g4=
+
+Name: assets/interface/guide_arrow.rttex
+SHA1-Digest: gT3wRraAY+PSVrkq18Ij7Lud1bM=
+
+Name: assets/interface/large/store_buttons.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: vDaciCVYabglumaSaLMmtc7KLcI=
+
+Name: assets/audio/sizzle.wav
+SHA1-Digest: 4vw55zaI0nZUarEWOmRoT65UCY4=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.
+ 9.png
+SHA1-Digest: WGcnpc6vFQVhtpH6x9CkYH9aOkk=
+
+Name: assets/audio/notes/spanish_guitar_13.wav
+SHA1-Digest: BogjvBIxzDG4ukFLL5efCZA6yzM=
+
+Name: assets/game/player_head.rttex
+SHA1-Digest: /b7xjn4TQdxeDGBkSWMK100FleY=
+
+Name: assets/game/pets/p_lnygpi.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/game/tiles_page4.rttex
+SHA1-Digest: 1aMtkmSfW/4f140fQCSoi1jwSpc=
+
+Name: assets/game/player_shirt2.rttex
+SHA1-Digest: HBxcM1FwTVY088WkZdDf/B5dDAE=
+
+Name: assets/audio/notes/piano_19.wav
+SHA1-Digest: +lYqpag4hwTT+0mR7DjFnFpFqwY=
+
+Name: assets/interface/flags/pn.rttex
+SHA1-Digest: 6Eq7CZY5844NSkhdhYRX69vkM7Q=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed
+ .9.png
+SHA1-Digest: /rLvGJWRMzs/wIv5GeH9XfiN9xI=
+
+Name: assets/game/pih_aloxt.rttex
+SHA1-Digest: AG+6hQMSoVP4htLWHaljbCL1UJY=
+
+Name: assets/game/gui_sn0.rttex
+SHA1-Digest: xodop5YDsGCKmH2HJOTIcFbt+nc=
+
+Name: assets/audio/ogg/jinglebellsmusicbox.ogg
+SHA1-Digest: aSkcF2qa/fd0QQA1j7re/fb9OJ0=
+
+Name: assets/audio/jet_engine01.wav
+SHA1-Digest: Z5fDu4j57pUYS8KCbeoBZUy4gIk=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Tg8rG9qS6C3GGXqnPIbwhnHcScE=
+
+Name: assets/interface/font_century_gothicx2.txt
+SHA1-Digest: nuWFVGkx94Ov35WdzuMNvYykooo=
+
+Name: assets/interface/flags/bt.rttex
+SHA1-Digest: JE50ZpbEYgd6AI0KkSOPD3TsERI=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: 8rkuTl7lbtRP8GDE1zJvS0HWxiw=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: cv9bJFQpCgaU++Q3+0Wh+QsBEMc=
+
+Name: assets/game/jungle_hills2.rttex
+SHA1-Digest: u+HhtsDWcCmTEPgyXq4j/0lcY6w=
+
+Name: assets/game/gui_itembox.rttex
+SHA1-Digest: 7DStF4VG/0dvQwGbuw0g/SOEQtk=
+
+Name: assets/game/tiles_page3.rttex
+SHA1-Digest: qrjXdoRdtLRyCOYvimXCe7nCyxY=
+
+Name: assets/audio/notes/sax_5.wav
+SHA1-Digest: kndMb1t4adhFkHII+M9NKXGITto=
+
+Name: assets/game/pets/p_stdr.rttex
+SHA1-Digest: GHrL6jfcCr1X5v60NR5l16+yNxE=
+
+Name: assets/game/tile_blocks_overlay.rttex
+SHA1-Digest: zUnEv4FxaygnvfSvLfhc+C7fiSc=
+
+Name: assets/game/float_clouds4.rttex
+SHA1-Digest: 4UfUkQyDwkFiEfsjfzVRfsBAkJw=
+
+Name: assets/interface/flags/fi.rttex
+SHA1-Digest: wJDeYWxJfxcHO+ZHDN+Kk2crvU0=
+
+Name: assets/interface/flags/sv.rttex
+SHA1-Digest: 0rtONzYiKum9/ItgVX3cmGOOyNc=
+
+Name: assets/game/player_handitem2.rttex
+SHA1-Digest: oPY/v7Kz/w0NGwvIAim2xj3vu/I=
+
+Name: assets/game/player_shirt3_icon.rttex
+SHA1-Digest: dbJGmIsU+qmKOvTzzZnAdXiy4EA=
+
+Name: assets/interface/large/gd_potus_4.rttex
+SHA1-Digest: cxEI3cWm7oBj+ZIcp2OotydasEw=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled
+ .9.png
+SHA1-Digest: vVY149DSe1nA95vNidcXSqAmfQk=
+
+Name: assets/game/io_morele.rttex
+SHA1-Digest: 0oUVB3/iuFex4ttO/8x0AGbZHQ0=
+
+Name: assets/audio/change_clothes.wav
+SHA1-Digest: xrOBmi5Da7fT8A5RPPyPAfoDoDY=
+
+Name: assets/audio/notes/flute_12.wav
+SHA1-Digest: g06mAaCTVCmn9FiNAm/vgu+ru/0=
+
+Name: assets/game/mi_minbot.rttex
+SHA1-Digest: Ss0ENyUtjR8qYSTqSJoiGvnEVGI=
+
+Name: assets/audio/bird3.wav
+SHA1-Digest: nEi8WEYxY8czl6W2S9M7FMFlJZI=
+
+Name: assets/interface/large/black_pointer.rttex
+SHA1-Digest: 7d1+raUACFxTUzxBPJ6zbG5uOR0=
+
+Name: assets/game/float_clouds5.rttex
+SHA1-Digest: O+8M+fhvijr8OR+lVPYOpPipRLM=
+
+Name: assets/audio/squish_undo.wav
+SHA1-Digest: ZGcjje5UubKu5CcNedA5ivzhXLY=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.
+ png
+SHA1-Digest: gouuiXIHTtS+PfIvYfOcWh+8urU=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabl
+ ed.9.png
+SHA1-Digest: oBlp8PMfj0zb1FgTgNVF1aqOIsk=
+
+Name: assets/audio/male_scream.wav
+SHA1-Digest: FwZ9Lcp8VI1wFcPOPLBN5oSqI6A=
+
+Name: assets/audio/rain_loop.wav
+SHA1-Digest: FgVfgUgx75j5uaSeogG12CoQT8A=
+
+Name: assets/interface/flags/ma.rttex
+SHA1-Digest: 5IpcU6LYtaNZ1Md3r9bk9liMHeg=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.
+ 9.png
+SHA1-Digest: SxzbrhMDgVzskbp28auW5k28VgE=
+
+Name: assets/audio/notes/bass_9.wav
+SHA1-Digest: 0S3NDLpD0ecjnBhVFQKDXMd1Zlw=
+
+Name: assets/game/tiles_page9.rttex
+SHA1-Digest: s3XPPrFMIBfmRk74FJdTqF9g3lg=
+
+Name: assets/audio/freeze.wav
+SHA1-Digest: KD4QJMTVGc8zcSDzlXokDoYSVag=
+
+Name: assets/interface/scroll_bar_caps.rttex
+SHA1-Digest: jaOsswpk9keR++to5Y8+myD+nlg=
+
+Name: assets/game/greenwater.rttex
+SHA1-Digest: SdiqZebjbNJPpp5ZrZJIzaDUitY=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: MUA75lWBQDuBALpT9KxNJoyv1aM=
+
+Name: assets/game/gui_sn5.rttex
+SHA1-Digest: vwN4FmUpk2KOGkimR3rkFBrslXw=
+
+Name: assets/interface/flags/ly.rttex
+SHA1-Digest: DJoSUrTupAQ7ybWZpAU1lQW7PDM=
+
+Name: assets/audio/notes/violin_21.wav
+SHA1-Digest: 33SkuRx7BWcAzdkUhI67vgETjWo=
+
+Name: assets/game/pets/p_muttonk.rttex
+SHA1-Digest: ANbEOuRt2XVYEIoRN9H1p6u1wy4=
+
+Name: assets/audio/ogg/loopport_dubstep.ogg
+SHA1-Digest: G/9GjhYoNKzcURTEmfAmKpv373w=
+
+Name: assets/game/pets/p_spdud.rttex
+SHA1-Digest: QMNX4FJqeS69SHxkkC3I2JxUCeM=
+
+Name: assets/game/night_back.rttex
+SHA1-Digest: WHNKjon9rfLUPGzJgx0KKDxPn3o=
+
+Name: assets/game/snowy_hill.rttex
+SHA1-Digest: TfNmQB1ULmq3C84xn1dvYDUxsWM=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.p
+ ng
+SHA1-Digest: efcXn+MWJD2u0Q3uHaRU9RMPN6I=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: NdAtcTnm3TY7+YElBEehPwq2kh8=
+
+Name: assets/game/tiles_page8.rttex
+SHA1-Digest: 2YTmUUCyi9Se3WrhlRxHk1JGv3c=
+
+Name: assets/shaders/android/essl/NormalTexture.vs.bin
+SHA1-Digest: IAy+sg+QlRh/F3EFVSgWAuuGR3k=
+
+Name: assets/game/player_feet11_icon.rttex
+SHA1-Digest: TNstllENIKuIKwkp16Ch8egbWj8=
+
+Name: assets/game/pe_ginger.rttex
+SHA1-Digest: AyH4aPXBQm8NkyWDViGe2YoxrHw=
+
+Name: assets/game/tiles_page5.rttex
+SHA1-Digest: M9MHmr5T0y9rKtx+RZ/Z6GFuczw=
+
+Name: assets/interface/flags/zm.rttex
+SHA1-Digest: KznJ9Mbo097Si7XRBICVbVvq6hU=
+
+Name: assets/interface/handle_down.rttex
+SHA1-Digest: 3vSTF8Fu7BRa14vOuJQx/igBQVM=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.
+ png
+SHA1-Digest: KbDsyz4UoY+5XwKMkvp4WzJXLvs=
+
+Name: assets/interface/large/gazette/gazette_3columns_policy_btn01.rtt
+ ex
+SHA1-Digest: X/sp4n1CYsolyq0qX+2fLQV4Xy4=
+
+Name: assets/audio/notes/violin_0.wav
+SHA1-Digest: 47sx3dOQg2SUnfn3YA1S+JTLuLM=
+
+Name: assets/game/pih_eahor.rttex
+SHA1-Digest: Cv9+VsRthnbl4DVJDjuTq0nBkNU=
+
+Name: assets/game/fisticuffs.rttex
+SHA1-Digest: MVzjFF7ZFUWZVucJFr28bqE2z/I=
+
+Name: assets/game/pets/p_dtur.rttex
+SHA1-Digest: 7mYc6OjbfIv9o00FLN7uNka+SM8=
+
+Name: assets/audio/notes/sax_14.wav
+SHA1-Digest: T1/AGuejJvUpALt+yf+NFnQG2ro=
+
+Name: assets/game/player_handitem3.rttex
+SHA1-Digest: ZawIQupE4WvRVZZ270sbdMjuunE=
+
+Name: assets/game/gui_sn4.rttex
+SHA1-Digest: HM1+4tYi7TZEuzKI0jKHZfXjOeQ=
+
+Name: assets/interface/large/gd_potus_2.rttex
+SHA1-Digest: NK9Gm+Kk6EeyeSXOKLeuOC663ng=
+
+Name: assets/audio/firework2.wav
+SHA1-Digest: KEI2uuLkhaRAEwy4ay81vy1vo14=
+
+Name: assets/game/p_rvn.rttex
+SHA1-Digest: j4ZTLYKHdFaY/wyfvioeKMwtIYM=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focuse
+ d.9.png
+SHA1-Digest: mv8tFWFlPbEvYNQAUNQUjt/TtC8=
+
+Name: assets/interface/flags/ir.rttex
+SHA1-Digest: wlx2J+6/neOQph0oFhPFAYI84kU=
+
+Name: assets/game/player_handitem6.rttex
+SHA1-Digest: ATem6N/pUvtSJk/mSFeZjYvXgfU=
+
+Name: assets/game/player_pants2.rttex
+SHA1-Digest: hA5xjwEXBhvLTLkiS0L67PCiqTA=
+
+Name: assets/interface/flags/pg.rttex
+SHA1-Digest: ddBJwcldaaPZiYF2OruvBeJ7ppQ=
+
+Name: assets/interface/flags/sr.rttex
+SHA1-Digest: NZ6iu6dJsdHs0Khtp9AUa8M5KPw=
+
+Name: assets/interface/flags/io.rttex
+SHA1-Digest: 3CoIp0SYbyJNXO8hed7V+uWuFm8=
+
+Name: assets/game/float_clouds3.rttex
+SHA1-Digest: ATrMtZkH+7iN7NuY8Vj9a3UZfRM=
+
+Name: assets/audio/fr1.wav
+SHA1-Digest: C2zyn8plCsKPT0yVjYGW3EIiNLE=
+
+Name: assets/game/player_handitem2_icon.rttex
+SHA1-Digest: e0/XGGLJ+CBerWIRqnKjidmIGnI=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: aslG0myJazlW9/vPHzFOMpiPQps=
+
+Name: assets/game/rts.rttex
+SHA1-Digest: u2zaUgwkkqnGSnP6v5/s/KXwVd8=
+
+Name: assets/interface/large/gui_sn_bg.rttex
+SHA1-Digest: r2hQvPmbr/XmLPPJ5Mmx7awrQrY=
+
+Name: assets/interface/large/gd_potus_1.rttex
+SHA1-Digest: r2DrrrkmPRgL8RoHeKnWJNryUCA=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: 9Inb5P4iJBVlCL0O1oPDzdDOI2Q=
+
+Name: assets/audio/notes/spooky_8.wav
+SHA1-Digest: MMCsyTYshO+NX/HKplDnIT3YR70=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: q0cFR5EsIwskfG/BKnFT3jGVHFk=
+
+Name: assets/audio/ouch.wav
+SHA1-Digest: Lx9qpqM+VhbbPqY0hkq39jR7fGA=
+
+Name: assets/audio/notes/lyre_18.wav
+SHA1-Digest: +3+wsqIZ09ci0bcakSJpqAxsn0Y=
+
+Name: assets/game/player_pants3.rttex
+SHA1-Digest: tsOLc57zX0smqxcn+vfSep+jamE=
+
+Name: assets/game/player_shirt3.rttex
+SHA1-Digest: HyC2m7nUSkCJhFed0ahQuCte5OA=
+
+Name: assets/game/hills2_pg.rttex
+SHA1-Digest: gHAG5KZZKSDeA+xzQpp/fovjAng=
+
+Name: assets/audio/notes/electric_guitar_1.wav
+SHA1-Digest: 3F83fk+5r9RyscCWaQsjzGDZxb4=
+
+Name: assets/game/gui_sn1.rttex
+SHA1-Digest: 1IBNwXVf7LY/6jF24K/f0SbAUBY=
+
+Name: assets/game/player_handitem5.rttex
+SHA1-Digest: ctXLW1a5DIgpwykvQkiEFp9UZLo=
+
+Name: assets/game/tiles_page6.rttex
+SHA1-Digest: LXMF1s9ZjQXYTdDK09et+1IatTU=
+
+Name: assets/interface/large/btn_chat_setting.rttex
+SHA1-Digest: 74Z4NRA/is6VlD6UjZQOyynuzes=
+
+Name: assets/interface/flags/bz.rttex
+SHA1-Digest: t0nYYd8I+GdybKJn1H0r84P7KEQ=
+
+Name: assets/interface/flags/ph.rttex
+SHA1-Digest: SVMG4fvVQScn3waMrVaL1s7Fbo0=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9
+ .png
+SHA1-Digest: q6+o48jhXC+TMKcqk5W7+OtvtIw=
+
+Name: assets/interface/tutorial/tut_outofroom.rttex
+SHA1-Digest: zr7BU0AHaS/udDK6JN1QLI8Eyag=
+
+Name: assets/interface/tutorial/tut_people.rttex
+SHA1-Digest: eomH1MjqF3VNpMu9Jicke0AdRTc=
+
+Name: assets/audio/launch.wav
+SHA1-Digest: WwdMCGLiRYKSb6Bq92rzsdokWWw=
+
+Name: assets/audio/notes/bass_17.wav
+SHA1-Digest: Es3ibpfLLREKqmpFWvXSRwICstQ=
+
+Name: assets/audio/notes/festive_18.wav
+SHA1-Digest: MwbCVyomM9otKSy+MGzi2ZwkWO0=
+
+Name: assets/audio/jack_in_the_box.wav
+SHA1-Digest: ti57wO6sr5ObzvKvLxJA/+S0F7Y=
+
+Name: assets/game/gui_sn2.rttex
+SHA1-Digest: Lzh3cC5h9bA0UL8y6k528PXsOc4=
+
+Name: assets/game/su_skybg.rttex
+SHA1-Digest: WH2CrPJTfxHl1zgSyiZuVKJ9r8A=
+
+Name: assets/game/p_ded.rttex
+SHA1-Digest: EHTuS+TYXq4Umehr/VXqC8FvR6M=
+
+Name: assets/interface/font_century_gothic_big.rtfont
+SHA1-Digest: eJZP9ze6npgFBlD/IhkW97e5Xnk=
+
+Name: assets/interface/flags/by.rttex
+SHA1-Digest: j/dsx6QMVVMgs7MMBX7cu9UqQ2c=
+
+Name: assets/game/player_shirt4.rttex
+SHA1-Digest: 3sQcRGsIdVzy/WGrlqUZnnilMvY=
+
+Name: assets/audio/prayer_wheel.wav
+SHA1-Digest: /C39BTzldCMAKCxhbTRaZHqMGuM=
+
+Name: assets/game/float_clouds1.rttex
+SHA1-Digest: fAnwe9+7NhjydQAZyNQ6ZyWxbJY=
+
+Name: assets/interface/flags/iq.rttex
+SHA1-Digest: GkrbRjTeSQrXGvi/5p7MwjMxsMQ=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: fm65CjIYrxzo5trca/tBMhA4rAA=
+
+Name: assets/audio/ch_start.wav
+SHA1-Digest: gTHXrVU1HoxDc7ntawCmUvNh/4A=
+
+Name: assets/interface/large/store_buttons30.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/player_handitem4.rttex
+SHA1-Digest: t4BsrlmhGhnNMYnr4iMj4COZwJs=
+
+Name: assets/game/prt_fista.rttex
+SHA1-Digest: GXDFmS6SzMtxFaehwdAUJtvnRPg=
+
+Name: assets/interface/flags/st.rttex
+SHA1-Digest: zqU1F9S+vu7QDZwA9Saax50v7Fo=
+
+Name: assets/audio/notes/violin_11.wav
+SHA1-Digest: F3gnRHtkpLqyzlkqAYBJ4jZQrfo=
+
+Name: assets/game/pets/p_ropina.rttex
+SHA1-Digest: tgnRzTGVN2HVQ0IBAxN/UHTLOJ8=
+
+Name: assets/interface/science_button.rttex
+SHA1-Digest: 426/VCQp47DkSFM5Dx+pnYHRCqg=
+
+Name: assets/interface/large/friend_button.rttex
+SHA1-Digest: 44Hm06lnaKwiwcCmfFTMbbHrNhE=
+
+Name: assets/interface/flags/an.rttex
+SHA1-Digest: GwzNXVO2D/woIK/BBsytEgMke1w=
+
+Name: assets/game/sf_goct.rttex
+SHA1-Digest: THA9Os38/58MeGRf/LLY4qnUL6k=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: q6jQidgK9UdUYU5UYJX6hPbbXOM=
+
+Name: assets/interface/large/gui_shop_winter_seals.rttex
+SHA1-Digest: OEJ1Qubc1IN8xN5Cqx+oz6iaerE=
+
+Name: assets/audio/notes/sax_21.wav
+SHA1-Digest: /jhHM1zUUBdzXrVirCw+OjLUBz8=
+
+Name: assets/game/p4j6671195680125546449.tmp
+SHA1-Digest: +j9QgAmS+k3S92I3JRQMq3vbM8k=
+
+Name: assets/audio/notes/spooky_3.wav
+SHA1-Digest: amObPTKaegm7xXXmI2pvricdu6w=
+
+Name: assets/game/punic.rttex
+SHA1-Digest: JqKiDOtjROghHG2Iu1blSNfUhCc=
+
+Name: assets/interface/flags/hk.rttex
+SHA1-Digest: TLtoM7qnrzeb+5QaH8GK1qvOUpE=
+
+Name: assets/game/ptdag3.rttex
+SHA1-Digest: CZE1StMsI/zPO1V76BruGzlkYFE=
+
+Name: assets/game/jungle_forground.rttex
+SHA1-Digest: aXoBD1w7NsfMzTffdhjcJFcqwIQ=
+
+Name: assets/interface/large/store_buttons11.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: 62jHkBhV7jXriKj/W/yJiLfJyV8=
+
+Name: assets/audio/page_turn.wav
+SHA1-Digest: myOgSsNAIEd8VVSCRhFDL2T6sGk=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.
+ 9.png
+SHA1-Digest: I1IRlGjEcgjhZKkU5Vn67PUH7Cw=
+
+Name: assets/game/player_arm_thumbsup.rttex
+SHA1-Digest: EDpEHb+LqgOwElo/9/LUkNLvusY=
+
+Name: assets/audio/engine.wav
+SHA1-Digest: qzb8fP8jON/41rjYEsH98RvhEUE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focuse
+ d.9.png
+SHA1-Digest: 8Ke+1JXQA0It3wEkoFRsVgE+KUI=
+
+Name: assets/audio/notes/spanish_guitar_3.wav
+SHA1-Digest: 6NrIY6hX2ruwm6lfH2aczNFSo8o=
+
+Name: assets/audio/drumloop.wav
+SHA1-Digest: GictWqmr/cPp1z1QroB33sXO95o=
+
+Name: assets/audio/notes/lyre_19.wav
+SHA1-Digest: ZnK5raAyID9GJAD8FCkMcXJ5tPY=
+
+Name: assets/interface/flags/sy.rttex
+SHA1-Digest: ki6jr8MDY+owz3fciHQ8L8xbvUc=
+
+Name: assets/game/pets/p_phdr.rttex
+SHA1-Digest: 4dhx8WVK0l0oJFuBo8tlkhehNZ8=
+
+Name: assets/interface/flags/cy.rttex
+SHA1-Digest: ylCRI6Sa1YJG8OxIr5IZGGp1KTM=
+
+Name: assets/audio/notes/bass_7.wav
+SHA1-Digest: 6vwLVZTpzbputxnj5ghzxCzSaYg=
+
+Name: assets/interface/large/wtr_lvl11_xualqu.rttex
+SHA1-Digest: yDmnpaDlBSLd5axvNIIoPGiPXDw=
+
+Name: assets/audio/notes/piano_2.wav
+SHA1-Digest: wcJFJGG9WMBjuzqVcbU9+56Z7Y0=
+
+Name: assets/game/player_sit.rttex
+SHA1-Digest: aZ8PUjfsRbarW21M3cFhomUnaIA=
+
+Name: assets/game/ld_ctyrer.rttex
+SHA1-Digest: 3YAMVH+slxSNcQRNz20rG/w2eWA=
+
+Name: res/layout/contentview_activities.xml
+SHA1-Digest: EuUIK9/iDTgeKKNE7nsLhhBHXWg=
+
+Name: assets/audio/notes/piano_21.wav
+SHA1-Digest: G5r9OfkKzz1aMn6pZM9ls2Zzdug=
+
+Name: assets/audio/wscream.wav
+SHA1-Digest: +SihhojHJv2ORj8ZHbYscuwubtE=
+
+Name: assets/interface/large/gazette/gazette_3columns_forum_btn04.rtte
+ x
+SHA1-Digest: gTs/ZT+yeKAxNpMou37M5wzKEEI=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabl
+ ed.9.png
+SHA1-Digest: V3e9Fl537skkuNM50YXSITM9hP4=
+
+Name: assets/interface/flags/as.rttex
+SHA1-Digest: Pm20ki/Gs5lPSskJs79W6Q0a2sU=
+
+Name: assets/game/shamrock_4.rttex
+SHA1-Digest: N36xDJjNZk+dsVQP/+nYy6iMhPE=
+
+Name: assets/game/wn_week.rttex
+SHA1-Digest: ddRvaJZzlAvbGt7YJIEYK9WoAK0=
+
+Name: assets/interface/large/gui_shop_buybanner.rttex
+SHA1-Digest: V00ryfAaon1/hylvCkF4qLkjROk=
+
+Name: assets/audio/ogg/upbeat.ogg
+SHA1-Digest: l+JO0eyjvVSX7C89039EwhCmzzU=
+
+Name: assets/game/pbod.rttex
+SHA1-Digest: SbS3qrlWpVKGZxq3mZR+B7ZcYGw=
+
+Name: assets/interface/flags/faction_icons.rttex
+SHA1-Digest: 0wagHxvDje0eYqtnZLKl3I9gsmg=
+
+Name: assets/game/pets/p_lnygtoa.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/interface/flags/uz.rttex
+SHA1-Digest: pPQvBNxpCJMg+Mnc6KA/FojO6uc=
+
+Name: assets/game/player_shirt4_icon.rttex
+SHA1-Digest: yayNoJ3y+FtV65VkEj5I7RYVAkc=
+
+Name: assets/audio/spark.wav
+SHA1-Digest: HStm5nrA39bMtM83YOEGbaSc4kw=
+
+Name: assets/audio/sungate.wav
+SHA1-Digest: hTIpbXcVtmfyyWILvo3FDPTCy4o=
+
+Name: assets/audio/notes/drum_0.wav
+SHA1-Digest: OyZyEjxAQ5SmuMny/HcUh5qXF1k=
+
+Name: assets/interface/large/gui_store_title_gems_vip.rttex
+SHA1-Digest: oHgUeF22IH/kaUzUH0IhLDGEaMU=
+
+Name: assets/interface/large/store_buttons16.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9
+ .png
+SHA1-Digest: yuZeAfGsUi4cP2+smTcmgw37FsQ=
+
+Name: assets/game/player_arm_sno.rttex
+SHA1-Digest: OKYtseYm7W9qSTLKdy2KIbFcVjo=
+
+Name: assets/interface/flags/lr.rttex
+SHA1-Digest: Lyw7xJRbFAfu+zNDe7b9iRlGsS0=
+
+Name: assets/interface/tutorial/tut07_create_world.rttex
+SHA1-Digest: REPBnCfHeeKOanzKoFCQOhqQtCY=
+
+Name: assets/audio/notes/flute_14.wav
+SHA1-Digest: 9NObFUNAj303SP/Ys9rgIrf7+I8=
+
+Name: assets/audio/pop.wav
+SHA1-Digest: Mp/qayNW+wrh59KTzSfrpbF+hQk=
+
+Name: assets/game/lb9_parts.rttex
+SHA1-Digest: rgf7x68XhiwTk01UzMPCqAcRSHY=
+
+Name: assets/game/particles5.rttex
+SHA1-Digest: X7dxvrzMcya7eOr5e4KhMZ+h9l4=
+
+Name: assets/game/sky_wlf.rttex
+SHA1-Digest: 3pml8uACcxK5AYoCrWyWDpjskoQ=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.
+ 9.png
+SHA1-Digest: gDfO2BJhINbCrtqH7ecNWVqSB5Y=
+
+Name: assets/audio/friend_beep.wav
+SHA1-Digest: H7oHqZX2Kkgqrz5aPXwcZmMpcCs=
+
+Name: assets/game/gui_rol_3.rttex
+SHA1-Digest: d0JpwONeCHvgDVDaS/3oapmdaA0=
+
+Name: assets/audio/notes/violin_2.wav
+SHA1-Digest: XODeybFTkZ252JGlxRM2H8wmIjw=
+
+Name: assets/game/fire.rttex
+SHA1-Digest: MYAMMHAhmOSPfWLLwQwVxu5g98s=
+
+Name: assets/audio/notes/electric_guitar_4.wav
+SHA1-Digest: +PRSGleyCiD2zzLhOilNzqXk/f8=
+
+Name: assets/game/w_cmt.rttex
+SHA1-Digest: pKyfwrmdHkG9itWEk4Q0EONkRWw=
+
+Name: assets/audio/notes/sax_12.wav
+SHA1-Digest: 7nQXUzTaotPZN4LCIwSnYjEPfMY=
+
+Name: assets/game/mono_hills3.rttex
+SHA1-Digest: sdIJHFZ+jpKtUq8+eTky5XwLbQc=
+
+Name: assets/game/float_clouds9.rttex
+SHA1-Digest: bDMMznPF213HkLMNN0+dvwLfKgo=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: 0Cng5QrTduZJVhpbcaHOqr+J4ec=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9
+ .png
+SHA1-Digest: PV/xEP2jsnjPYAHcwAgaODmqtpI=
+
+Name: assets/audio/cash_register.wav
+SHA1-Digest: /QSYkMSt40sZn51/WOtyy98W7f8=
+
+Name: assets/game/pet_frunk.rttex
+SHA1-Digest: aASF2jF+/4x+2B1oo6H9cwy+958=
+
+Name: assets/interface/flags/ax.rttex
+SHA1-Digest: ndK4wL8zDzgCzgNtqgwL8DzEW1M=
+
+Name: assets/interface/large/store_buttons/store_buttons27.rttex
+SHA1-Digest: 4pzCQO8j26GZJ4Q6Jq72KcfIWMU=
+
+Name: assets/audio/tsktsk.wav
+SHA1-Digest: V3JduXblJhKNguzYrIoO6H+Pe1k=
+
+Name: assets/interface/large/social_buttons03.rttex
+SHA1-Digest: ZcYVfePQbNEvwBErY9vPmInWFW8=
+
+Name: assets/audio/notes/spanish_guitar_10.wav
+SHA1-Digest: USAqlzu1OWuirde80DzX6zpqsIY=
+
+Name: assets/audio/pinball.wav
+SHA1-Digest: 9+b1yMWkMbUDSLTwRjHSkLqY5GA=
+
+Name: assets/game/pet_blot.rttex
+SHA1-Digest: nNuDeCMoOn8T7PCpG92NJIS8kTs=
+
+Name: assets/interface/flags/ha.rttex
+SHA1-Digest: CTs42ipVX7p97y3I+MmhtAZLvIA=
+
+Name: assets/game/gui_sn_bg.rttex
+SHA1-Digest: r2hQvPmbr/XmLPPJ5Mmx7awrQrY=
+
+Name: assets/interface/flags/co.rttex
+SHA1-Digest: Q6YYVtDxNyEoRRouS55P/pZj2FM=
+
+Name: assets/audio/rock_hit.wav
+SHA1-Digest: YDUbZcbMYrG1yHGmt6twyH8cH08=
+
+Name: assets/audio/click_8bit.wav
+SHA1-Digest: HCNeQM1I1FjNk95ShdOjYdGQpr4=
+
+Name: assets/game/player_artifact.rttex
+SHA1-Digest: JBKUoFmkreu9nuHzof/GY7aIrzM=
+
+Name: assets/interface/flags/fj.rttex
+SHA1-Digest: eWrWxj4pKyuZ6ZZtpssugOk9zCw=
+
+Name: assets/interface/large/left_arrow.rttex
+SHA1-Digest: 1q8x4feBESZhkC6IHkoL129TvG0=
+
+Name: assets/game/tiles_page11.rttex
+SHA1-Digest: 8I2E1FkkzX1TM3wcLjVYJWc7wq0=
+
+Name: assets/game/io_rcko.rttex
+SHA1-Digest: W8RsMCfzIZGN3TQhvZ2YwiIXGS4=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: qA/4ONLw1TOTY4TCDzak63ZZC8I=
+
+Name: assets/audio/levelup2.wav
+SHA1-Digest: 4UbPd3yV9DpBOVz8dw93DVdhSZ8=
+
+Name: assets/game/player_chestitem2_icon.rttex
+SHA1-Digest: p80NHgL3DWNZjMq4ACv9VIodpYw=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disab
+ led.9.png
+SHA1-Digest: MgWZDNe7Li5Ae6XULZm4fW9SlGo=
+
+Name: res/layout-v17/item_activity_post.xml
+SHA1-Digest: 2ODvsw9V+SCagF+FPUUxTHum+vc=
+
+Name: assets/audio/hammer_rumble.wav
+SHA1-Digest: 8gkvGJoe0XAj4Gb3U+5cm7m5xFY=
+
+Name: assets/game/mtn_2.rttex
+SHA1-Digest: xjSvdQ2Pmeu1XZQgpxV0EpLnvHQ=
+
+Name: assets/interface/rules.txt
+SHA1-Digest: tlmwFS3MsXF8ixehCg/QgB7ICuI=
+
+Name: assets/interface/flags/so.rttex
+SHA1-Digest: KGoVQlBwba3Z8nXnhlTgDKcFgl0=
+
+Name: assets/interface/large/epic.rttex
+SHA1-Digest: 88Scs621L98WoKuFizx2/5qZvFI=
+
+Name: assets/interface/large/store_buttons/store_buttons6.rttex
+SHA1-Digest: IuXaLGmhZM4LQHjyYsdO3xjXk2Q=
+
+Name: assets/audio/notes/piano_12.wav
+SHA1-Digest: 26ZA1q604lCaL379LRMAlZnV0jA=
+
+Name: assets/interface/flags/ai.rttex
+SHA1-Digest: IkhrqbWXxE+mSX8QiSm5u3p9yJM=
+
+Name: assets/audio/bell.wav
+SHA1-Digest: vjDFpSW8YhxEPokePUvXNu/V79M=
+
+Name: assets/audio/notes/flute_4.wav
+SHA1-Digest: WDUGWTkTOfY+jTmr8EdwRp/z/kc=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: jnZIdcnxgCJJF3Tx6HwINRnvzE4=
+
+Name: assets/game/pfoul.rttex
+SHA1-Digest: ooVAIhuz9ZNXH283j9PCWSzumqY=
+
+Name: assets/audio/plastic_ghost.wav
+SHA1-Digest: yoklcsxrqOTZ0J8e3FwnxsCEqnk=
+
+Name: lib/armeabi-v7a/libgrowtopia.so
+SHA1-Digest: n8HNRmP9VLfMFS0H1DLVS9nec3M=
+
+Name: assets/interface/flags/faction_punch.rttex
+SHA1-Digest: v4BtXmDpqzNBh7M53C2S8FgH5co=
+
+Name: assets/audio/notes/electric_guitar_19.wav
+SHA1-Digest: bIFLB5jxqBCKXaGi0W9HZOxMMws=
+
+Name: assets/game/player_handitem5_icon.rttex
+SHA1-Digest: ownjhbHESA7GbdUSKDRhqZl/d3U=
+
+Name: assets/shaders/android/essl/ColorFill.fs.bin
+SHA1-Digest: 43b3Fd5pmz/iZLBbhbjt7scdABs=
+
+Name: assets/game/player_head_skin1.rttex
+SHA1-Digest: hY5AiFlVuQ4HiknKW9GfWoX6sb8=
+
+Name: res/layout/overscroll_view.xml
+SHA1-Digest: eCJZCCaLZy5v3/uSatT1+9GMu1c=
+
+Name: assets/game/tile_sign_right.rttex
+SHA1-Digest: pzgy146Z2F8M4dT8h+loaZ9RmG4=
+
+Name: assets/audio/door_shut.wav
+SHA1-Digest: 3R7alyK698p6Kg2KIve8zj9TVlw=
+
+Name: assets/audio/fight_loop.wav
+SHA1-Digest: oWvG8n9d6yihjFlMMU8nzwPmMvc=
+
+Name: assets/game/punicc.rttex
+SHA1-Digest: d0h1dDxvCj8AjrfnL5mjCX87szc=
+
+Name: assets/audio/hit.wav
+SHA1-Digest: fydkm5rgreMC86kqYdU+w493p2g=
+
+Name: assets/game/Balloon_05.rttex
+SHA1-Digest: xpyoVajWgO2rizUr3LqDKUai0Oc=
+
+Name: assets/audio/ogg/hula.ogg
+SHA1-Digest: H7uLYZsgHiFrVM1BRCp5Jo3Fd4Y=
+
+Name: assets/game/p_cork.rttex
+SHA1-Digest: l7l5ONKKlwYE1tlC5fdsQMPuako=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: bbBoWz3fR9DiyxezvxugnDdCmZA=
+
+Name: assets/interface/large/gazette/gazette_3columns_community_btn02.
+ rttex
+SHA1-Digest: DgLMZN0hyYWlJAt215L2kidynIE=
+
+Name: assets/audio/belch1.wav
+SHA1-Digest: FBz3cfsqJiRepOjFHOTIV3UWgjM=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: JDzNmSQOxAZBWcmjJOsDVymadjg=
+
+Name: assets/interface/flags/bh.rttex
+SHA1-Digest: eTASPGm7bD8FHdGpsbfKQoo5BlQ=
+
+Name: assets/audio/spray.wav
+SHA1-Digest: nz4qGzy8Bod56fB9sxu7E0mFUpM=
+
+Name: assets/interface/particle/explosion.rttex
+SHA1-Digest: xyXh5mfOjZmxe/KQ4eaYXgvrsQg=
+
+Name: assets/game/gui_box_glow_yellow.rttex
+SHA1-Digest: wE/e1qzzvXrQ9lmPSJ2C+M6MsnM=
+
+Name: assets/interface/large/social_share/social_btn04.rttex
+SHA1-Digest: NRnGs0x7cr/MMyrhollZcPt/UGw=
+
+Name: assets/audio/goose_honk_2.wav
+SHA1-Digest: Frl3uW9CEDPDpBsOQWNNEWpXnoI=
+
+Name: assets/game/mtn_cloud_01.rttex
+SHA1-Digest: K2B/eh+timVw8g3uC7QzKCFMcaE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: yvIm6PBIMaQeXjG9OhXxxQ9BlU0=
+
+Name: assets/audio/ogg/unspeakable.ogg
+SHA1-Digest: PCyj2c4+WHSeNY6PH2rfEo9Odps=
+
+Name: assets/game/pit_icedrg.rttex
+SHA1-Digest: AwPMJwKv2rPPDs/IxI4ZMoSiDx0=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: l4hOf2PQjAma4dDfgcEDCthD1Ng=
+
+Name: res/layout/mentions_view.xml
+SHA1-Digest: GoBFnrWlJ4Q3426q4rQCYNix1xY=
+
+Name: assets/audio/notes/bass_5.wav
+SHA1-Digest: Tw/I0ltbEveucOGiLmd0TRHQQww=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: CrzNd5x90p8KNOfKUZlSrqMgRgk=
+
+Name: assets/game/player_head_skin6.rttex
+SHA1-Digest: onMftiBSJ7pRP0n0L5lxLc2elrU=
+
+Name: assets/audio/notes/spooky_5.wav
+SHA1-Digest: RHUSM4KS7Nqdd14ctoYVnN881sM=
+
+Name: assets/interface/large/store_buttons/store_buttons18.rttex
+SHA1-Digest: 6SklKCmKXmWjPWm3eLzL7tyvkE8=
+
+Name: assets/game/player_hair.rttex
+SHA1-Digest: J9G6CMX1lUgoLz1QMbZR90nz58c=
+
+Name: assets/audio/notes/festive_12.wav
+SHA1-Digest: GfXY0SMH3f4B3/AGYYoLye+wWwQ=
+
+Name: assets/interface/flags/pt.rttex
+SHA1-Digest: 2VDlYxB3zHgAlqcn3xmOHvn3WQY=
+
+Name: assets/interface/large/store_buttons2.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9
+ .png
+SHA1-Digest: n/OhqNOwPpNBz+kml3paiDzbQN4=
+
+Name: assets/audio/ogg/windchimes.ogg
+SHA1-Digest: 27H50+UTIQ1OA+SzglptFuUCXD8=
+
+Name: assets/audio/notes/flute_23.wav
+SHA1-Digest: jELkadbS9/IgayF1bATe+B0TcTc=
+
+Name: assets/interface/flags/catalonia.rttex
+SHA1-Digest: avpBDrZEO3dEgDrywnLCtv/JYYE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focus
+ ed.9.png
+SHA1-Digest: fSKfwmTDps0Gx/v1URClHqLtpeU=
+
+Name: assets/interface/flags/ml.rttex
+SHA1-Digest: If3uwAPAkDjSl2UzJlL7rNiGsSI=
+
+Name: assets/interface/flags/ua.rttex
+SHA1-Digest: 7RG980axCHmfyYZtlBjeHuk85gY=
+
+Name: assets/game/pih_tantum.rttex
+SHA1-Digest: uy6ln2dk2VmNBnSnnwVy/5wScog=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: 6Pq7qZSGdt9stwD1tInhj7/fbaw=
+
+Name: assets/game/psdrg.rttex
+SHA1-Digest: Jil1smIY+feW/JtDFOOHrGhv/50=
+
+Name: assets/game/pih_godish.rttex
+SHA1-Digest: UqA5LSB/kPvcTTV2X3TKTcBOG1c=
+
+Name: assets/interface/flags/se.rttex
+SHA1-Digest: +S9FWwCs54/huCcPewyaSPOE2t4=
+
+Name: assets/interface/large/gui_store_title_gems.rttex
+SHA1-Digest: HEW0vA1F6+wClH3UTlI/2rBRWEk=
+
+Name: res/drawable-xxxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: R0v4ifY08EfU/HY8lx0KmrqGAUE=
+
+Name: assets/audio/gunshot.wav
+SHA1-Digest: 7NG2LnNfBxAbIr2VJ6PzXbZumbs=
+
+Name: assets/audio/notes/piano_4.wav
+SHA1-Digest: gvZmHU5VYCctSTPiTSjk9SBXYP0=
+
+Name: assets/game/ld_ctydogn.rttex
+SHA1-Digest: C5UhRoylBBJaweIQk1+qjMzwrCo=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9
+ .png
+SHA1-Digest: bPIR+bzHSEQjXYgmHAGRZl9NdA8=
+
+Name: assets/audio/notes/spanish_guitar_5.wav
+SHA1-Digest: au0fbGYDYHZhLbbFTvamXJMSteM=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9
+ .png
+SHA1-Digest: g9Bbv40uPuSTZer4YyaZ+oFfe7I=
+
+Name: assets/game/player_hair5.rttex
+SHA1-Digest: ymMQtMe0bbr0HD06+KH+6JQy3n8=
+
+Name: assets/interface/flags/kp.rttex
+SHA1-Digest: YytBVdjHBbo917fZOGj87c1xCtE=
+
+Name: assets/audio/droar.wav
+SHA1-Digest: ez5gPIlcXj9IdlePmkht309OfPw=
+
+Name: assets/game/pets/p_ttl.rttex
+SHA1-Digest: OVfWZIHGd4hv5VyfO+T9MOTdJow=
+
+Name: assets/interface/flags/fo.rttex
+SHA1-Digest: JTGqUS7q90zCIImDdqaBwvq/IZM=
+
+Name: assets/game/hills2_monochrome.rttex
+SHA1-Digest: mKgwPiOIYSlmLvAuM1HqjxwUfVI=
+
+Name: assets/audio/babycry.wav
+SHA1-Digest: IbSK/0fwsHSrdeRJ/NQIkR1xg5c=
+
+Name: assets/interface/flags/ni.rttex
+SHA1-Digest: Dhi6zQXUX9PTUbTlPZL5zyQVToU=
+
+Name: assets/game/hills2_growtopia.rttex
+SHA1-Digest: Zzk5vbcQZNmktJQ8GY5emPR/63U=
+
+Name: assets/interface/large/store_buttons/store_buttons13.rttex
+SHA1-Digest: YBiOSYMcZdLKl7nOSh+rCCtE7aU=
+
+Name: assets/interface/flags/py.rttex
+SHA1-Digest: TorOPEq6eK9NMudHP4EtdT6JGOA=
+
+Name: assets/audio/notes/drum_2.wav
+SHA1-Digest: 9TbepCDON0XOgc1KmRZyZN6jI9M=
+
+Name: assets/interface/flags/gq.rttex
+SHA1-Digest: hgj7Z41Z9KdW87PJDCVJAdle2wU=
+
+Name: assets/game/player_feet12.rttex
+SHA1-Digest: Y03afYUOp8aEBoaDn5/Ci2r52AE=
+
+Name: assets/audio/notes/spooky_18.wav
+SHA1-Digest: 8IICYlNKsGAUi9P4djyycsOvftk=
+
+Name: assets/interface/tutorial/tut_outline.rttex
+SHA1-Digest: zOyH7kL8R8Nxi1DybQE6NdIYJR4=
+
+Name: assets/interface/flags/mg.rttex
+SHA1-Digest: uWUBIJY07DCCFFquWp6kA71VsrU=
+
+Name: assets/interface/large/store_buttons7.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/pr_lipro.rttex
+SHA1-Digest: yULebwc4OxqlNoIOSfialT0wBik=
+
+Name: assets/interface/flags/sj.rttex
+SHA1-Digest: ixlniPI2EPRRM7e0ICUtr50lzak=
+
+Name: res/drawable/cast_ic_notification_connecting.xml
+SHA1-Digest: HZRc+F7blzJqd2qF4n1cCQd0wGk=
+
+Name: assets/audio/notes/flute_16.wav
+SHA1-Digest: 2xGuYYIjg64IMgtjTEGRrvF7MEo=
+
+Name: assets/audio/switch.wav
+SHA1-Digest: 9BAZOWQ0Eo828V1HQMoWfkHHXaA=
+
+Name: assets/game/player_feet5_icon.rttex
+SHA1-Digest: ViOUF7osYRPlFm3ruujd2/M4V3w=
+
+Name: assets/game/p_tirfd.rttex
+SHA1-Digest: UiOC3Hofuh85dlLHGgEMOpmHzQw=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: b9G5LhyMfLbYSUqr6XnKfPsGw70=
+
+Name: assets/audio/tip_start.wav
+SHA1-Digest: llVvIx11ATzl9oy/LB+VorHchnA=
+
+Name: assets/audio/notes/violin_4.wav
+SHA1-Digest: Kz3kEMBVl5I93zD+S9f4a+PSWGA=
+
+Name: assets/game/autumn_front.rttex
+SHA1-Digest: rH/Dc/w8Rqr+m0HDzoOl47fIAFw=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn05.rtt
+ ex
+SHA1-Digest: ylvXRrpNUPpcO3hDtRxjwxKdDAM=
+
+Name: assets/game/player_pants2_icon.rttex
+SHA1-Digest: nO6xtAG3uHPnpakE9w75z/rOiKI=
+
+Name: assets/game/evil_sky.rttex
+SHA1-Digest: 3wK8CZVGian+Mp6/w9RdB+MBSRU=
+
+Name: assets/audio/gauntlet_death.wav
+SHA1-Digest: kSy+uReXqFn1vehjv8C3s9e6duA=
+
+Name: assets/interface/flags/td.rttex
+SHA1-Digest: NpzJwlmLcrSwS2on6+gkCj2fgOE=
+
+Name: assets/interface/flags/ye.rttex
+SHA1-Digest: AwGWdkU0+2CEBLvHth9pnHvs1kQ=
+
+Name: assets/audio/notes/electric_guitar_6.wav
+SHA1-Digest: x459zfhByd3WM7OrJUE7h0wyNm4=
+
+Name: assets/game/player_feet9.rttex
+SHA1-Digest: hu4I+NvBOYMuWzkmh2CK1SaZxa4=
+
+Name: assets/audio/double_chance.wav
+SHA1-Digest: tAKs9rDFFlf7DUMoCuRBv8659fI=
+
+Name: assets/audio/object_collect.wav
+SHA1-Digest: +WXkwj3a6BeBH346nM8BAC0hVJs=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.
+ png
+SHA1-Digest: i0LeSbdyYp1ZulCXHCRYoaLdlos=
+
+Name: assets/interface/tutorial/tut_build.rttex
+SHA1-Digest: eQVA2IHTnOT8DjFcjiacxp+BVEA=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9
+ .png
+SHA1-Digest: gAl9VS7mTjmwrIPqeGGik64tgiU=
+
+Name: assets/interface/flags/gl.rttex
+SHA1-Digest: vTnU00gBDsNX4oYbXBUYWhPpSN4=
+
+Name: assets/game/port_virik.rttex
+SHA1-Digest: fm72iea6XgQ3GPSfZSVuzaKSnG4=
+
+Name: assets/game/io_rif.rttex
+SHA1-Digest: wZRjqkWZEcvX/WKarboYSvDhNVc=
+
+Name: assets/game/pets/p_jbkoa.rttex
+SHA1-Digest: 21qKXSJVXvZQShjFXkJEYzXfj7Y=
+
+Name: assets/interface/large/rtg_banner2.rttex
+SHA1-Digest: CkNZBGr298WP71t3YNzx7zHnH4c=
+
+Name: assets/audio/hiss3.wav
+SHA1-Digest: w1QmA1ix85iTFRj42PX/Pm7UQYA=
+
+Name: assets/interface/flags/ie.rttex
+SHA1-Digest: 2YyfdrSibc8+4LO0O+gjJV9N0PQ=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9
+ .png
+SHA1-Digest: XrmBoIp+l4DXPZ0gqTFJsM4lY+Y=
+
+Name: assets/interface/flags/bm.rttex
+SHA1-Digest: UqnZkXn2W1rzkbKTWcgDCfhSRbs=
+
+Name: assets/audio/notes/lyre_0.wav
+SHA1-Digest: 1dgmN1gyTBnwSnx4AEtqQtlk0Xs=
+
+Name: assets/audio/notes/piano_14.wav
+SHA1-Digest: RaiXq/prP9i7JwXpRNHrWNzVvvI=
+
+Name: assets/game/player_hair2.rttex
+SHA1-Digest: vkF3xXi3Yp9PmxPUPK5Q8JZqQl4=
+
+Name: assets/interface/large/gui_store_button_overlays3.rttex
+SHA1-Digest: w4Lw3GYW6qPg3bVv1jiq2kefKDA=
+
+Name: assets/audio/notes/electric_guitar_17.wav
+SHA1-Digest: RMDpU7IBjr2uwcbSnu+h8Ig3/Fw=
+
+Name: assets/audio/magic.wav
+SHA1-Digest: jpIFk3+OyntUfuFQNAjV51T4m6M=
+
+Name: assets/interface/large/store_buttons/store_buttons22.rttex
+SHA1-Digest: CsE1rtQUmXVzPeYegAvq7Hfj0QM=
+
+Name: assets/audio/notes/flute_21.wav
+SHA1-Digest: MJxFYMf8ZIOzwmSx1fizTcoN/4A=
+
+Name: assets/interface/large/gazette/gazette_5columns_btn03.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/game/pih_tonesif.rttex
+SHA1-Digest: A4ps0eU2veu/Fenf/vtEoj5LK4k=
+
+Name: assets/game/pets/p_skco.rttex
+SHA1-Digest: 6sT+FA9GE7Ymn+hYRdlmKS/qMAE=
+
+Name: assets/audio/notes/flute_6.wav
+SHA1-Digest: JihMhMgbq2gSwU5tZsNLnfLulak=
+
+Name: assets/audio/flame_go.wav
+SHA1-Digest: QQUOUwXQZVCe5qZFSH3vOsz/1fA=
+
+Name: assets/audio/notes/sax_10.wav
+SHA1-Digest: PKF/cSx1sMM2YPY8yVMEdpBVexE=
+
+Name: assets/game/player_faceitem6.rttex
+SHA1-Digest: MNqYfPnX7VgRDHU8BsnqE8utCSw=
+
+Name: assets/game/st_dsec_front.rttex
+SHA1-Digest: +569vjijcCl18RwhlOvxzFo67Y8=
+
+Name: assets/game/under_back.rttex
+SHA1-Digest: /hR0G29+gOWU1iO6bhrKCNZSPk4=
+
+Name: assets/shaders/android/essl/ColorFill.vs.bin
+SHA1-Digest: gnbHTxaCpgn2i+76uzcvpF8fMgg=
+
+Name: assets/audio/notes/bass_12.wav
+SHA1-Digest: mLmhHzB/Vk6jPjX/KH+uQ1EilME=
+
+Name: assets/audio/notes/piano_25.wav
+SHA1-Digest: h53Tqkf3A5cwnZmNyH27mek6GuM=
+
+Name: assets/audio/notes/bass_3.wav
+SHA1-Digest: 42k0A11i9aNrNCfYvg8fdP4cgIg=
+
+Name: assets/audio/ogg/dabstep.ogg
+SHA1-Digest: l+JO0eyjvVSX7C89039EwhCmzzU=
+
+Name: assets/interface/font_century_gothic_bigx2.rtfont
+SHA1-Digest: CAW/uvFZNN4O6HGO8YCErTZ1VNY=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: 2phsQPMXg+pfp1ogpbFp5OMTCSM=
+
+Name: assets/interface/flags/ec.rttex
+SHA1-Digest: 6eRdFGn2CXICtg+vAZ9pYb6mlBk=
+
+Name: assets/audio/notes/piano_10.wav
+SHA1-Digest: kKY/bASAr8MxsQVCzBXb31Ds6Ro=
+
+Name: assets/game/field2_front.rttex
+SHA1-Digest: 9QfpTjPh27rREZ6pELHJY/8fsog=
+
+Name: assets/game/pih_arinobw.rttex
+SHA1-Digest: yDLdFTTLBYZWk73ffcFOJSXkTuY=
+
+Name: assets/game/pickup_box.rttex
+SHA1-Digest: 7x2eGwfnc7CFPHHv1LmyPVxfQe0=
+
+Name: assets/game/player_back3.rttex
+SHA1-Digest: 3FMF9DJiXBldoPgW0u8bhEjhDWQ=
+
+Name: assets/interface/flags/eh.rttex
+SHA1-Digest: jMex81Abb9Xa/CqVY/zBl6h4aAk=
+
+Name: assets/audio/notes/spooky_12.wav
+SHA1-Digest: e3y5fiYOnWv3+RYMO4W3mXpNiwg=
+
+Name: assets/game/sp_lefor.rttex
+SHA1-Digest: w9dZTWDKV3Sm40m3V7jWTCRu0ec=
+
+Name: assets/interface/flags/rw.rttex
+SHA1-Digest: 5AH/Qu2JIJnstZ5NfZtjqRbNpnw=
+
+Name: assets/game/player_pants_monthly1_icon.rttex
+SHA1-Digest: TPcdo0GSvJv5/0jVQG3u6ueORnY=
+
+Name: assets/game/b_hills3.rttex
+SHA1-Digest: rTa92OcMzSy0sbEVEhn357Zk1vw=
+
+Name: assets/interface/large/social_share/social_btn01.rttex
+SHA1-Digest: QbjTPbCYoQ8p+ADRsvsNKVTFT8o=
+
+Name: assets/game/pets/p_lnymnk.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/interface/flags/my.rttex
+SHA1-Digest: KuXj5NTYYAyvCVevXUNiVwrV8ig=
+
+Name: assets/audio/notes/lyre_24.wav
+SHA1-Digest: Hf70vYZHPIAQD71dZ6xxfIqymUA=
+
+Name: assets/game/pets/p_balof.rttex
+SHA1-Digest: XASbEjPWwcpvg6HBCTG02Lvyh8M=
+
+Name: assets/game/jungle_hills.rttex
+SHA1-Digest: utZvjT5UUXGjjhAM1Akgi0IstuI=
+
+Name: assets/game/player_head_skin9.rttex
+SHA1-Digest: vDVR3X05tz5hSGRDVFI3nFbexDo=
+
+Name: assets/game/pets/p_dlma.rttex
+SHA1-Digest: YXiJ80V8j9/qSO8qq3GcgR64xpo=
+
+Name: assets/game/su_skyline1.rttex
+SHA1-Digest: aTZ84H6tePE+P32qys1MBwKnDgE=
+
+Name: assets/game/tiles_gch.rttex
+SHA1-Digest: FPh00fIbHpEeevGdOoJVmNJJaJo=
+
+Name: assets/audio/notes/violin_6.wav
+SHA1-Digest: 4zg+ittT32yYrTP45HMzHTmjtvU=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: StQSehtOA5sc/D7y/PEZK/Wt+Q8=
+
+Name: assets/interface/flags/gi.rttex
+SHA1-Digest: qz35QDc/TqLuTy56wJ2C6gsji7k=
+
+Name: assets/game/pets/p_stfsh.rttex
+SHA1-Digest: DilzT23xpw4RYxkYXRCYtmOAZX4=
+
+Name: assets/game/float_skybg.rttex
+SHA1-Digest: ZT7RW6TtWoHsrIieG3z6waMmUM8=
+
+Name: assets/interface/large/store_buttons/store_buttons.rttex
+SHA1-Digest: 2PpCHdO/V7o73pgaGGim1T2xrfA=
+
+Name: assets/interface/flags/na.rttex
+SHA1-Digest: JAwDcKpx4aZwbOQ60Tcww2ceTZk=
+
+Name: assets/audio/burn.wav
+SHA1-Digest: Y8GMyv4AjN1P1t10JwvFtXD6Ac4=
+
+Name: assets/audio/notes/violin_15.wav
+SHA1-Digest: szlTDjKwYEnthD3/9MwmS9VVo4U=
+
+Name: assets/game/ld_bisuna.rttex
+SHA1-Digest: 4LVG3WHh8xC82gPOvoN+Y3TxAK4=
+
+Name: assets/audio/ogg/old_timey.ogg
+SHA1-Digest: O1RZUYxC8d76CA4jP4jaLLw/sFk=
+
+Name: assets/game/player_feet10_icon.rttex
+SHA1-Digest: rwCcM7pTQZIvIUKXhquraWo7XW0=
+
+Name: assets/game/st_asec_backsky.rttex
+SHA1-Digest: sNFL56hHn2wJiAMt59aDZKy2wPY=
+
+Name: assets/game/pets/p_plg.rttex
+SHA1-Digest: Po8jrmpPvBD2qf4V1FdYjq34ujk=
+
+Name: assets/audio/notes/festive_10.wav
+SHA1-Digest: 0R1XS0+H5unfWRLcQL9XkSGrSV8=
+
+Name: assets/audio/metal_hit.wav
+SHA1-Digest: 5azckpbT3HQDTJoAEwhcAknQyFw=
+
+Name: res/layout/item_notification.xml
+SHA1-Digest: QJ1aRI4O2xXshrB3GfrxdR6KkTo=
+
+Name: assets/audio/belch3.wav
+SHA1-Digest: o2dXF5tGsKg4g4FgsKw+WwDXeck=
+
+Name: assets/audio/notes/flute_0.wav
+SHA1-Digest: zAX9l5zAr7D0fcoQpb1Yv131pN8=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.
+ png
+SHA1-Digest: xtR3NHWSNkEMMafGNqcNPAcHmyQ=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused
+ .9.png
+SHA1-Digest: CwLpF6gHJrQo6gTPRqT06kVXvzE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabl
+ ed.9.png
+SHA1-Digest: aXB1WZ3yQ8Bcndz7Mq9HySre+70=
+
+Name: assets/interface/flags/gd.rttex
+SHA1-Digest: R3lTqbJ8Pqi6168rron/uef8e70=
+
+Name: assets/interface/flags/tl.rttex
+SHA1-Digest: MxoAz3A6xEKDbOYjihGOWn5+8Vk=
+
+Name: assets/interface/large/gui_shop_featured_header.rttex
+SHA1-Digest: NfoKTtNEROQaQhCSRa1lHiPwbzU=
+
+Name: assets/interface/flags/yt.rttex
+SHA1-Digest: qc5+f3FnTuxEYDMdckOvMrR5B6I=
+
+Name: assets/interface/large/gazette/gazette_3columns_community_btn04.
+ rttex
+SHA1-Digest: 2GbidwtHy/9au1eMqyixPie5NUU=
+
+Name: assets/audio/notes/electric_guitar_24.wav
+SHA1-Digest: iXGEau9qFaKmL675u/KwR8PGaYE=
+
+Name: assets/interface/large/special_event.rttex
+SHA1-Digest: sjjyKemaEPoGdgwgKwozGuGNjBA=
+
+Name: assets/interface/flags/mt.rttex
+SHA1-Digest: XxDjJ3SqL5y9hmuLdsqip40ZbCk=
+
+Name: assets/audio/airy03.wav
+SHA1-Digest: BJ82HAkpPxg/QAOnhYwZqYYpYWQ=
+
+Name: assets/audio/bleep_fail.wav
+SHA1-Digest: yM17SlUxlRVihBX4IqZ7kA/mU/U=
+
+Name: assets/audio/notes/bass_21.wav
+SHA1-Digest: v2kro9N86kDf4tIIuRm+KmJelSo=
+
+Name: assets/interface/font_century_gothic.txt
+SHA1-Digest: nxCcGGfRZYMILx7PfzqLj83Ivog=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: +5ShaX7dths7Mq6CLMtwCsCOQiE=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: ZaVaecb4EdyLVI/4Nbl4eyLjP6I=
+
+Name: assets/interface/large/store_buttons/store_buttons34.rttex
+SHA1-Digest: u12k9g+YJL1gKRTtH37024ZtejQ=
+
+Name: assets/game/darkbluewater.rttex
+SHA1-Digest: U0yWA3+z4ZfooHZp8EGMxCByCZo=
+
+Name: assets/game/desert_hills.rttex
+SHA1-Digest: atltxSR8oeTMoukBJIROxBwArH4=
+
+Name: assets/audio/ogg/startopia_galactic_nexus_theme.ogg
+SHA1-Digest: jP9ctp0Yb7OSSEjtqT/TxjIX+fY=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.
+ png
+SHA1-Digest: 0XGvp5l2+zBNBYcTregeDkW5n6M=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l.9.png
+SHA1-Digest: 9ErjVJ3tFSuieqHPojxTfrN1icY=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9
+ .png
+SHA1-Digest: IBv9V0zAVm/zCmY4uH0ewXdE7Wg=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: z6yGTaD724TNXrFIrfkVmeIslyQ=
+
+Name: assets/game/player_sit2.rttex
+SHA1-Digest: rORdsW5eofscJaWUCQnlJSKMBgc=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused
+ .9.png
+SHA1-Digest: QhblL08oyN92zNVtsDOLZH6Ol2o=
+
+Name: assets/game/tiles_page14.rttex
+SHA1-Digest: Kw4i4wZT3R6RkMRucwOBdwcvZ4g=
+
+Name: assets/interface/flags/ws.rttex
+SHA1-Digest: dQ5d3QUY7STRn1IgB/H9bjRTMcg=
+
+Name: assets/audio/ogg/ykoops.ogg
+SHA1-Digest: PIiMPL32rug0BrxfTAWQKIm5Y/g=
+
+Name: assets/audio/ogg/doctor.ogg
+SHA1-Digest: BvPAlRq8wbOJ1vDOia9NiKtcMFY=
+
+Name: assets/audio/notes/electric_guitar_8.wav
+SHA1-Digest: YzAD4lTkesF6/wkKnF2yKT6vDEU=
+
+Name: assets/interface/flags/er.rttex
+SHA1-Digest: +9/sPkLJqgn1UOnxNt8qpS0Vx8Q=
+
+Name: assets/audio/ogg/you_row.ogg
+SHA1-Digest: T2ARKHXqT/9rmFqXNprhArPNDVA=
+
+Name: assets/interface/flags/cl.rttex
+SHA1-Digest: +vN0dIfjopkcUXbkCjTVWCxj2M0=
+
+Name: assets/audio/gong.wav
+SHA1-Digest: 4+Q3LxSiL5LG4t4jhDQdKZUSnMI=
+
+Name: assets/interface/flags/mo.rttex
+SHA1-Digest: yAV3YHi7XbiHP6kciR9yo6RZDS8=
+
+Name: assets/audio/notes/flute_18.wav
+SHA1-Digest: iWYuHwOpfSH726KT9uWELkF6m4I=
+
+Name: assets/game/st_asec_mid2.rttex
+SHA1-Digest: kchJKo1/a7IEKjPGHzDrbrUsYBY=
+
+Name: assets/audio/notes/festive_5.wav
+SHA1-Digest: +rH8z3M9pwMjXF4TSrLj7b+SHcc=
+
+Name: assets/audio/repair.wav
+SHA1-Digest: IPrhMmn2kxMJ5BQlpg0F/WUkWWI=
+
+Name: assets/interface/flags/tg.rttex
+SHA1-Digest: AVg5PxkSXmeio2mWXnSj5eNH+Eo=
+
+Name: assets/game/wf_tbo.rttex
+SHA1-Digest: KwZJk/Me3NYfSSVvlIfz3xfk9Ug=
+
+Name: assets/game/green_hills3.rttex
+SHA1-Digest: PDg2wUJlh5nY4/eFSfUjb2emGgs=
+
+Name: assets/interface/flags/sb.rttex
+SHA1-Digest: ZYAhz0y0R9+xzJ+uUfBi4LZT62U=
+
+Name: assets/audio/notes/electric_guitar_15.wav
+SHA1-Digest: bzDc7uJ9WseAirrRX5v3SLNbQFY=
+
+Name: assets/interface/large/store_buttons20.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/chem_col.rttex
+SHA1-Digest: erBY7630KpAivGBSMTZVgAKOlaw=
+
+Name: assets/interface/flags/kz.rttex
+SHA1-Digest: 1HgrQU0XVI9zlIA9eHvPkAmK7ns=
+
+Name: assets/interface/flags/tv.rttex
+SHA1-Digest: 5w72TgjPDRbkXRAh8+eFPRFhWyw=
+
+Name: assets/audio/gobble.wav
+SHA1-Digest: WwHsrsy6Avr07rG1+DyzKsEb1SA=
+
+Name: assets/game/thxg_grow_bg.rttex
+SHA1-Digest: UZqsEFwrS2O2gD1McPJUuWTJmBs=
+
+Name: assets/audio/fart5.wav
+SHA1-Digest: yeICjCPLmqmnIneby7XMvNaAhp4=
+
+Name: assets/audio/explode.wav
+SHA1-Digest: IGeKYi6E6DmusV1kOfQdcza8dRY=
+
+Name: assets/interface/flags/bf.rttex
+SHA1-Digest: Nwxa4OnLy3GUDjwYcptwkjcDpsI=
+
+Name: assets/audio/lil_hiss.wav
+SHA1-Digest: HbsZtabkH/8Wb7ToiaTrdyhVXGI=
+
+Name: assets/audio/punch_miss.wav
+SHA1-Digest: 7YnVfrIZlTwHMm2u8UYQbVCLviE=
+
+Name: assets/audio/notes/spooky_1.wav
+SHA1-Digest: dUU7wd59vOk1uZcdnm1u5oisS0E=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_presse
+ d.9.png
+SHA1-Digest: iKeRseeuZ8eGfMtiOdsYH60Ndr0=
+
+Name: res/layout/main.xml
+SHA1-Digest: VrBZqyDowgbTvux5po9RdqO6ILw=
+
+Name: assets/interface/large/btn_community_hub.rttex
+SHA1-Digest: xpoUfLA/1nkOPXDvFkkE7mUfMf4=
+
+Name: assets/audio/morty_ears.wav
+SHA1-Digest: p5i9N17UByLBv+gkGi6/vGfOS70=
+
+Name: assets/audio/notes/electric_guitar_10.wav
+SHA1-Digest: +ROCeoDadRUWpUc+2LW2HkaeaR4=
+
+Name: assets/audio/notes/sax_23.wav
+SHA1-Digest: mmtMb5DMdQvPbWfkAX40cSX/xF0=
+
+Name: res/layout/item_activity_liker.xml
+SHA1-Digest: jDCY0IwmQOMKrcwW/yyNP0CUNyE=
+
+Name: res/color/common_plus_signin_btn_text_light.xml
+SHA1-Digest: g5McK3J8+uEHFOhbpkdbHrGZd3c=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: gYO3j5LmBkgXdp/IHUPrr1NsIss=
+
+Name: assets/audio/notes/spanish_guitar_21.wav
+SHA1-Digest: WI/hsf9szBsKCmcQudvLOqhI33M=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: lbX57R0TzlcHAkHT3GttS2+bT5w=
+
+Name: assets/game/ht_wn.rttex
+SHA1-Digest: sRznk77P3SYKOVJOqmFi7crh+dQ=
+
+Name: assets/game/pootslim.rttex
+SHA1-Digest: Lygd9LrgiVYCltvkRCkwLU1uH7I=
+
+Name: assets/interface/flags/mq.rttex
+SHA1-Digest: w/AFUjuv8fp3y5DyjbR9TUOn5BM=
+
+Name: res/layout-v17/item_invite.xml
+SHA1-Digest: Mxqpptybq+8DgydseidrpsKiBmU=
+
+Name: res/layout/custom_pn_layout_image_plus_multilinetext_expanded.xm
+ l
+SHA1-Digest: INEPO8lm9nWVzhbGUwoHjGw9sNQ=
+
+Name: assets/audio/wood_damage.wav
+SHA1-Digest: MZ21zq6suafbuzmI1wglxEpGYxo=
+
+Name: assets/interface/flags/lc.rttex
+SHA1-Digest: UO7CcBqSjfU0l+kQC/McOrCculc=
+
+Name: assets/game/npc1.rttex
+SHA1-Digest: 8UiEt+MV/4OXo6Co4atE+bJo6AI=
+
+Name: assets/audio/notes/spanish_guitar_1.wav
+SHA1-Digest: hLLeHMYoHN1Elo97Q7L1PYIQz7c=
+
+Name: assets/interface/flags/vc.rttex
+SHA1-Digest: rGqsAsVOwhZgqg3Vo5CKN2DpzDk=
+
+Name: assets/audio/thwoop.wav
+SHA1-Digest: rbKsCTi3VLBZL7rOXfZcZNbYgmE=
+
+Name: assets/audio/metalwingz.wav
+SHA1-Digest: RPsIhNxohuZRuGVHb2KITulCbko=
+
+Name: assets/game/desert_wobbly.rttex
+SHA1-Digest: US61kyr/7+QVLSq3axsccYeZXew=
+
+Name: assets/audio/bloop.wav
+SHA1-Digest: JOscDiM+DzhgoeGGAI6YyZY7Mxc=
+
+Name: assets/audio/notes/bass_10.wav
+SHA1-Digest: BIh39Gi7Fm+IgOZnZMtljX2xQiQ=
+
+Name: assets/audio/notes/lyre_10.wav
+SHA1-Digest: 684Lj8xCMzZoF7FRqi+4jLQ8M8A=
+
+Name: assets/game/p_rbowdagr.rttex
+SHA1-Digest: Lz/swtl+iFxvz09NmzkHzbNOEaM=
+
+Name: assets/game/pot_kide2.rttex
+SHA1-Digest: U0GJQiPcej8jNRbxGl6Ceia4RcA=
+
+Name: assets/interface/flags/cv.rttex
+SHA1-Digest: NnH9dMCkOWi5WQhRuNXdHG087uQ=
+
+Name: assets/interface/flags/tn.rttex
+SHA1-Digest: WP6ajjdz3BmRPUAPYiPF0twVFv0=
+
+Name: assets/interface/cash_icon_overlay.rttex
+SHA1-Digest: udoFtK9OmBtfrzn/5VKS2QVFL/0=
+
+Name: assets/audio/notes/piano_23.wav
+SHA1-Digest: bKWS2uCUWe97Ni5bgWRk8CSXJ14=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.
+ 9.png
+SHA1-Digest: /mcQ+wxoSg/zcV54gyn3BpoXrzo=
+
+Name: assets/game/wn_none.rttex
+SHA1-Digest: uMXp8RvSGRzqpmD6/5J16lB0lgc=
+
+Name: assets/interface/large/store_buttons/store_buttons9.rttex
+SHA1-Digest: atFDMtF767zXPEwAydRwL5cT5Ek=
+
+Name: assets/audio/notes/violin_13.wav
+SHA1-Digest: krlETkQDLoQNuMxEIAtOFwKbfwI=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.
+ 9.png
+SHA1-Digest: 5ULio28PxdZWy3qe1zggId/KHoU=
+
+Name: assets/game/gui_board.rttex
+SHA1-Digest: 7Uzl5hLriu54lZcWPTH6hJRtJ6k=
+
+Name: assets/interface/tutorial/tut_punching.rttex
+SHA1-Digest: DikAaz9Kda4dPOqqm2EqUsY/muM=
+
+Name: assets/audio/thanksgiving.wav
+SHA1-Digest: o+Yoyg0w6P5wgaumDHPgV0Fx3K0=
+
+Name: assets/game/pv_rspdt.rttex
+SHA1-Digest: 0I3fRnmgDri2VVMrTkmRIeJUEZM=
+
+Name: res/layout-v17/post_input_button_container.xml
+SHA1-Digest: QGJwcuI3ZNS7X7o+/QHTigfFIqg=
+
+Name: assets/game/sky_twirl.rttex
+SHA1-Digest: sldXlsHcHvQYuyGtJ3k8Ci32vCw=
+
+Name: assets/interface/tutorial/tut_npc.rttex
+SHA1-Digest: ZTWSDG74NJWIewoLVuPa2OitBuA=
+
+Name: assets/game/bt_mov.rttex
+SHA1-Digest: SJ6EkCho5052UkZOzeuOrMX9juw=
+
+Name: assets/game/pe_pe.rttex
+SHA1-Digest: 5y9+kG2DV/nrV4uqZBLnvzCz6wQ=
+
+Name: res/layout-v17/item_user_suggestion.xml
+SHA1-Digest: we8bn6rPpHaVcWdeY2Y86NTm/jw=
+
+Name: assets/audio/notes/flute_2.wav
+SHA1-Digest: Wj3Q5tZNWWbl+TxlUIxsVtatW40=
+
+Name: assets/interface/flags/qa.rttex
+SHA1-Digest: xEZyjGd8+vJ8riu4GAmQlffj8MA=
+
+Name: assets/audio/success.wav
+SHA1-Digest: +t+zPUnqTSgI2kxBVI+4gXL6GUM=
+
+Name: assets/audio/door_open.wav
+SHA1-Digest: 5cQBMLoA74Id66BOPIYDofawGxY=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 8uDmvI7iV3RkzeRN2IkBUwDRcrE=
+
+Name: assets/game/mtn_clouds1.rttex
+SHA1-Digest: ueZ1eFQK9rOt0N9rzac5rB0VhwU=
+
+Name: assets/interface/large/chat_settings_icon.rttex
+SHA1-Digest: nPqRsqnXSAPXLHGlfY54bsQZfHw=
+
+Name: assets/audio/notes/piano_0.wav
+SHA1-Digest: ELz8dxenkqFgQeJxMK/xdYOvkxA=
+
+Name: assets/interface/large/store_buttons28.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/ru.rttex
+SHA1-Digest: v4RYF7t1aqW7m4qgJEoyn21WyA4=
+
+Name: assets/interface/large/slobby_ded.rttex
+SHA1-Digest: QXAdlKaQcNYyegmhRa9QzNnoWmo=
+
+Name: assets/audio/notes/violin_8.wav
+SHA1-Digest: L6ee3YHP24gIfNgnqmYyrA8BfHM=
+
+Name: assets/audio/ogg/signal_jammer.ogg
+SHA1-Digest: F6f3+KTHgQboKArceqLoBpFWAJ8=
+
+Name: assets/interface/large/wtr_lvl3_ncuewb.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: assets/game/green_hills1.rttex
+SHA1-Digest: 3A+Zpybi8oo8zFmGFs8AuK7vWE0=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: +MXoS6atuMMcHxqY84uj7+vXdxU=
+
+Name: assets/interface/flags/jo.rttex
+SHA1-Digest: dE5Uw+qUp+S6qXPV5ZPCRX6a7UY=
+
+Name: assets/interface/texture_conversion_flags.txt
+SHA1-Digest: dq+KEspH0eBkhIjD98RJwoI7xl8=
+
+Name: assets/audio/gulp.wav
+SHA1-Digest: JkRvtF63ZG0AMh2WmWUSh0m6QBc=
+
+Name: assets/game/gld_lock.rttex
+SHA1-Digest: 5nfCkkf97rzHYVUOQW9Ee42Mpt0=
+
+Name: assets/audio/ogg/mex_trumpet.ogg
+SHA1-Digest: Mhb7GbA4Pd9vaB8UBLOvouglIfI=
+
+Name: assets/audio/peep.wav
+SHA1-Digest: 5t/0DZoz4LhvGaJc01Ag2kRinBY=
+
+Name: assets/audio/splat.wav
+SHA1-Digest: he5DPdYm7qlzeCA7f5+ARNeQROI=
+
+Name: assets/audio/ogg/mooncakemelody.ogg
+SHA1-Digest: 5B/zYMQ9Qh1LjF1r9N4LXGfxgAs=
+
+Name: assets/game/pets/p_yit.rttex
+SHA1-Digest: 2NuDtXyK7Jj2QvfqKK5VtB5nBqI=
+
+Name: assets/interface/flags/wales.rttex
+SHA1-Digest: P5F/AWx8mHA3A40Njb8b4qujyqE=
+
+Name: assets/interface/flags/cr.rttex
+SHA1-Digest: ZY7fh2f7i2vbRdoo2XWz0rNDsGM=
+
+Name: assets/audio/punch.wav
+SHA1-Digest: BdmOnFHpfEl0NKp3k/PgKc+hYTw=
+
+Name: assets/interface/flags/ba.rttex
+SHA1-Digest: RretnHnl2W1oxIEtJw2OhS2dZi8=
+
+Name: res/layout/contentview_invite_provider_list.xml
+SHA1-Digest: /QtdoE77MD+hPD07gQ6CDArKbKQ=
+
+Name: assets/audio/notes/festive_3.wav
+SHA1-Digest: Fy2WtG7boZ03MPu00cPIT9rTLjQ=
+
+Name: assets/game/pet_calf.rttex
+SHA1-Digest: WlZOyFmJgQNf5L6ghu2li9Y8ewc=
+
+Name: assets/interface/flags/om.rttex
+SHA1-Digest: aG6mblJXSNhUANa7/MHM7PmbubQ=
+
+Name: assets/audio/jump.wav
+SHA1-Digest: WU9ryFzw4y+VyZ5cQXYAu4p8EfM=
+
+Name: assets/game/pets/p_dpan.rttex
+SHA1-Digest: rwd59Z9Ok/ER4gDlghvzeNCnvYE=
+
+Name: assets/interface/flags/hu.rttex
+SHA1-Digest: AKYUNfbvI1MlZ8S3SJZ0pubE5vk=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.p
+ ng
+SHA1-Digest: 7RjDA/sMM7gEvXA3odKiR3cNzC4=
+
+Name: assets/audio/notes/electric_guitar_13.wav
+SHA1-Digest: 33QCDaN6RHHT++j4IDpHT52RUfk=
+
+Name: res/layout-v17/item_activity_liker.xml
+SHA1-Digest: k7Kq0oluNttKDqeWHSe0IScKafw=
+
+Name: assets/game/ld_phw.rttex
+SHA1-Digest: 3VfVpgj3WgRkBvYkcSNpF8hBiLU=
+
+Name: assets/game/water_ray.rttex
+SHA1-Digest: kHGpeREeDSLhHIGTTR6j1tsF4A8=
+
+Name: assets/audio/notes/bass_23.wav
+SHA1-Digest: 5zVoMjpnAV4kOpN4NYcKs1L63+o=
+
+Name: assets/interface/flags/england.rttex
+SHA1-Digest: /5rYOHuYM91lxT0/UBhgFNgyn4A=
+
+Name: assets/interface/large/store_buttons23.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/faction_build.rttex
+SHA1-Digest: Et9AfaZhzNDBam7VpyU8KNKvVLM=
+
+Name: assets/interface/large/gui_store_iap_message.rttex
+SHA1-Digest: ea/00wE2qOQgFg/5Z/lfDmUVYEc=
+
+Name: assets/interface/flags/vg.rttex
+SHA1-Digest: YOmmFJLBWqp2shYv64aLO3AeZUc=
+
+Name: assets/interface/flags/gb.rttex
+SHA1-Digest: oD4vI0gQfP1dLlYxHXjaTL8+DTg=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.
+ png
+SHA1-Digest: 57JFccC+FllUUf6hz2a6VQ67KKU=
+
+Name: assets/audio/trampoline.wav
+SHA1-Digest: xmNHEFvEEW+W8XhV9rdgYgIpqT0=
+
+Name: assets/interface/flags/mv.rttex
+SHA1-Digest: ihdJzw3LldkVqKQbHAaXKIC0CeI=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: w4uBqOV5VG3drNpzqcACg51uKa4=
+
+Name: assets/game/hills1_growtopia.rttex
+SHA1-Digest: esRkfGDLnOeVXy/1VbLxXQa+mXY=
+
+Name: assets/game/pzdg.rttex
+SHA1-Digest: ei0Xe2FeTGKEIS0EA8xfplPtOMc=
+
+Name: assets/game/peminpeng.rttex
+SHA1-Digest: ukqjRRrEFgDgCsuV+uz8ga6mctU=
+
+Name: assets/interface/flags/faction_grow.rttex
+SHA1-Digest: WGePzfuXUomPvIQGmiGaUxyfwiY=
+
+Name: assets/game/sun_monochrome.rttex
+SHA1-Digest: TsLPNqJkqYri/icK8sNAbTz0Ylc=
+
+Name: assets/game/stopia_page1.rttex
+SHA1-Digest: dycX0X8EvqBpLpE6xYzlIDCaEVI=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: MELhZ5xGLo3hOMEE/RoSVTp7GOM=
+
+Name: assets/interface/flags/ve.rttex
+SHA1-Digest: rl0CBowyfXxhXzNDkIT4MnjUzcc=
+
+Name: assets/game/player_handitem6_icon.rttex
+SHA1-Digest: 29GKH3z3T32lii7ua9i/y/Gbf7I=
+
+Name: assets/audio/notes/bass_1.wav
+SHA1-Digest: CpLHqe1RcK3uk4RJN8LbRKcgYfE=
+
+Name: assets/game/lock_outline.rttex
+SHA1-Digest: /pb9YENZd+dl5DLClp+X2PQ+PIA=
+
+Name: assets/interface/large/store_buttons25.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/pets/p_sudr.rttex
+SHA1-Digest: vmdfYGwJfCgkxL5BBHiP7aiUrzw=
+
+Name: assets/game/w_heart_04.rttex
+SHA1-Digest: 1BRWvH8tg3G9vWJTMutpZ7cGuQg=
+
+Name: assets/audio/notes/electric_guitar_20.wav
+SHA1-Digest: NbuYAVXHv7dJqGJeajzTtNOGkfA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: Yaaajh0AXbmjLJOiDxeNBheKc8U=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.
+ png
+SHA1-Digest: KmRgCE2pkarLqkOjyq52yd0eAQg=
+
+Name: assets/game/st_asec_mid1.rttex
+SHA1-Digest: eSSDdptPgVVDlhJuwRvRJFO8UW8=
+
+Name: assets/game/wn_guhl.rttex
+SHA1-Digest: gePSfzGz1flyhTiQlxTTR4gXFVg=
+
+Name: assets/game/moon3.rttex
+SHA1-Digest: Hu2xILPKxGOdMQbSnUAsjZOGcQY=
+
+Name: assets/game/st_caura_icon.rttex
+SHA1-Digest: Lf8dRihOx8XJivoN/ldkVk3Dn3s=
+
+Name: assets/game/water.rttex
+SHA1-Digest: 8xySDgMiE0tosMfQyLZHU6PrCRk=
+
+Name: assets/game/dk_wn.rttex
+SHA1-Digest: Axdec6dFKHnsE1+AATQs0lhdzQ0=
+
+Name: assets/interface/flags/dk.rttex
+SHA1-Digest: MnDfOD1J4Gm7x874jhA9c5Wqod8=
+
+Name: assets/interface/tutorial/tut_items.rttex
+SHA1-Digest: pVwcag1HPcc9jtCmCbEMSE89wAM=
+
+Name: assets/game/tiles_page13.rttex
+SHA1-Digest: ElJZKmZawBr9CP5/DWoro3BKB/s=
+
+Name: assets/game/float_land4.rttex
+SHA1-Digest: reaq+Y94Xtsef+/R9fhhO//37fo=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: bDgY/IKFtIkt6nOvADw/VV1U0M0=
+
+Name: res/layout/custom_pn_layout_image_plus_multilinetext_collapsed.x
+ ml
+SHA1-Digest: +mQD5pKqhPv2EPJ46D8HgrABXtY=
+
+Name: assets/audio/ogg/about_theme.ogg
+SHA1-Digest: YvcISyJ60uTRqUgp+mjyKvCaWSI=
+
+Name: assets/game/bk_wradi.rttex
+SHA1-Digest: LmKy/5qwed2k6PJhWy2cIsEx4o8=
+
+Name: assets/audio/object_spawn.wav
+SHA1-Digest: jx9t0/oKCfm2Wv+cnRFYaPakAKY=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DlSdUluqAd3gPUdga8dDDY6Rzpw=
+
+Name: assets/game/player_longhanditem1_icon.rttex
+SHA1-Digest: gzV+EknVn/b88LO287jxI/qqlzM=
+
+Name: resources.arsc
+SHA1-Digest: PJ3hGwqXNUFY+TL9l7C6QwfRPak=
+
+Name: assets/interface/flags/gy.rttex
+SHA1-Digest: rdtb+acVvuwbRWWvrJgt1xPrL+U=
+
+Name: assets/game/pt_wspr.rttex
+SHA1-Digest: sPc7Qgccou/dfu65bM3Ffuog5Hw=
+
+Name: assets/game/jungle_sky.rttex
+SHA1-Digest: 5yf84OjrLKslfawO+8UTdFOieh4=
+
+Name: assets/audio/ogg/get_ready.ogg
+SHA1-Digest: R+vdEMb/IYniCLsEYdU8WuT8JTA=
+
+Name: assets/game/phonics.rttex
+SHA1-Digest: 99ZL9/Ibug+lIBgEZ0nMRkq88Mo=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_press
+ ed.9.png
+SHA1-Digest: MTe7g8pRIuxRlzCJPLaJYqof918=
+
+Name: assets/interface/gamepad_circle.rttex
+SHA1-Digest: iEj1RZczSuN0RpSBSID/1dySeaM=
+
+Name: assets/game/pe_jabit.rttex
+SHA1-Digest: cAgmR4rbASgGU+BnOISC7hqRx/8=
+
+Name: assets/audio/notes/bass_16.wav
+SHA1-Digest: EKj/CVKpkmXjH6+bYxxxkK7cZV0=
+
+Name: assets/audio/transform.wav
+SHA1-Digest: skWZih8bCMr2tlBzIG1U4uOLOF4=
+
+Name: assets/interface/flags/az.rttex
+SHA1-Digest: uh6ppjCUvOAzhIZhXe68A6WHdlU=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: V+V8E37HNDjRmskOAKfkKn8Lk9E=
+
+Name: assets/audio/slot_lose.wav
+SHA1-Digest: NTXPTDCYWSkkfmzyMq15odyXH48=
+
+Name: assets/game/desert_sky.rttex
+SHA1-Digest: fvxSURNFiWICUKmCpDYa9pZyBsY=
+
+Name: assets/game/haze.rttex
+SHA1-Digest: 9x3jnUWN4bFbgnDw3S9s/2uxpGU=
+
+Name: assets/game/ld_ctywisp1.rttex
+SHA1-Digest: DhpLCczBuv8wKXg6wPcuL/DYjc0=
+
+Name: assets/game/pets/p_jintod.rttex
+SHA1-Digest: JjHbC7D8UOWb2WkBCaiXmRXsVlI=
+
+Name: assets/audio/notes/lyre_6.wav
+SHA1-Digest: GcGXBIS+ux7WVmgcQjftx7qKZgA=
+
+Name: assets/shaders/android/essl/NormalTexture.fs.bin
+SHA1-Digest: d7Wc9BiRP/4XYCJ2w5gejpnNcTk=
+
+Name: assets/audio/notes/spanish_guitar_18.wav
+SHA1-Digest: V3pQWKg0AUPvOQycHQkiVAXRFUc=
+
+Name: assets/shaders/android/essl/ColoredTexture.fs.bin
+SHA1-Digest: XBDLFflAIkUJVRhZc23cwAz6tTk=
+
+Name: assets/interface/flags/hr.rttex
+SHA1-Digest: jBDPGn7Q2ndd0WiPBrgYJdfav7Q=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn06.rt
+ tex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/interface/large/social_share/social_btn02.rttex
+SHA1-Digest: NmLzcc8IQfc6iMoE3cLvMkpQY94=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: KFMFQ3Xyx9ZfPf2w1XN1esJ6xBo=
+
+Name: assets/audio/piano_nice.wav
+SHA1-Digest: MN7rKZdoxKhIpN2qyyj8Rdf0/Zc=
+
+Name: assets/interface/flags/ag.rttex
+SHA1-Digest: sGXx/7oBXP1BAWG1OSfBfWA2qiI=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9
+ .png
+SHA1-Digest: l7PopPLLNxyFbMitYJ9mVYDpNSY=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9
+ .png
+SHA1-Digest: bcEBIbjyJupOxsg94AVIsTCCniA=
+
+Name: assets/game/pebun.rttex
+SHA1-Digest: iq9Mha8MOQaw5Cc0zyj9G34iRXQ=
+
+Name: assets/audio/ogg/western.ogg
+SHA1-Digest: hCMO/WmdC+cTkw//L7kAjItfmQs=
+
+Name: assets/interface/tutorial/tut05_buy_locks.rttex
+SHA1-Digest: 05gEo7I9XHAMm+qO5Z6MQlS91Sk=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn03.rtt
+ ex
+SHA1-Digest: +P3ztXyIyNiOgtJmjI9afKsSDGU=
+
+Name: assets/game/mono_hills1.rttex
+SHA1-Digest: 5DUM7ktuHQRsN8lhc47dgQG4Rc0=
+
+Name: assets/game/icebg_aora.rttex
+SHA1-Digest: /rIPkIif+3EwRe1RN38RGyeLFLg=
+
+Name: assets/interface/tutorial/tut02_build_blocks.rttex
+SHA1-Digest: lonKyN/6T/skEBnUlXaPgf1llTE=
+
+Name: assets/game/b_hills2.rttex
+SHA1-Digest: Wu6ERY1VwP0WqdmkeahIAxTljc4=
+
+Name: assets/interface/large/menu_button.rttex
+SHA1-Digest: i156o5KTy2mVosg59qm5prZtBnY=
+
+Name: assets/game/player_feet14_icon.rttex
+SHA1-Digest: 7aVFRHgcfKv/D7WkSX+MGL9ScUw=
+
+Name: assets/interface/large/store_buttons/store_buttons11.rttex
+SHA1-Digest: ALwFEwYbQhP3RKCruhYazr34fDA=
+
+Name: assets/game/pih_rabs.rttex
+SHA1-Digest: ZifRz7ws2ekaY9krskWhaQnp6ys=
+
+Name: assets/interface/large/right_arrow.rttex
+SHA1-Digest: W5CksU0bnTtLCfZe6z0Xnc4gwgQ=
+
+Name: assets/interface/large/wtr_lvl10_dleups.rttex
+SHA1-Digest: 0vP/m8X2esy+xBXLchtFw1dzxCg=
+
+Name: assets/interface/large/store_buttons9.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/pets/p_drbit.rttex
+SHA1-Digest: drbr9ExwIWF4DOMucbn+cNqO21w=
+
+Name: assets/game/pott_blakat.rttex
+SHA1-Digest: 0CjLkXg0fc6+lNhoANtwTNvYvbk=
+
+Name: assets/interface/large/gd_prom.rttex
+SHA1-Digest: U5ezAiIfbiKHcMyDydQbSDOR7MU=
+
+Name: assets/interface/flags/au.rttex
+SHA1-Digest: wtgEELkncfENzeZ25s5XsBkV5FE=
+
+Name: assets/game/p_gtoa.rttex
+SHA1-Digest: Oyylk7fzaerC4scONQsB7jBfwPE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ .9.png
+SHA1-Digest: QLaJ/RR4JVfoHBH6pJAPN0/FEdE=
+
+Name: assets/interface/flags/hm.rttex
+SHA1-Digest: wtgEELkncfENzeZ25s5XsBkV5FE=
+
+Name: assets/game/city_sky.rttex
+SHA1-Digest: 0G+XAl7Rrpp3FtRUZJheWy4qJBs=
+
+Name: assets/interface/flags/us.rttex
+SHA1-Digest: U620mhPWq9rNkI+fUGBkSNMeZcU=
+
+Name: assets/interface/tutorial/tut_menus.rttex
+SHA1-Digest: peSDhLNeZC0AsfKWSngFYOl/qZs=
+
+Name: assets/interface/tutorial/tut12_upgrade_backpack.rttex
+SHA1-Digest: 00B58Ps97zr1QW4MebJXvzEKy/A=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn01.rt
+ tex
+SHA1-Digest: UYEy9Kn/07FsI7WxPhbRJNtwUbs=
+
+Name: assets/game/float_clouds12.rttex
+SHA1-Digest: Esez7NdY5f9FIvGQxhKybEw249c=
+
+Name: assets/game/hills2.rttex
+SHA1-Digest: rdyafInV4uiUHh/yhZd8EeQnv5U=
+
+Name: assets/game/bk_wglow.rttex
+SHA1-Digest: ABmRzKzx4mKA/0RxqEa5FtTkfxI=
+
+Name: assets/interface/flags/al.rttex
+SHA1-Digest: qAk+GwEeiz99oVqnec8B6nCpLSM=
+
+Name: assets/audio/notes/drum_6.wav
+SHA1-Digest: E34/639OFHiG3MN055tPwbVfU1s=
+
+Name: assets/audio/notes/spanish_guitar_25.wav
+SHA1-Digest: 1L/iznGNZGexCrJzXu9RgziOBNU=
+
+Name: assets/audio/notes/lyre_11.wav
+SHA1-Digest: gZfBq7rnnhYUsDmmru62T1JMAVQ=
+
+Name: assets/interface/flags/game_icons.rttex
+SHA1-Digest: 1atAs0Lo1DBDffl/ghhj55NMkW4=
+
+Name: assets/interface/large/jump_wide_icon.rttex
+SHA1-Digest: l/t4IezpJbST+JR2wzHtMz9Er8A=
+
+Name: assets/game/pih_dolg.rttex
+SHA1-Digest: 7nCj7k38vOu3Jl7JcBBmyMpiHQY=
+
+Name: assets/audio/notes/sax_4.wav
+SHA1-Digest: 4przwQzEVfzMruoZd5zA7ij9n4c=
+
+Name: assets/interface/flags/re.rttex
+SHA1-Digest: D71W1v1PtOVMzmu1KfRUqMZYM6E=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: xZzImaQo/YwfHPknFPEydc+uJ3A=
+
+Name: assets/game/player_feet3.rttex
+SHA1-Digest: 0voqU/t9ayWfjTExCo6/c+0BmAo=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.
+ 9.png
+SHA1-Digest: pH7l/Ar84MmQB+PJJ0dCud81jHY=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_presse
+ d.9.png
+SHA1-Digest: Fj65pApS3DHAIYkMNsn4lY2X67A=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled
+ .9.png
+SHA1-Digest: 5nCYJ/E6AQWtveuxD/i0s7coNM8=
+
+Name: assets/audio/chicken.wav
+SHA1-Digest: T2mtdt9oy7EPMOASbGjmUDhPRJI=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.
+ 9.png
+SHA1-Digest: HYSFO/45bXSikIT8hJhcrpz8rpg=
+
+Name: assets/interface/flags/gf.rttex
+SHA1-Digest: D71W1v1PtOVMzmu1KfRUqMZYM6E=
+
+Name: assets/interface/flags/rs.rttex
+SHA1-Digest: 070dvb/rJS2nml1xMDRYlfEfgIA=
+
+Name: assets/game/hills3_monochrome.rttex
+SHA1-Digest: BqPbU+/Ni//k4l8Qu8eWaDEYxTo=
+
+Name: assets/interface/flags/gt.rttex
+SHA1-Digest: uZ9gYVas8T7Oj831CX3V0F9/vuQ=
+
+Name: assets/interface/large/guild_levelup.rttex
+SHA1-Digest: cg9Fjvb+dsgRQ6OD1g9qcI62Lfw=
+
+Name: assets/interface/large/store_buttons13.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/km.rttex
+SHA1-Digest: iFSpAoV4omdfdAWncr5ZB4zOGu0=
+
+Name: assets/audio/barf.wav
+SHA1-Digest: Nw+dGpNjnM0kPYwB7EbZwiY8vyw=
+
+Name: assets/audio/notes/spooky_10.wav
+SHA1-Digest: q2ReAjrXXcxGJahCJLtp4Qfg810=
+
+Name: assets/audio/blip_lock.wav
+SHA1-Digest: /AXVuU0zqfRyEzx8R/Uqq9O8Hts=
+
+Name: assets/interface/flags/nl.rttex
+SHA1-Digest: W4ALKweTjHLBN/hUar7xeYlbKLs=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9
+ .png
+SHA1-Digest: MSekFwfAH+Ru7Vag7PTkEKJxXag=
+
+Name: assets/audio/ogg/tsirhc.ogg
+SHA1-Digest: DBUbd55KGHaYuBDYVRnX4dwATnk=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: assets/game/player_hair4.rttex
+SHA1-Digest: BQ757fnLDOQjS03dclTOe7FXiFU=
+
+Name: assets/audio/boo_ghost_be_gone.wav
+SHA1-Digest: 3tuNgFrGr31GR6AHyxjzBFABw0k=
+
+Name: assets/game/field_front.rttex
+SHA1-Digest: /w9WiO2B2O5XQTGvh8JLiNMaabk=
+
+Name: assets/game/new_sky.rttex
+SHA1-Digest: HtsURKO8gJ/Y/BtWIr+GT3oFDC0=
+
+Name: assets/game/spazip.rttex
+SHA1-Digest: N7yIdbNL6UGAcSPmWmHaLsKLqgY=
+
+Name: assets/interface/flags/hn.rttex
+SHA1-Digest: 79ntTHXL6UQKWLVOH46B2TEcfKQ=
+
+Name: assets/audio/ch_slash.wav
+SHA1-Digest: oSWqI1dvlGMqmZpEdtukTnC2tMI=
+
+Name: assets/game/player_feet8.rttex
+SHA1-Digest: JCpOtVp0pIO2PELHqBXlY8uvvS8=
+
+Name: assets/interface/large/btn_chat.rttex
+SHA1-Digest: 0Kq4EwwBViv3aO9lSHg9+e+5FTI=
+
+Name: assets/interface/flags/nc.rttex
+SHA1-Digest: 6w8X/P1St4IK8e3WfHegx7/9uvY=
+
+Name: assets/game/snow_clouds1.rttex
+SHA1-Digest: qYMhLZO2mE13PQK4imNffSwisk0=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: qPv+ndd7WyyByj65QJdigkXUnyc=
+
+Name: assets/game/player_hair_monthly1_icon.rttex
+SHA1-Digest: RUWZ6t0uKSiKdL0VzjougQwmnr4=
+
+Name: assets/game/player_shirt_monthly1.rttex
+SHA1-Digest: zZwHXl/ZZo5S178o4GX4UhVPA4c=
+
+Name: assets/interface/flags/tz.rttex
+SHA1-Digest: i5pHWYSffJqThFc/DBHv1fY63t0=
+
+Name: assets/interface/large/store_buttons8.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/pet_pig.rttex
+SHA1-Digest: Kdk3aSRZjz0F88eLss9WabOeYL8=
+
+Name: assets/interface/large/gui_store_top.rttex
+SHA1-Digest: Kj8hml2Jg6fJ6wASHmBNGih18QA=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.
+ 9.png
+SHA1-Digest: Zyi6To6kJnH3exYAOLpKlL+cGHo=
+
+Name: assets/game/hills3_pg.rttex
+SHA1-Digest: psBbbZFN+8ixgAjAe44rfQuUAgI=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: cRCOWJufdT9F2ukBHGmjFa5ekGA=
+
+Name: assets/game/pedr3.rttex
+SHA1-Digest: LCieEjBqFJWra3vOni1s0lGBV4Q=
+
+Name: assets/game/player_feet4_icon.rttex
+SHA1-Digest: OxCXKrVgSsRa5JDUlOxo1dIhukw=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: IZABWNeFixuFHduFhifmqsyNgsM=
+
+Name: assets/interface/flags/ro.rttex
+SHA1-Digest: KLxJHM8OHFG0E2n62+gvski3HyA=
+
+Name: assets/audio/notes/spanish_guitar_16.wav
+SHA1-Digest: B3Y75PBTGaUBYKNXjF1z33m1EuM=
+
+Name: assets/interface/flags/dz.rttex
+SHA1-Digest: 3qBIjX4R2PI9qKls/y0OAIQBRHI=
+
+Name: assets/game/player_feet7.rttex
+SHA1-Digest: /mF/XM4zS9Y1q979uuw7SSVxT4s=
+
+Name: assets/game/peline.rttex
+SHA1-Digest: s4LH068pQ+CNvRRIBO6nnzhbhOE=
+
+Name: assets/audio/notes/lyre_8.wav
+SHA1-Digest: YNVLx3DHmVHo56qIV9I3aKdg2Oo=
+
+Name: assets/audio/fr6.wav
+SHA1-Digest: Ra0jpa5lZB1XUYmlymeVkYODUYw=
+
+Name: assets/game/player_hair3_icon.rttex
+SHA1-Digest: h/MERK02/PAJprcM1KzdkOIXhQs=
+
+Name: assets/interface/large/gazette/gazette_5columns_social_btn02.rtt
+ ex
+SHA1-Digest: eArbsibU+oUQzX9EmoJnBUXz7UU=
+
+Name: assets/interface/tutorial/tut06_build_lock.rttex
+SHA1-Digest: 7GZeivUWtDWhz35qy+etJoMSSfo=
+
+Name: assets/game/groch_h.rttex
+SHA1-Digest: weg5qeqdiz8mGbYnkJZsZUvDcJs=
+
+Name: assets/game/hills3.rttex
+SHA1-Digest: cnH46kNYJSL0LNxnaI4JnBtDj/I=
+
+Name: res/layout/placeholder_view.xml
+SHA1-Digest: Z2LEkUZVv61U1hCqQP3Rfy+9/UQ=
+
+Name: assets/interface/large/com_hub_home.rttex
+SHA1-Digest: OeZSx9Ru/MTmajRs6DOpvFZ6ZLY=
+
+Name: assets/interface/large/store_buttons/store_buttons12.rttex
+SHA1-Digest: Epz3H/+yPgau5Q0Sjqi0L0mpEzw=
+
+Name: assets/interface/flags/gp.rttex
+SHA1-Digest: bADTpbXvBc6OJQ3h3ebMLDHnIx4=
+
+Name: assets/game/ld_ctyfro.rttex
+SHA1-Digest: QlN9xazK9Qu5Z56cC4iprfLeiRM=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.p
+ ng
+SHA1-Digest: b/MBtkVraSlGuf6/a1BEQPcASVc=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: YuvS0g8OAihHUGzRzhMkQbYVIFQ=
+
+Name: assets/audio/swoosh.wav
+SHA1-Digest: 6Q/yzGFHPyIBHnBCz+CU8/LWsaw=
+
+Name: assets/game/player_head_sno.rttex
+SHA1-Digest: 5lk5CR/cWL8Wmw5v7dXlTyB7O4k=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.
+ 9.png
+SHA1-Digest: VxbqcCy4zOZOm9wmjU1xl2m8VSs=
+
+Name: assets/interface/large/chat_settings.rttex
+SHA1-Digest: nPqRsqnXSAPXLHGlfY54bsQZfHw=
+
+Name: assets/audio/notes/electric_guitar_22.wav
+SHA1-Digest: PetNDQ7NglFMRM9a3P9V8793kN0=
+
+Name: assets/interface/flags/kw.rttex
+SHA1-Digest: 1q4/4kXOxC8MUvHYrsGItT0uGrA=
+
+Name: assets/audio/notes/bass_14.wav
+SHA1-Digest: CMSOz7hsS61rQC2zc/I+/jV8CIY=
+
+Name: assets/audio/slap.wav
+SHA1-Digest: gBE9Fs6Cq5edpCQWaOjs2A3zdPc=
+
+Name: assets/audio/tree_harvest.wav
+SHA1-Digest: qmVN8/JKYhdzpkXd6wXQs3y/Va4=
+
+Name: assets/game/pbodrot.rttex
+SHA1-Digest: 7WMv34QfIjRns5hqI/Jv8wwo19s=
+
+Name: assets/game/p_shaspi.rttex
+SHA1-Digest: gLmEp2U38ev3Wuok9ZBVGhadmd4=
+
+Name: assets/game/patmal.rttex
+SHA1-Digest: F0IEQrCIEPVtU7VSGEqP70imtFI=
+
+Name: assets/audio/moo.wav
+SHA1-Digest: nbuUdKkX5GegoOCoUnfge1wV0ro=
+
+Name: assets/audio/ogg/spooky_tiki.ogg
+SHA1-Digest: +12Ob7s0GF+uoCSJCpbTWFhVmfw=
+
+Name: assets/game/hills1_pg.rttex
+SHA1-Digest: O6uGKF/l6v2gWyedxEB+TKt97kk=
+
+Name: assets/audio/notes/lyre_21.wav
+SHA1-Digest: 5XDKm0l2st35s26PCwPyOlBs0HA=
+
+Name: assets/audio/lightning.wav
+SHA1-Digest: TowLc3w46eL1zMJbPf2OMkIe1Xg=
+
+Name: assets/audio/tree_plant.wav
+SHA1-Digest: i+6WVlwpxODzU0dr6VHgA68hak4=
+
+Name: assets/game/ld_ctywisp2.rttex
+SHA1-Digest: NcBKAK3i9nb5aYAEzLo53XKF9Ak=
+
+Name: assets/game/pet_butterfly.rttex
+SHA1-Digest: rfHymfWWnHzgLvi+WHPQuejVGEI=
+
+Name: assets/game/st_asec_back.rttex
+SHA1-Digest: +tdG0mBowavlHE1yp86S40GUa50=
+
+Name: assets/audio/bubble_boil.wav
+SHA1-Digest: iixquolLMgCN/QKXptxU7oVDpLQ=
+
+Name: assets/game/cp_bcap.rttex
+SHA1-Digest: Kv8TjBvkjBL3umBpb/7Sbvo8Uw4=
+
+Name: assets/audio/notes/drum_4.wav
+SHA1-Digest: 4MR5b8yIkVpvWeJxJ7nxdtEEaqU=
+
+Name: assets/interface/large/store_buttons/store_buttons17.rttex
+SHA1-Digest: vmzlmgGddz+fCUevYGZTF3DGzgk=
+
+Name: assets/audio/notes/lyre_13.wav
+SHA1-Digest: dYPhYz9+Cg3wljVpqeJdyMpwGBg=
+
+Name: assets/game/player_eyes.rttex
+SHA1-Digest: nqF3HWbqqarqaAJA0yKch9L7eHU=
+
+Name: assets/audio/dialog_cancel.wav
+SHA1-Digest: 5KWdot8YmRBFq93PqLbN4w3AMnw=
+
+Name: assets/audio/levelup.wav
+SHA1-Digest: p+qG6QRV+7n8gobY9z4FdbHsicM=
+
+Name: assets/audio/notes/sax_2.wav
+SHA1-Digest: rV7IH3xd+/SkCgXFuGr2kLmS+Qg=
+
+Name: assets/game/mtn_skybg.rttex
+SHA1-Digest: +yHo0OyHMoHoz2GHVpGEaLfLL+4=
+
+Name: assets/interface/flags/kr.rttex
+SHA1-Digest: /KRwKpG0LlMi3YDWfDYt6IfU2L4=
+
+Name: assets/game/wn_quaa.rttex
+SHA1-Digest: X2c1Av2XJdOONkrJTz6Ki0gnCl8=
+
+Name: assets/audio/punch_organic.wav
+SHA1-Digest: 7AonBQFVUqBZ046J/wa0o0uGh6o=
+
+Name: assets/interface/flags/ng.rttex
+SHA1-Digest: rOG3yPOHwesiDL1CbZKJUeLzuKU=
+
+Name: assets/game/jungle_fern.rttex
+SHA1-Digest: nhE/UuDYC7KJrlN/5NOBefDgvX4=
+
+Name: assets/audio/cracker_bang.wav
+SHA1-Digest: Ws9gaxkkxC6b6SKDObEM5DaLN4Q=
+
+Name: assets/interface/large/store_buttons/store_buttons16.rttex
+SHA1-Digest: dRwpmzTOUzLyVHVjuLh/hyHj8O8=
+
+Name: assets/game/p_wghs.rttex
+SHA1-Digest: 3VtguyEqAGt2ovIMgJV1kXyjBxY=
+
+Name: assets/game/pets/p_tononab.rttex
+SHA1-Digest: XsNTGxWPOmTcI8okym0uy5ajl1M=
+
+Name: assets/interface/tutorial/tut00_growpedia.rttex
+SHA1-Digest: y4j5GWN+dxamVbRIubb+2tIjaLs=
+
+Name: assets/audio/notes/violin_24.wav
+SHA1-Digest: B+Ur0lV3ZGJZaNAJ9Fe/303V8x0=
+
+Name: assets/game/gui_box_white.rttex
+SHA1-Digest: 1JN60ddbgL1WsaylxkQPlavipZw=
+
+Name: assets/game/player_hater.rttex
+SHA1-Digest: GroY29YXYh5Z2NIsDhheSrAST6Q=
+
+Name: assets/game/jungle_tree02.rttex
+SHA1-Digest: V+tefHrBaACujakPOySFTS248P4=
+
+Name: assets/audio/notes/spanish_guitar_23.wav
+SHA1-Digest: 8kYHp0nYuVw6f1j/9sMdpx7Zvhg=
+
+Name: assets/audio/ogg/digital_rain.ogg
+SHA1-Digest: QDiYr0doKlKOfepKrw0yJy3i/2Y=
+
+Name: assets/game/st_asec_bg.rttex
+SHA1-Digest: XH5+uDjNV5potTqlWtXVBz73628=
+
+Name: assets/game/pets/p_tuc.rttex
+SHA1-Digest: hXQfv6Seyu47CG/qupY5hVC6JvE=
+
+Name: assets/game/mars_back.rttex
+SHA1-Digest: T/QGDnt2mCYvqvsch5D/mq1nkbk=
+
+Name: assets/game/pdk_goes.rttex
+SHA1-Digest: uemAH5CNheYZKvCz8zH1BcjfXBo=
+
+Name: assets/game/player_faceitem7_icon.rttex
+SHA1-Digest: ZtiyII15sMCD/91Z7SouMlb7bL4=
+
+Name: assets/interface/large/store_buttons3.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/st_dsec_back.rttex
+SHA1-Digest: yG2NKca6mz1bdlhS/COUF9nrG/Q=
+
+Name: assets/audio/ogg/party.ogg
+SHA1-Digest: XJavNVaHel/hgbR0IxLHv8yOizo=
+
+Name: assets/audio/notes/sax_19.wav
+SHA1-Digest: EUXK503dQC2jZ9b6V2HKCs9UUXU=
+
+Name: assets/interface/large/wtr_lvl2_wjcxuy.rttex
+SHA1-Digest: k0XCXc8Zb5aL85O4k/Y00J3iCdk=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: XgPcGzEEe+lLtUcp1fLm8Y+QEH8=
+
+Name: assets/audio/notes/violin_18.wav
+SHA1-Digest: A0NmTKGwa8W/jnlVX/89NR7ZN3M=
+
+Name: assets/game/pets/p_lnyrta.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/game/player_hair3.rttex
+SHA1-Digest: Rv3zWgfQQ7rrUIkAQy4lNeP7RDo=
+
+Name: assets/game/pets/p_firy.rttex
+SHA1-Digest: Slf8weVzFtgI/sel05Vjy4+VsqA=
+
+Name: assets/interface/large/store_buttons4.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/groch_l.rttex
+SHA1-Digest: ltQ7Eg5ZHS19qfMGWf/duswbNmc=
+
+Name: assets/interface/icon_font_0.rttex
+SHA1-Digest: GXjvZ3ruwo3lcrbFj+TWivr+JJw=
+
+Name: assets/game/player_shirt.rttex
+SHA1-Digest: iWzLyY2lGHD4/0SI34lYiD1mUJE=
+
+Name: assets/game/particles_large1.rttex
+SHA1-Digest: QyyUXDewRyBDHTp/WH+hZmxv5qM=
+
+Name: assets/audio/notes/flute_8.wav
+SHA1-Digest: 6sQxpUbjZ/nc6ifyXwc5Q8CduGw=
+
+Name: assets/interface/flags/gn.rttex
+SHA1-Digest: miAawX9k7mqW+miovoPfifgkra0=
+
+Name: assets/game/pek_poliber.rttex
+SHA1-Digest: Z3DR60uSeduOqp4lk8ZtZz/BLBs=
+
+Name: assets/interface/handle_up.rttex
+SHA1-Digest: rV+yoyiaKg6sjuZwdKd4wHFENEY=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: wV7DZH8MieTkLhcwt33N+CplH48=
+
+Name: assets/interface/flags/kn.rttex
+SHA1-Digest: bhsFfCKmw+AoUrRg3n+1hYc0i1Y=
+
+Name: assets/interface/large/store_buttons17.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/large/store_buttons5.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/prez.rttex
+SHA1-Digest: DusGYGhMNreVHJ6qZJwapM4Ge4E=
+
+Name: assets/game/player_handitem4_icon.rttex
+SHA1-Digest: rJXpc/tYKoOUHeMld1JbMAmivsk=
+
+Name: assets/game/hills1.rttex
+SHA1-Digest: m+hleyY0RX6eT+IOHvTJYpP4A+4=
+
+Name: assets/interface/tutorial/tut_store.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/game/st_caura.rttex
+SHA1-Digest: 52BER5RZ7aPn/h0Wm0m+Q1m3hNw=
+
+Name: res/layout/header_comments_view.xml
+SHA1-Digest: qrSgQh3sbYb+o0/v1i5y/KaRYmE=
+
+Name: assets/interface/flags/nf.rttex
+SHA1-Digest: rusnu8sj6sg0SV+8L5nRFYXK2k4=
+
+Name: res/layout/item_user_suggestion.xml
+SHA1-Digest: /Q+0HC0xDK3mUKnscrGAFa9TK2M=
+
+Name: assets/game/player_shirt_monthly1_icon.rttex
+SHA1-Digest: dvHuMJGACTLdqGwNIGi0QP2wk5k=
+
+Name: assets/game/player_chestitem_icon.rttex
+SHA1-Digest: NyHUPk2yyWh6kRmtjurMG6cNxhY=
+
+Name: assets/audio/ogg/boombox.ogg
+SHA1-Digest: Cr7NTgJCwV2FLHoz58BogOWJx6k=
+
+Name: assets/game/shamrock_3.rttex
+SHA1-Digest: +/s6iI6Z3GDw/2qcy/5bwuWnVFA=
+
+Name: assets/interface/large/store_buttons/store_buttons15.rttex
+SHA1-Digest: 2ZATTuMmBewQ/VouzuB66ejpHHw=
+
+Name: assets/audio/ogg/love_birds.ogg
+SHA1-Digest: TF41FjAAGvvBtP0hK/+E+kOoCqY=
+
+Name: assets/audio/heart.wav
+SHA1-Digest: HzHvCx9nH7TllAA4NL8WGg+le3o=
+
+Name: assets/interface/flags/ki.rttex
+SHA1-Digest: KElJAfbvCxAp15OZyfr0wj4m9tU=
+
+Name: assets/audio/notes/piano_6.wav
+SHA1-Digest: fARI6QQmqDfguqpL1d4h7pKylmU=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: hCVNMkzKzAMD4/EBoF/XaeXZCtU=
+
+Name: assets/game/port2_virik.rttex
+SHA1-Digest: J3UBnKBKCQrfIrkeewAOcCDI5uE=
+
+Name: assets/game/pfawks.rttex
+SHA1-Digest: 8t3EvQ6f+/zAiTXJxtvYajHiSBM=
+
+Name: assets/audio/ogg/theme.ogg
+SHA1-Digest: NJjoM3zUoVI/M1r78ggjcR2Wgzo=
+
+Name: assets/audio/jet_engine02.wav
+SHA1-Digest: tARDLEpMFRoPIIryxEUt79lFgH4=
+
+Name: assets/audio/notes/electric_guitar_0.wav
+SHA1-Digest: zVanXsYjDQL0dhdkJDYPretQMks=
+
+Name: assets/game/float_land3.rttex
+SHA1-Digest: xEsFNuKu33f7c5lRqMIw1oO6y7c=
+
+Name: assets/interface/flags/am.rttex
+SHA1-Digest: TS1PIpRgRkSMJVv1pcTbstaIoqI=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn05.rt
+ tex
+SHA1-Digest: qRLB0ti/2F4PXvM8eikgETVK/eU=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: SqgRqZbdGBJEu7lUHm42hHynn0g=
+
+Name: assets/audio/notes/spanish_guitar_14.wav
+SHA1-Digest: uOL41fcUoJuBeqqBIDIHQmwBRVA=
+
+Name: assets/interface/flags/np.rttex
+SHA1-Digest: 13FcIGQId4rD1P9CIYRw1iQ1vTY=
+
+Name: assets/audio/notes/lyre_15.wav
+SHA1-Digest: a08XqpTnh0wDAT6UUbN5msfbTGc=
+
+Name: assets/game/gui_box_upwhite.rttex
+SHA1-Digest: WxSx02Fj1v8HWW4dbvhL8EpoRsw=
+
+Name: assets/interface/flags/scotland.rttex
+SHA1-Digest: MKGZ4rJMrIRK9BbHKqLb02vajEs=
+
+Name: assets/audio/forcefield.wav
+SHA1-Digest: Wc9opfLrYWLb9xWeUn3xSnzHcfg=
+
+Name: assets/audio/wheel.wav
+SHA1-Digest: XmLYlDCUeXvnzXBdVyvqOHAN7vs=
+
+Name: assets/game/w_heart_03.rttex
+SHA1-Digest: da6Pt/oyi6gVp3XjZHH2TE7IaIg=
+
+Name: assets/game/migro.rttex
+SHA1-Digest: sRePR1xk8InbsrmS6XA0sjq+/aM=
+
+Name: assets/game/player_feet8_icon.rttex
+SHA1-Digest: Gv2sPweURywZQPpb+wI+rEl5ne8=
+
+Name: assets/game/vilpix.rttex
+SHA1-Digest: UGHttbdiHDqy6QBN9/V/AHVcE9U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: Noiywwn1pSf8ayhUks4dryxUEdM=
+
+Name: assets/interface/flags/de.rttex
+SHA1-Digest: fFHq9w4u/Wwwup2Ay1G7XzQK/tM=
+
+Name: assets/interface/large/anni_plu.rttex
+SHA1-Digest: 2C3DAmTSvOobb/TkjPLCTQrobqI=
+
+Name: res/layout-v17/sectionheader_notificationcenter.xml
+SHA1-Digest: gga24xjfbgdVrgLYAmRTkL+RkgY=
+
+Name: assets/audio/fr4.wav
+SHA1-Digest: FLhr9itjNTZn5azKhnpbuOLyvCg=
+
+Name: assets/audio/notes/festive_17.wav
+SHA1-Digest: mAfMXfk5YLWhcV0Fh4EGBTY4Zpo=
+
+Name: assets/interface/large/store_buttons10.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/city_skyline.rttex
+SHA1-Digest: BRR/UYGThFV5v7C/puDFjDYiC8c=
+
+Name: assets/audio/notes/spanish_guitar_7.wav
+SHA1-Digest: dNgISdion13B4yTuLlAihwPo85I=
+
+Name: assets/game/blogox.rttex
+SHA1-Digest: yFtxra9PbO7aRYxjzKo2i0GVhzI=
+
+Name: assets/game/pets/p_cndr.rttex
+SHA1-Digest: K5U/va6UlSpMHP/t0HZyX+/Walo=
+
+Name: assets/game/player_longhanditem2_icon.rttex
+SHA1-Digest: xvKiBwLE8E7BFiEYLikmgN4kYfw=
+
+Name: assets/game/player_severedhead.rttex
+SHA1-Digest: EXR6z6h2r2aPipIRjD+5Ux+iR64=
+
+Name: assets/game/pih_mimi.rttex
+SHA1-Digest: O2tBid7jihrYAWTARrolyNzm8v0=
+
+Name: assets/audio/metal_destroy.wav
+SHA1-Digest: RrbjxDCHQRtRo/m2xdt+eXYDaek=
+
+Name: assets/interface/flags/gu.rttex
+SHA1-Digest: +nDnvIbcj4OOxC7hCGs0VfVqQro=
+
+Name: assets/game/mtn_vulbg3.rttex
+SHA1-Digest: EboGFr5pjpehArlRqTsMIp7awFw=
+
+Name: assets/game/player_feet6.rttex
+SHA1-Digest: Mq3lcS4OZAb3EfYG0YOxRMpwl80=
+
+Name: assets/audio/boo_evil_laugh.wav
+SHA1-Digest: zDWG4llswsqlfbDl9ZCl4c87wVk=
+
+Name: res/color/common_plus_signin_btn_text_dark.xml
+SHA1-Digest: vBov2BWzGwsh7UArz5mv/4Uo4N0=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: fXt8H+5IDSXHVBgahCLOjtKPYVM=
+
+Name: assets/game/drain_skybg.rttex
+SHA1-Digest: 4j2IhYCPQHRVK6jmlmsTr2OfE0U=
+
+Name: assets/game/pets/p_dungcab.rttex
+SHA1-Digest: ikPx1bA/h6KkgJNhuxoH9r39MOM=
+
+Name: assets/interface/flags/dj.rttex
+SHA1-Digest: GlKMBMA3NXj7ZxVFNyvm1WW67BM=
+
+Name: assets/interface/large/promotion.rttex
+SHA1-Digest: /hf2w7EqTzIpGziYTFe43vq5yg0=
+
+Name: assets/interface/tutorial/tut_worlds.rttex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/audio/notes/flute_24.wav
+SHA1-Digest: wiMZbIY7qh2DOVTKT4aqrymbvI8=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: cEujmg9S02r4XGVxLLvwsVAQbPI=
+
+Name: assets/interface/large/store_buttons15.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/moon2.rttex
+SHA1-Digest: +rmoAyea7wG0cOd0TPQd+yi7BeU=
+
+Name: assets/game/io_wav.rttex
+SHA1-Digest: iSqfKaZObSm02o8BapmDHcwMhh4=
+
+Name: assets/audio/notes/lyre_2.wav
+SHA1-Digest: potkUKIOILP0GqXDNb9KVkb72JQ=
+
+Name: assets/game/mono_sun.rttex
+SHA1-Digest: 9tuUqRZ3lqKl5SnG3zBgyttTz30=
+
+Name: assets/game/lkat.rttex
+SHA1-Digest: mYUh0E+26vf/07J4OX2jiAcOG6Q=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9
+ .png
+SHA1-Digest: 8ms2/Gwd1Au7bTnSJKr/88YbDFs=
+
+Name: assets/audio/lb_sfx2.wav
+SHA1-Digest: sjE582oujCS/ZPzu2/3dokp5MeY=
+
+Name: assets/game/pets/p_pishp.rttex
+SHA1-Digest: Wph1uJXUwg/bFOX0l0CSG9sNbG0=
+
+Name: assets/interface/tutorial/tut10_splice_seeds.rttex
+SHA1-Digest: HuvVPn7BKvdea/uYCjez3ZA4IDM=
+
+Name: assets/interface/large/store_buttons12.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/game/pet_lok.rttex
+SHA1-Digest: TlqkJgbfiu4t5BdbUJaAuEVQkG0=
+
+Name: assets/game/pl_birri.rttex
+SHA1-Digest: 3u6tkq3NSK6v7Kf+dVValBiu0RA=
+
+Name: assets/interface/flags/gs.rttex
+SHA1-Digest: pCU+RlCteu3oB8cHc1uPQ2wJvR4=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn02.rt
+ tex
+SHA1-Digest: fLObOzw2II4rvy3Nhj0EodIjM2A=
+
+Name: assets/game/ghast.rttex
+SHA1-Digest: FkY3nO4V4FbAVTB5KhJmq+Gajcg=
+
+Name: assets/interface/large/slobby_aprs.rttex
+SHA1-Digest: w5mY2+dTp+tzjudFNyc/+6/YWkM=
+
+Name: assets/game/desert_hills2.rttex
+SHA1-Digest: CXrwEMN2SoYLD/PGzhyGbmtuE/0=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.
+ png
+SHA1-Digest: hC9eYfkTxFG5E7FNn9FYJyIbjtY=
+
+Name: assets/interface/flags/nz.rttex
+SHA1-Digest: WGAljPOvbG//oUdvgsZs7k/bPh0=
+
+Name: assets/game/pets/p_oats.rttex
+SHA1-Digest: Ml4A0Sraf1aeyN8hdNx7fmze0iM=
+
+Name: assets/game/io_rif_icon.rttex
+SHA1-Digest: egLpRYJIvOn5XM/9RIHYO9snnUk=
+
+Name: assets/audio/notes/sax_17.wav
+SHA1-Digest: aMq7Oo+KogxSK5q0EcZD6vDs7eU=
+
+Name: assets/interface/large/store_buttons/store_buttons10.rttex
+SHA1-Digest: hN8meLI/gyOzveYpxvix/6IFDqU=
+
+Name: assets/interface/tutorial/tut_broadcasts.rttex
+SHA1-Digest: GEtKfTW7Qy224XeZBV63r3U4UnA=
+
+Name: assets/audio/notes/violin_22.wav
+SHA1-Digest: BR5Uty7WQoQMdxRD+yPiCEOB+vE=
+
+Name: assets/game/sun.rttex
+SHA1-Digest: KPHgmijq4FhsuCkVdTgUuF66Cbg=
+
+Name: assets/game/player_pants.rttex
+SHA1-Digest: zhm4WPzSIzeFUYPJadL3ciGaLM0=
+
+Name: assets/game/mtn_1.rttex
+SHA1-Digest: kA9cEMQAEvQupfWY18fcFoqyUQQ=
+
+Name: assets/game/player_longhanditem1.rttex
+SHA1-Digest: L/LYwkWL7uSTN1NL51tTlRHZmfQ=
+
+Name: res/layout/contentview_comments.xml
+SHA1-Digest: 4Iann8RPbBhiL4X/cdqrM0C68Qk=
+
+Name: assets/game/mtn_vulbg1.rttex
+SHA1-Digest: JJhvin1G0tHG7i68Jo2NM2Q7FLA=
+
+Name: assets/audio/notes/piano_16.wav
+SHA1-Digest: P7JA7B0BGchUPod0Xi5kSxq5jtg=
+
+Name: assets/audio/notes/sax_8.wav
+SHA1-Digest: PMl3uOvjUUwwYt1mc+pz5g3MfrI=
+
+Name: assets/interface/large/gui_store_title_featured.rttex
+SHA1-Digest: ru+uf4wLX8K+2Kvy8DDaDj+D47g=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: 6+XntQtyo07MAVuaSF3AZGvx0Vo=
+
+Name: assets/game/player_feet4.rttex
+SHA1-Digest: 0h3/f2ZphL/M3dD7PhlOFJsCqDw=
+
+Name: assets/shaders/android/essl/VertexColoredTexture.vs.bin
+SHA1-Digest: vnqI9U9nNyV+JWtGfZWh6+HTXfo=
+
+Name: assets/game/peter.rttex
+SHA1-Digest: 7YK64sWEzbGmOHrXGf2ykc2W/Nw=
+
+Name: assets/audio/dry_tick.wav
+SHA1-Digest: FL8lG7+s7c5w//ujvaZxyCWT8Cs=
+
+Name: assets/audio/gauntlet_spawn.wav
+SHA1-Digest: LjMemTC1O2M3B1jswL+R2qi3XXo=
+
+Name: assets/game/player_hairhair.rttex
+SHA1-Digest: WDA808NK+DRJ7U5s/plqugA7osg=
+
+Name: assets/interface/tutorial/tut_trees.rttex
+SHA1-Digest: g08Xxer4OTyoTtwjncW20nhY7SY=
+
+Name: assets/audio/ionic_pulse.wav
+SHA1-Digest: A6fBaWD/Z/ThrM2YmZlA/VMReyI=
+
+Name: assets/game/pih_angfi.rttex
+SHA1-Digest: 4TEuDT4Mn9nGUujbFQAaqpRjCYM=
+
+Name: assets/game/float_clouds10.rttex
+SHA1-Digest: 4nCF7zHbLLJg+xj8XJJ/T7RWJEQ=
+
+Name: assets/interface/large/store_buttons14.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: FpRAuj+axrxPqJd+dZnOvP7n8Xs=
+
+Name: assets/game/player_feet2.rttex
+SHA1-Digest: CIAnLlak6+baw3/RaAHH94a6L/k=
+
+Name: assets/audio/notes/violin_1.wav
+SHA1-Digest: eTlQwjx0Uy5BctKaLwEWFI8KpwY=
+
+Name: assets/game/gui_box.rttex
+SHA1-Digest: o/pvEhTLdKtxGBPNkgUvR649h8E=
+
+Name: assets/game/w_heart_01.rttex
+SHA1-Digest: 2pMjIXqZADCsgMEzRIvdTB3D0yE=
+
+Name: assets/audio/firework1.wav
+SHA1-Digest: sRBV6v0D3TRbfrEAJ7HvWDP1n0M=
+
+Name: assets/game/shamrock_6.rttex
+SHA1-Digest: qSeKk0KU1GQlb39wfsenq6EuR50=
+
+Name: assets/audio/notes/piano_8.wav
+SHA1-Digest: O8/26nNhlNRYoS5eHtRMVSdrGe8=
+
+Name: res/layout-v17/placeholder_view.xml
+SHA1-Digest: qlFAHLY/jmGQBUw7Yl19ON1sMxE=
+
+Name: assets/game/ld_back.rttex
+SHA1-Digest: 01OxUckFvlTZozDlpSVjzrxe+1I=
+
+Name: assets/game/player_hair4_icon.rttex
+SHA1-Digest: zkGq4y82xwI2iGYxmclXzdBhkAg=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn03.rt
+ tex
+SHA1-Digest: YsyYSK1Rid02CrFrIaKCPiGWNaU=
+
+Name: assets/audio/fireball.wav
+SHA1-Digest: B3N8BPsNO7r8r8WmGhVDAjHSWrY=
+
+Name: assets/game/pott_blakat2.rttex
+SHA1-Digest: 4J6O5635HD4Xf67AiZq6azJMTUA=
+
+Name: assets/audio/ogg/campfire.ogg
+SHA1-Digest: 2HzFMrR6Y/gqyHMY8IDVe53Ef1s=
+
+Name: assets/game/icebg_skybg.rttex
+SHA1-Digest: MEOux2a9Q5DkmN6NU7h0SE7TXRE=
+
+Name: assets/audio/boo_power_node.wav
+SHA1-Digest: boZvGOWSvtadUSz+Jru1P1+9S4U=
+
+Name: assets/audio/spell1.wav
+SHA1-Digest: z5T2Pu/OMvsagb/nanAvYB1xFVU=
+
+Name: assets/audio/fr2.wav
+SHA1-Digest: 5NSKyLlayy58ifY3J/oSbZeBnkw=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: OA0Fce69H4xvHHf2U1Bxe3VntiA=
+
+Name: assets/interface/flags/ae.rttex
+SHA1-Digest: V08whbwI1NxXH+3V7WSSsE9/M+s=
+
+Name: assets/game/float_land1.rttex
+SHA1-Digest: AMChUGXf47thZ9bQUAxPhpuQHC0=
+
+Name: assets/interface/large/btn_hit.rttex
+SHA1-Digest: e72PuFnABB05VVfS+A1cLpxE9lE=
+
+Name: assets/game/port_virik3.rttex
+SHA1-Digest: 8gLeg/JQFDWdXuv+wHCS6R+itAM=
+
+Name: assets/game/pott_pukat.rttex
+SHA1-Digest: TppBnv2rpIyc2w6SoAXORcBqIk0=
+
+Name: assets/game/sf_pnxcaf.rttex
+SHA1-Digest: dUttAulID5ldbAC4Ln3unvVE/t0=
+
+Name: assets/audio/fire.wav
+SHA1-Digest: eeLf1gF5mMMX3fWpBTEq3GKej+w=
+
+Name: assets/audio/notes/sax_15.wav
+SHA1-Digest: VMT4JEbRkDhYh665yhnYJlTW8UY=
+
+Name: assets/game/mtn_vulbg4.rttex
+SHA1-Digest: D3iK4s+FGUvTJz8phWK8/CG1UcQ=
+
+Name: assets/game/float_clouds11.rttex
+SHA1-Digest: li9HXQApm81LdfGOplJaRmuR9BM=
+
+Name: assets/game/player_eyes2.rttex
+SHA1-Digest: P6C0yNJTBxZoNeccWVGRspo8beE=
+
+Name: assets/game/w_heart_02.rttex
+SHA1-Digest: Yy+R249MgaYvG0OocIv4/9PMnl0=
+
+Name: assets/interface/flags/ke.rttex
+SHA1-Digest: L2NZ0PXFGDw8PPOTAYT7bZ0+QM0=
+
+Name: assets/audio/notes/bass_18.wav
+SHA1-Digest: 3010blgvjwB2TNfcuKJLUvl36wI=
+
+Name: assets/game/mi_minbot_icon.rttex
+SHA1-Digest: Uxxx0BQBtNtsGkw07hI6Aymb4B4=
+
+Name: assets/game/groch_a.rttex
+SHA1-Digest: DZwPXc+7M/2VdoTwqmDH30OXioA=
+
+Name: assets/interface/flags/dm.rttex
+SHA1-Digest: As8ZVleEP+1WrikJKQpV5Rx6qFo=
+
+Name: assets/interface/flags/af.rttex
+SHA1-Digest: 7PImG0Tbk+UOJ5Cs4IqTu2JH7ys=
+
+Name: assets/audio/notes/lyre_17.wav
+SHA1-Digest: JFFyJSGPuQt3ppbcMhvN45HUsGY=
+
+Name: assets/audio/startopia_tool_droid.wav
+SHA1-Digest: xafCtfnlyUFrnKlegKs0KkGa/Hs=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9
+ .png
+SHA1-Digest: 8V1R7TgGYVuEAY/mXhp/b1ASyQw=
+
+Name: assets/audio/notes/spanish_guitar_9.wav
+SHA1-Digest: nmnwOS0M9mrMSKMKgd85y2tfOsk=
+
+Name: assets/audio/notes/electric_guitar_2.wav
+SHA1-Digest: O871Is5G0v+CcRCLbupGHL28s5c=
+
+Name: assets/game/pe_dyra.rttex
+SHA1-Digest: J2vlGzVbJ3trIvcJxgocW76xG9k=
+
+Name: assets/game/pets/p_idodr.rttex
+SHA1-Digest: 5g/yXGiUaUwlHAYVy0caNXgqUbE=
+
+Name: assets/game/mtn_3.rttex
+SHA1-Digest: JbNqRrDQQ/Zb6ROnOIlxayaT8FY=
+
+Name: assets/game/st_dsec_mid1.rttex
+SHA1-Digest: 8YduSWql36sJcIGRVq8MeL2ZJek=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: taRSYLBzGbfn0woTXTpsfJrRM9Y=
+
+Name: assets/game/pets/p_lnyhrso.rttex
+SHA1-Digest: AcioxIMvasLQiUSvcb27AymA+qE=
+
+Name: assets/game/pets/p_mearic.rttex
+SHA1-Digest: rY6LmKjnoDtREyibWUPKMJfwowc=
+
+Name: assets/interface/large/help_buttons.rttex
+SHA1-Digest: 5fVpA2Na0ndeW/8sf8iX4+Vz5FA=
+
+Name: assets/game/float_land2.rttex
+SHA1-Digest: 0dZBQeXCM3WCc+Z/IqGtETApCUA=
+
+Name: assets/game/pets/p_siptuk.rttex
+SHA1-Digest: Ga+dUA3bHy1PQOzrvw4w2ix+iDI=
+
+Name: assets/interface/large/btn_shop2.rttex
+SHA1-Digest: TCORAXbYPY1MwaL0q6bSEa4Zr3c=
+
+Name: assets/interface/flags/gw.rttex
+SHA1-Digest: Nqf3w89k+YYjI6i256V/NdPHP2U=
+
+Name: assets/game/jungle_grass.rttex
+SHA1-Digest: DZuPHcAfTLWUrFsx0rNpcQhqn98=
+
+Name: assets/game/shamrock_5.rttex
+SHA1-Digest: LIyliP7ArufMV5/kKzYejjWqdOw=
+
+Name: assets/game/groch_b.rttex
+SHA1-Digest: fFosUd63UJAD01MkjYzkh3S0Sv8=
+
+Name: assets/interface/flags/no.rttex
+SHA1-Digest: ixlniPI2EPRRM7e0ICUtr50lzak=
+
+Name: assets/interface/flags/ug.rttex
+SHA1-Digest: /LDSGyTyDyGKZ1HdzBFLTlNW5/8=
+
+Name: assets/game/st_dsec_mid2.rttex
+SHA1-Digest: E6KBaDpb6WxW/sbPBEhdR3LjNNo=
+
+Name: assets/interface/flags/ad.rttex
+SHA1-Digest: p4k+w7VAUvJBG49m1FXNGVRIm1E=
+
+Name: assets/game/shamrock_2.rttex
+SHA1-Digest: PzrTtzcsRfDCLd35FV8pzeSI6es=
+
+Name: assets/game/io_pgwn.rttex
+SHA1-Digest: 6vGtWa7HO6CwrmBEoKwNh1QNkZQ=
+
+Name: assets/audio/notes/lyre_4.wav
+SHA1-Digest: JL1WCutEYTouTmI1ugA9c7pYijc=
+
+Name: assets/audio/notes/violin_20.wav
+SHA1-Digest: M+VR8v7gKeufxQ0nSxJOhJmrAnQ=
+
+Name: assets/interface/large/gui_sn0.rttex
+SHA1-Digest: xodop5YDsGCKmH2HJOTIcFbt+nc=
+
+Name: assets/interface/flags/um.rttex
+SHA1-Digest: ykd38/dNyRXolk5Z+W3QMvPEnzw=
+
+Name: assets/audio/ogg/battle_theme_loop.ogg
+SHA1-Digest: /zefCC7y54hqgy4L0MNxssa4Yxg=
+
+Name: assets/interface/hommel.rttex
+SHA1-Digest: sgFXRjrtzH51XUeQDrS/JxmUo4Q=
+
+Name: assets/interface/logo_188.rttex
+SHA1-Digest: 8flruW11ayYModomDg1lerSo2i8=
+
+Name: assets/game/ev_aw.rttex
+SHA1-Digest: S+SYnheCkvjdSrC2C2dMCSsSwFY=
+
+Name: assets/game/es_egchmp.rttex
+SHA1-Digest: xFCJSKoB7fAS/P0wELEgv2Pu3sw=
+
+Name: assets/interface/flags/nu.rttex
+SHA1-Digest: tgIckDyuX3xOlfFH+jf1jE8f+0U=
+
+Name: assets/game/pets/pt_ddgo.rttex
+SHA1-Digest: QRU8av8acyuVx+HZrv5JK1FyMMs=
+
+Name: assets/audio/notes/piano_18.wav
+SHA1-Digest: cZYQZhJxKUxgXBHt61vJ6wwRKio=
+
+Name: res/drawable/rounded_corners_drawable.xml
+SHA1-Digest: 1PD78ZsZ8R0yQY7TNM5usugogK4=
+
+Name: assets/game/es_egchmp_icon.rttex
+SHA1-Digest: vgRwuhJBConYXswwCxqfkjUbwqc=
+
+Name: assets/interface/large/store_buttons18.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9
+ .png
+SHA1-Digest: sZqby4MusXZehKQm40YSWVA9Q64=
+
+Name: assets/interface/checkbox.rttex
+SHA1-Digest: ir7V64ctExvqJX3RRXEKOZSsqdY=
+
+Name: assets/game/p2_oll.rttex
+SHA1-Digest: Seen8MnNW0Sr1lkh7pYCkoeBwIo=
+
+Name: assets/audio/notes/flute_11.wav
+SHA1-Digest: J77tURxjFZ62vgyl1x5PLYweR64=
+
+Name: assets/audio/notes/spanish_guitar_12.wav
+SHA1-Digest: RnlyjEyK8sRnV/K2Uw3hJksECfU=
+
+Name: assets/game/hills1_monochrome.rttex
+SHA1-Digest: hyV9+zNqzFK/y329hegXUCPW31g=
+
+Name: assets/game/city_clouds3.rttex
+SHA1-Digest: w33dejUJOeg5De+57ct1yQJ8JGg=
+
+Name: assets/game/player_head_sleep.rttex
+SHA1-Digest: na6n0LrMhMOtkyMzMFSpK7zuiWM=
+
+Name: assets/game/pot_boogy.rttex
+SHA1-Digest: AJH/KZ+ub4y0wYO3QkjOhqUJ3Tg=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: Qt6sVzAEEKilEQe9vyt8o/vXVH8=
+
+Name: assets/game/w_heart_05.rttex
+SHA1-Digest: 8NhjvVZSafbPuBaxWLvu+anXp8o=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn07.rt
+ tex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/game/pets/p_acers.rttex
+SHA1-Digest: 51/q2w3gErEfmix4RXu7Rt62ao8=
+
+Name: res/layout/item_activity_post.xml
+SHA1-Digest: wF4KI/f72K3G6CtMKl4MgC9r0Pc=
+
+Name: assets/game/city_clouds2.rttex
+SHA1-Digest: kY0eDattnUZbuJC1KzaQx2uDDvs=
+
+Name: assets/game/sp_tran.rttex
+SHA1-Digest: 6EhRyVCKyHFm5OHE/3xWtoAJM78=
+
+Name: assets/game/warp_back.rttex
+SHA1-Digest: WxcQS7fHiDc3R23KSm0a07jZZuY=
+
+Name: assets/game/player_feet3_icon.rttex
+SHA1-Digest: myZXhtsY8mVZkO0rXj/e40kC+u8=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn09.rt
+ tex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/audio/notes/sax_6.wav
+SHA1-Digest: Xu6RYjT0DHia4pOfHqQnVTUlgR4=
+
+Name: assets/game/pih_tacish.rttex
+SHA1-Digest: Qa2MzWDLyyXEnrGI8WEPM4MYFK8=
+
+Name: res/drawable-xxxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: EfOIarswSOko4de//2CMheMHxQI=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabl
+ ed.9.png
+SHA1-Digest: FcDGU/nNS6XDsXmwlksqjH9Av/A=
+
+Name: assets/game/w_heart_06.rttex
+SHA1-Digest: cO7PAcXCNOHAY71KJdBr3y/4pHs=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disable
+ d.9.png
+SHA1-Digest: FCJwIKpdmnC2D0QlHLYZp0ia32s=
+
+Name: assets/interface/flags/kh.rttex
+SHA1-Digest: ss2f9y9Bigon2DmAqtWjq4vASaI=
+
+Name: assets/audio/ogg/death_metal_radio.ogg
+SHA1-Digest: ae3gYQnLQirRVKg6mdhtxfE82L8=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.
+ 9.png
+SHA1-Digest: 3naMCHOP+RpRdxe44anyWz+40jg=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: YEFVlKZ9K2ratbVOnhEhJOrSJ6g=
+
+Name: assets/audio/balloon.wav
+SHA1-Digest: gCzVSgwRt78Me3BATpxevtXCcPg=
+
+Name: assets/game/shamrock_1.rttex
+SHA1-Digest: N4aUOAn2u/8rksvDWJs+vTNgYhY=
+
+Name: assets/interface/large/store_buttons19.rttex
+SHA1-Digest: Y/KVSyzZSeRdAsTx1MPzUGOux1c=
+
+Name: assets/interface/flags/do.rttex
+SHA1-Digest: WrGAqmnGkNVTgPcDNcH9SHDouBw=
+
+Name: assets/interface/large/gazette/gazette_3columns_feature_btn08.rt
+ tex
+SHA1-Digest: Oesj1zaIzDnYz2HHk3sAmbNyZoY=
+
+Name: assets/game/city_clouds1.rttex
+SHA1-Digest: MhQ+8JpMhFl25+KS+fmuxV+nUlw=
+
+Name: assets/game/port_virik2.rttex
+SHA1-Digest: sp4yBza4GyJ9VPu0grHCiaeMBCE=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled
+ .9.png
+SHA1-Digest: 4d4nhetJRBlL/dbIf16J2bmAKXQ=
+
+Name: assets/interface/flags/nr.rttex
+SHA1-Digest: tVP6jESl7tbSnANvif56BM39ZFY=
+
+Name: assets/interface/tutorial/tut_wrench.rttex
+SHA1-Digest: lWDiRy7SXVJyEfvRPLqft0DYhww=
+
+Name: assets/audio/boo_death.wav
+SHA1-Digest: K3DStb0NqMNH6J7Dhc7FDdjdhmw=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disab
+ led.9.png
+SHA1-Digest: 58Og/fmpU60HQnWtVOw7395bTkw=
+
+Name: assets/game/pih_ttuc.rttex
+SHA1-Digest: VBlN/QtyL3hCkO/WfwgopoV8bYU=
+
+Name: assets/interface/flags/kg.rttex
+SHA1-Digest: pOscmHH7I/CcOMif/t23pARKjw0=
+
